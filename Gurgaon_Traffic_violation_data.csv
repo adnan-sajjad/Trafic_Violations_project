@@ -1,0 +1,1001 @@
+Date,Location,Vehicle_Type,Violation_Type,Fine_Amount (₹),Repeat_Offender,Weather_Condition,Time_of_Day,Road_Condition,Driver_Age_Group,Passengers_Count,Traffic_Density,License_Status,Accident_Involved,Speed_Recorded (km/h),Vehicle_Registration_State,Officer_ID,Previous_Violations,Insurance_Penalty (₹),Fine_Payment_Status
+06-05-2024,Huda City Center,Auto-rickshaw,DUI,6867,TRUE,Foggy,Morning,Wet,26-35,2,Low,Valid,TRUE,20,Delhi,3,3,3766,Unpaid
+13-11-2024,Signature Tower Chowk,Car,Red-Light Jump,4380,FALSE,Rainy,Evening,Wet,26-35,3,Medium,Valid,FALSE,4,Haryana,2,3,2013,Paid
+05-08-2024,Udyog Vihar,Auto-rickshaw,DUI,8820,FALSE,Cloudy,Afternoon,Dry,50+,3,Low,Valid,FALSE,38,Delhi,7,2,4757,Unpaid
+05-05-2024,Sikanderpur,Truck,Speeding,4243,FALSE,Cloudy,Morning,Slippery,18-25,5,High,Valid,FALSE,24,Punjab,1,1,1004,Disputed
+18-02-2024,Sector 29,Bus,Red-Light Jump,,FALSE,Clear,Afternoon,Under Construction,36-50,1,Low,Expired,TRUE,29,Haryana,3,1,2859,Disputed
+28-02-2024,Sohna Road near Iris Tech Park,Truck,Wrong-Side Driving,6020,FALSE,Foggy,Morning,Dry,36-50,2,High,Valid,FALSE,77,Haryana,4,3,1489,Disputed
+04-01-2024,IFFCO Chowk,Bus,No Seatbelt,1000,TRUE,Rainy,Evening,Slippery,50+,1,Medium,Expired,TRUE,74,Haryana,6,3,4985,Disputed
+02-08-2024,Sohna Road near Iris Tech Park,Truck,Wrong-Side Driving,2528,TRUE,Foggy,Morning,Under Construction,50+,1,Low,Valid,FALSE,41,Punjab,2,2,3110,Unpaid
+11-07-2024,Sikanderpur,Bike,No Helmet,1000,TRUE,Cloudy,Afternoon,Under Construction,18-25,1,High,Valid,FALSE,31,Haryana,2,2,2737,Paid
+21-09-2024,Sector 29,Truck,No Seatbelt,1000,FALSE,Cloudy,Afternoon,Wet,26-35,3,High,Expired,TRUE,48,Uttar Pradesh,3,1,4468,Disputed
+14-01-2024,Sikanderpur,Truck,DUI,,TRUE,Cloudy,Morning,Slippery,18-25,3,High,Valid,FALSE,76,Punjab,4,3,2687,Paid
+04-02-2024,Sector 29,Auto-rickshaw,No Seatbelt,1000,FALSE,Clear,Afternoon,Slippery,50+,4,Low,Expired,FALSE,8,Punjab,8,1,1096,Unpaid
+03-08-2024,IFFCO Chowk,Car,DUI,9854,FALSE,Rainy,Morning,Wet,18-25,0,Low,Valid,TRUE,17,Punjab,2,1,3582,Unpaid
+26-04-2024,IFFCO Chowk,Auto-rickshaw,No Seatbelt,1000,FALSE,Stormy,Morning,Slippery,50+,2,Low,Expired,TRUE,75,Uttar Pradesh,1,1,1786,Paid
+10-06-2024,Sikanderpur,Bike,DUI,9434,FALSE,Cloudy,Morning,Slippery,36-50,2,High,Suspended,FALSE,58,Rajasthan,7,2,3998,Disputed
+04-08-2024,Sheetala Mata Road,Car,Red-Light Jump,4354,TRUE,Foggy,Evening,Slippery,18-25,5,High,Suspended,FALSE,113,Punjab,8,1,897,Unpaid
+20-07-2024,Sector 29,Bike,Wrong-Side Driving,2068,FALSE,Foggy,Evening,Dry,50+,2,High,Valid,TRUE,30,Uttar Pradesh,6,2,2121,Unpaid
+22-09-2024,Golf Course Road,Auto-rickshaw,Wrong-Side Driving,6322,TRUE,Rainy,Night,Wet,18-25,2,Low,Expired,FALSE,86,Rajasthan,9,3,680,Disputed
+24-11-2024,Signature Tower Chowk,Bike,No Helmet,1000,FALSE,Foggy,Night,Under Construction,50+,3,Low,Valid,TRUE,54,Rajasthan,4,1,1855,Unpaid
+18-02-2024,Signature Tower Chowk,Car,Red-Light Jump,1826,FALSE,Foggy,Morning,Wet,50+,2,High,Valid,FALSE,0,Punjab,10,1,4366,Paid
+04-01-2024,Sector 29,Auto-rickshaw,Speeding,1399,FALSE,Rainy,Evening,Wet,26-35,0,Low,Expired,FALSE,64,Haryana,8,3,1885,Disputed
+01-10-2024,Huda City Center,Auto-rickshaw,Wrong-Side Driving,4594,FALSE,Cloudy,Morning,Dry,36-50,5,Medium,Expired,FALSE,117,Punjab,1,2,4672,Disputed
+22-02-2024,IFFCO Chowk,Car,DUI,6697,FALSE,Foggy,Evening,Dry,26-35,0,Medium,Suspended,FALSE,34,Haryana,7,1,1813,Disputed
+10-01-2024,Manesar Toll,Bus,No Seatbelt,1000,FALSE,Rainy,Evening,Dry,36-50,1,High,Suspended,TRUE,88,Rajasthan,4,2,3829,Disputed
+16-12-2024,Sikanderpur,Bike,No Helmet,1000,FALSE,Rainy,Afternoon,Wet,26-35,3,Low,Suspended,FALSE,107,Delhi,7,3,2747,Unpaid
+22-05-2024,NH-8,Auto-rickshaw,Wrong-Side Driving,7055,FALSE,Rainy,Afternoon,Wet,36-50,4,High,Expired,FALSE,77,Punjab,1,2,2267,Unpaid
+22-02-2024,Sector 29,Bus,Wrong-Side Driving,7566,FALSE,Rainy,Evening,Under Construction,36-50,2,Low,Valid,FALSE,53,Uttar Pradesh,6,1,4310,Unpaid
+12-05-2024,IFFCO Chowk,Truck,Speeding,3247,FALSE,Stormy,Night,Slippery,26-35,0,Low,Suspended,TRUE,10,Delhi,1,3,4182,Unpaid
+08-12-2024,Sohna Road near Iris Tech Park,Car,Red-Light Jump,4179,FALSE,Rainy,Afternoon,Slippery,18-25,5,High,Learner,TRUE,82,Delhi,9,3,3407,Disputed
+19-01-2024,Cyber City,Bus,Wrong-Side Driving,3717,FALSE,Stormy,Evening,Dry,26-35,2,Low,Learner,TRUE,45,Haryana,1,3,1884,Unpaid
+01-12-2024,Cyber City,Bike,Speeding,1111,TRUE,Rainy,Night,Dry,18-25,0,High,Learner,FALSE,10,Punjab,1,1,1384,Paid
+08-09-2024,Sohna Road near Iris Tech Park,Auto-rickshaw,No Seatbelt,1000,TRUE,Stormy,Morning,Wet,36-50,4,High,Suspended,TRUE,101,Haryana,1,3,2076,Unpaid
+24-07-2024,IFFCO Chowk,Bus,Wrong-Side Driving,3921,TRUE,Stormy,Night,Slippery,50+,5,Medium,Learner,FALSE,114,Uttar Pradesh,9,3,1533,Paid
+28-10-2024,Sheetala Mata Road,Bike,DUI,8997,TRUE,Rainy,Night,Slippery,50+,1,Low,Learner,TRUE,23,Delhi,5,3,897,Unpaid
+01-08-2024,Sector 56,Bus,Speeding,3845,TRUE,Foggy,Afternoon,Slippery,50+,26,High,Suspended,TRUE,10,Haryana,5,1,3601,Unpaid
+11-09-2024,Sohna Road near Iris Tech Park,Truck,Wrong-Side Driving,4414,TRUE,Foggy,Morning,Under Construction,26-35,1,Low,Learner,FALSE,95,Delhi,2,3,2160,Paid
+08-08-2024,Sector 56,Bike,No Helmet,1000,TRUE,Foggy,Evening,Wet,18-25,3,Medium,Expired,TRUE,100,Rajasthan,6,2,2261,Disputed
+06-04-2024,Manesar Toll,Truck,Red-Light Jump,2595,FALSE,Cloudy,Morning,Under Construction,50+,4,High,Suspended,TRUE,27,Haryana,7,3,568,Paid
+08-08-2024,IFFCO Chowk,Car,Red-Light Jump,,TRUE,Rainy,Night,Wet,18-25,3,Medium,Suspended,FALSE,107,Uttar Pradesh,7,3,4804,Paid
+23-02-2024,Sikanderpur,Bus,No Seatbelt,1000,FALSE,Foggy,Afternoon,Under Construction,50+,4,High,Learner,TRUE,110,Punjab,9,2,2153,Disputed
+01-02-2024,Manesar Toll,Car,DUI,9515,TRUE,Foggy,Night,Dry,26-35,5,Low,Suspended,FALSE,55,Punjab,4,2,3040,Paid
+27-10-2024,Udyog Vihar,Bike,No Helmet,1000,TRUE,Clear,Evening,Dry,18-25,2,High,Expired,TRUE,43,Haryana,10,2,1396,Unpaid
+11-09-2024,Rajiv Chowk,Auto-rickshaw,Wrong-Side Driving,5187,TRUE,Stormy,Afternoon,Dry,50+,1,Low,Learner,FALSE,16,Uttar Pradesh,10,2,2997,Unpaid
+10-09-2024,MG Road,Auto-rickshaw,No Seatbelt,1000,FALSE,Stormy,Evening,Dry,18-25,3,Low,Valid,FALSE,86,Punjab,8,2,768,Paid
+22-11-2024,Udyog Vihar,Auto-rickshaw,Red-Light Jump,2288,FALSE,Foggy,Afternoon,Dry,50+,4,Low,Valid,FALSE,8,Rajasthan,4,2,4452,Disputed
+15-10-2024,Sohna Road near Iris Tech Park,Bike,Red-Light Jump,3342,TRUE,Rainy,Evening,Wet,26-35,3,High,Valid,FALSE,95,Rajasthan,7,2,4857,Paid
+19-02-2024,Rajiv Chowk,Truck,No Seatbelt,1000,FALSE,Foggy,Evening,Dry,50+,1,High,Valid,FALSE,58,Delhi,9,1,4305,Paid
+09-06-2024,Huda City Center,Bike,No Helmet,1000,FALSE,Foggy,Morning,Wet,36-50,1,High,Suspended,FALSE,49,Punjab,7,3,3962,Unpaid
+07-09-2024,Rajiv Chowk,Bike,No Helmet,1000,FALSE,Foggy,Morning,Wet,50+,3,High,Learner,TRUE,31,Delhi,10,1,1223,Disputed
+06-10-2024,Sector 56,Auto-rickshaw,No Seatbelt,1000,FALSE,Rainy,Evening,Under Construction,50+,2,Medium,Learner,FALSE,101,Punjab,6,3,559,Unpaid
+14-09-2024,Golf Course Road,Bike,Speeding,4089,FALSE,Cloudy,Morning,Slippery,18-25,3,Medium,Valid,TRUE,52,Haryana,10,3,2843,Paid
+18-10-2024,Manesar Toll,Bike,Speeding,1193,FALSE,Cloudy,Evening,Dry,26-35,0,Low,Suspended,FALSE,43,Delhi,5,1,2063,Unpaid
+16-08-2024,Manesar Toll,Bike,No Helmet,1000,FALSE,Foggy,Afternoon,Under Construction,36-50,2,Low,Valid,FALSE,25,Rajasthan,1,3,4988,Unpaid
+21-04-2024,MG Road,Bus,Red-Light Jump,1763,FALSE,Rainy,Night,Slippery,18-25,1,Low,Expired,FALSE,64,Rajasthan,3,1,2871,Unpaid
+06-10-2024,MG Road,Truck,No Seatbelt,1000,TRUE,Clear,Evening,Under Construction,36-50,2,Medium,Expired,FALSE,2,Haryana,7,1,756,Unpaid
+14-12-2024,NH-8,Bus,Wrong-Side Driving,4311,TRUE,Foggy,Morning,Wet,26-35,4,Medium,Expired,TRUE,83,Haryana,3,2,1138,Unpaid
+24-02-2024,Sector 29,Bike,Wrong-Side Driving,7194,TRUE,Rainy,Evening,Slippery,36-50,0,Low,Expired,FALSE,111,Punjab,7,1,3255,Paid
+03-06-2024,Sector 29,Bus,No Seatbelt,1000,TRUE,Rainy,Afternoon,Slippery,36-50,0,High,Learner,FALSE,60,Punjab,7,3,1886,Unpaid
+19-11-2024,Sikanderpur,Auto-rickshaw,Speeding,1206,FALSE,Rainy,Afternoon,Under Construction,18-25,2,Medium,Valid,TRUE,115,Punjab,5,3,3071,Unpaid
+08-05-2024,MG Road,Car,Wrong-Side Driving,3225,TRUE,Rainy,Night,Under Construction,50+,5,Medium,Suspended,FALSE,66,Haryana,1,1,1217,Unpaid
+07-08-2024,MG Road,Car,Wrong-Side Driving,3246,FALSE,Stormy,Morning,Wet,18-25,4,Low,Suspended,FALSE,120,Rajasthan,10,3,2975,Unpaid
+05-01-2024,Signature Tower Chowk,Auto-rickshaw,DUI,6948,TRUE,Clear,Night,Under Construction,26-35,1,Low,Suspended,FALSE,29,Haryana,9,1,4980,Unpaid
+07-12-2024,Sikanderpur,Car,No Seatbelt,1000,FALSE,Cloudy,Night,Slippery,50+,3,Medium,Suspended,TRUE,79,Uttar Pradesh,8,1,1619,Disputed
+06-10-2024,Huda City Center,Truck,No Seatbelt,1000,FALSE,Clear,Night,Dry,18-25,2,High,Expired,FALSE,57,Rajasthan,2,2,2967,Paid
+11-08-2024,Udyog Vihar,Bike,Wrong-Side Driving,4189,FALSE,Rainy,Evening,Slippery,50+,3,High,Learner,TRUE,106,Punjab,2,2,2921,Unpaid
+27-06-2024,Sikanderpur,Car,No Seatbelt,1000,FALSE,Cloudy,Afternoon,Slippery,50+,2,High,Suspended,FALSE,119,Rajasthan,9,1,763,Paid
+20-07-2024,Manesar Toll,Auto-rickshaw,No Seatbelt,1000,FALSE,Rainy,Night,Dry,26-35,0,Medium,Learner,TRUE,36,Rajasthan,1,3,681,Unpaid
+26-02-2024,Sector 29,Bike,No Helmet,1000,FALSE,Rainy,Morning,Under Construction,26-35,2,Medium,Learner,FALSE,95,Haryana,4,1,1997,Paid
+03-11-2024,Sector 29,Bus,Speeding,4235,TRUE,Stormy,Morning,Under Construction,50+,4,Medium,Learner,TRUE,26,Uttar Pradesh,8,3,4687,Unpaid
+04-06-2024,IFFCO Chowk,Bike,No Helmet,1000,FALSE,Rainy,Afternoon,Dry,18-25,2,High,Suspended,TRUE,31,Uttar Pradesh,2,1,925,Unpaid
+06-05-2024,NH-8,Bus,DUI,7670,FALSE,Cloudy,Morning,Wet,36-50,3,High,Expired,FALSE,50,Rajasthan,3,1,4324,Unpaid
+06-02-2024,Huda City Center,Bus,Wrong-Side Driving,3632,TRUE,Rainy,Morning,Under Construction,50+,0,Medium,Valid,FALSE,119,Delhi,9,3,1105,Unpaid
+01-11-2024,Sector 29,Car,Wrong-Side Driving,7633,FALSE,Rainy,Morning,Dry,18-25,0,Medium,Expired,TRUE,100,Rajasthan,3,2,3036,Disputed
+24-12-2024,Huda City Center,Bike,Speeding,3506,FALSE,Cloudy,Evening,Wet,18-25,0,High,Expired,TRUE,105,Haryana,7,3,564,Paid
+06-01-2024,Sector 56,Car,DUI,9835,FALSE,Rainy,Morning,Under Construction,50+,3,Medium,Expired,FALSE,68,Delhi,8,3,4275,Unpaid
+27-05-2024,Golf Course Road,Bike,No Helmet,1000,TRUE,Cloudy,Afternoon,Dry,36-50,3,Medium,Valid,TRUE,13,Punjab,3,2,4237,Unpaid
+15-07-2024,Udyog Vihar,Bike,DUI,9051,FALSE,Rainy,Afternoon,Slippery,18-25,2,High,Learner,FALSE,55,Punjab,9,2,4410,Disputed
+08-07-2024,Golf Course Road,Auto-rickshaw,Wrong-Side Driving,5378,FALSE,Cloudy,Afternoon,Slippery,36-50,3,Medium,Expired,TRUE,24,Punjab,4,1,3865,Paid
+04-01-2024,MG Road,Bike,Red-Light Jump,2329,FALSE,Rainy,Afternoon,Under Construction,26-35,1,High,Expired,FALSE,92,Rajasthan,1,3,3131,Disputed
+16-03-2024,MG Road,Truck,Wrong-Side Driving,3649,FALSE,Cloudy,Morning,Under Construction,18-25,5,Low,Suspended,TRUE,114,Punjab,10,2,4559,Paid
+09-02-2024,Rajiv Chowk,Bus,Red-Light Jump,1717,FALSE,Foggy,Afternoon,Under Construction,26-35,4,Medium,Expired,TRUE,62,Delhi,6,2,2162,Paid
+06-08-2024,Sohna Road near Iris Tech Park,Truck,Red-Light Jump,4036,TRUE,Stormy,Afternoon,Wet,26-35,4,High,Valid,TRUE,22,Uttar Pradesh,5,1,4612,Paid
+10-11-2024,MG Road,Bus,Wrong-Side Driving,2695,FALSE,Foggy,Evening,Slippery,36-50,5,High,Learner,TRUE,38,Punjab,2,3,3305,Disputed
+16-10-2024,Manesar Toll,Car,No Seatbelt,1000,FALSE,Foggy,Afternoon,Wet,18-25,2,Low,Learner,TRUE,70,Rajasthan,9,2,4947,Disputed
+20-12-2024,Sohna Road near Iris Tech Park,Auto-rickshaw,Red-Light Jump,2751,FALSE,Stormy,Night,Under Construction,26-35,1,Medium,Valid,FALSE,112,Punjab,7,2,4654,Disputed
+14-02-2024,Cyber City,Bus,Speeding,1423,FALSE,Stormy,Afternoon,Slippery,36-50,3,High,Suspended,TRUE,112,Punjab,3,2,1501,Disputed
+26-06-2024,Huda City Center,Car,Speeding,1325,FALSE,Foggy,Night,Dry,26-35,5,Low,Expired,FALSE,114,Uttar Pradesh,10,2,721,Unpaid
+16-01-2024,MG Road,Auto-rickshaw,Speeding,3069,TRUE,Clear,Afternoon,Slippery,18-25,1,Medium,Valid,TRUE,120,Rajasthan,8,3,4738,Paid
+03-11-2024,Sikanderpur,Truck,DUI,8375,FALSE,Rainy,Afternoon,Dry,26-35,3,Medium,Learner,TRUE,101,Uttar Pradesh,2,1,4050,Disputed
+05-09-2024,Manesar Toll,Bus,No Seatbelt,1000,FALSE,Foggy,Morning,Slippery,50+,5,High,Suspended,TRUE,60,Punjab,4,2,2841,Disputed
+06-01-2024,NH-8,Car,No Seatbelt,1000,FALSE,Foggy,Morning,Wet,26-35,1,High,Expired,FALSE,28,Delhi,7,3,3711,Paid
+19-08-2024,MG Road,Bike,Wrong-Side Driving,2310,TRUE,Cloudy,Afternoon,Dry,26-35,1,High,Learner,FALSE,48,Uttar Pradesh,2,3,2028,Paid
+15-08-2024,NH-8,Bike,Red-Light Jump,1997,TRUE,Cloudy,Morning,Slippery,36-50,1,Low,Valid,FALSE,101,Haryana,3,3,4283,Unpaid
+11-06-2024,Udyog Vihar,Bus,Wrong-Side Driving,5610,FALSE,Cloudy,Evening,Slippery,36-50,18,High,Learner,FALSE,61,Uttar Pradesh,5,3,4411,Unpaid
+20-09-2024,Cyber City,Bike,Wrong-Side Driving,4983,TRUE,Clear,Night,Dry,50+,1,Low,Valid,FALSE,34,Punjab,10,3,1021,Disputed
+01-12-2024,Huda City Center,Bike,No Helmet,1000,FALSE,Rainy,Afternoon,Wet,50+,1,Medium,Expired,TRUE,106,Delhi,7,2,4496,Paid
+27-07-2024,Signature Tower Chowk,Truck,Red-Light Jump,3539,FALSE,Clear,Night,Slippery,26-35,3,High,Suspended,FALSE,103,Delhi,1,2,3434,Paid
+16-04-2024,Sheetala Mata Road,Bus,Red-Light Jump,2433,FALSE,Clear,Morning,Wet,36-50,1,High,Suspended,TRUE,59,Delhi,5,1,1479,Paid
+28-06-2024,Sector 56,Car,No Seatbelt,1000,FALSE,Cloudy,Afternoon,Wet,36-50,2,Low,Learner,TRUE,24,Haryana,4,3,4220,Disputed
+20-07-2024,MG Road,Auto-rickshaw,No Seatbelt,1000,FALSE,Foggy,Evening,Wet,26-35,2,Low,Expired,FALSE,32,Haryana,3,2,4741,Unpaid
+26-01-2024,Golf Course Road,Truck,Red-Light Jump,2643,FALSE,Rainy,Evening,Slippery,50+,4,Low,Learner,TRUE,46,Uttar Pradesh,2,3,4158,Paid
+24-08-2024,Sikanderpur,Car,No Seatbelt,1000,TRUE,Stormy,Morning,Slippery,18-25,4,Medium,Suspended,TRUE,28,Uttar Pradesh,7,2,4805,Disputed
+14-01-2024,Udyog Vihar,Car,No Seatbelt,1000,FALSE,Cloudy,Afternoon,Dry,26-35,0,Low,Learner,FALSE,59,Rajasthan,8,1,1978,Unpaid
+16-07-2024,Sheetala Mata Road,Truck,Red-Light Jump,2307,TRUE,Cloudy,Morning,Under Construction,50+,1,Medium,Suspended,TRUE,75,Rajasthan,5,1,2446,Unpaid
+21-02-2024,Sector 56,Truck,No Seatbelt,1000,FALSE,Rainy,Morning,Wet,36-50,3,Low,Expired,TRUE,22,Delhi,3,2,1719,Disputed
+24-09-2024,Sector 29,Auto-rickshaw,DUI,,FALSE,Clear,Afternoon,Dry,36-50,5,High,Learner,FALSE,80,Uttar Pradesh,2,2,4058,Paid
+20-06-2024,Udyog Vihar,Bike,DUI,8413,FALSE,Stormy,Morning,Slippery,18-25,0,Low,Expired,TRUE,90,Rajasthan,6,2,2806,Unpaid
+19-11-2024,Sohna Road near Iris Tech Park,Car,Wrong-Side Driving,5191,TRUE,Clear,Evening,Dry,50+,0,Low,Expired,FALSE,99,Rajasthan,2,1,2629,Disputed
+20-09-2024,IFFCO Chowk,Bus,Red-Light Jump,4873,FALSE,Clear,Night,Slippery,18-25,12,Low,Valid,TRUE,42,Uttar Pradesh,2,2,3044,Disputed
+27-03-2024,Udyog Vihar,Truck,No Seatbelt,5000,TRUE,Cloudy,Morning,Dry,18-25,3,Low,Suspended,TRUE,65,Rajasthan,4,2,4073,Paid
+22-05-2024,NH-8,Car,No Seatbelt,1000,FALSE,Foggy,Night,Dry,18-25,2,High,Learner,TRUE,2,Haryana,8,3,4192,Disputed
+09-09-2024,Rajiv Chowk,Car,No Seatbelt,1000,FALSE,Cloudy,Night,Wet,18-25,1,High,Suspended,FALSE,1,Haryana,1,3,1203,Paid
+21-01-2024,Udyog Vihar,Bike,No Helmet,1000,TRUE,Cloudy,Afternoon,Dry,26-35,2,Low,Valid,TRUE,50,Punjab,2,1,3495,Disputed
+09-11-2024,Udyog Vihar,Car,No Seatbelt,1000,TRUE,Stormy,Night,Wet,18-25,5,Medium,Expired,TRUE,53,Uttar Pradesh,3,1,3680,Disputed
+01-08-2024,Signature Tower Chowk,Bike,Wrong-Side Driving,4363,FALSE,Cloudy,Morning,Under Construction,18-25,1,High,Suspended,FALSE,110,Punjab,6,2,4624,Unpaid
+17-08-2024,Signature Tower Chowk,Car,Wrong-Side Driving,4196,TRUE,Stormy,Afternoon,Dry,36-50,1,High,Suspended,TRUE,91,Uttar Pradesh,9,1,3277,Paid
+04-07-2024,IFFCO Chowk,Bus,DUI,9452,FALSE,Cloudy,Morning,Wet,26-35,5,Low,Suspended,FALSE,41,Haryana,6,2,4316,Disputed
+25-10-2024,MG Road,Auto-rickshaw,Wrong-Side Driving,5904,TRUE,Rainy,Evening,Wet,26-35,1,High,Expired,FALSE,17,Punjab,7,1,1259,Paid
+21-09-2024,Cyber City,Bus,Speeding,2284,TRUE,Clear,Evening,Dry,36-50,2,Low,Learner,TRUE,100,Uttar Pradesh,3,3,2157,Disputed
+01-11-2024,Sheetala Mata Road,Bus,Wrong-Side Driving,7579,FALSE,Stormy,Night,Slippery,36-50,5,Low,Suspended,FALSE,33,Haryana,1,1,724,Paid
+14-08-2024,Cyber City,Bus,Wrong-Side Driving,5883,FALSE,Rainy,Evening,Wet,18-25,3,Medium,Suspended,FALSE,80,Delhi,5,1,913,Paid
+07-05-2024,Cyber City,Truck,DUI,6500,FALSE,Foggy,Evening,Slippery,18-25,1,Medium,Valid,TRUE,6,Punjab,1,3,2125,Disputed
+25-06-2024,IFFCO Chowk,Car,Wrong-Side Driving,3268,TRUE,Rainy,Night,Under Construction,26-35,0,High,Valid,FALSE,112,Punjab,4,1,1985,Unpaid
+25-09-2024,IFFCO Chowk,Bike,No Helmet,1000,TRUE,Foggy,Night,Slippery,18-25,2,Medium,Valid,FALSE,28,Haryana,8,1,1978,Paid
+19-08-2024,Sikanderpur,Auto-rickshaw,Wrong-Side Driving,6564,TRUE,Clear,Evening,Dry,18-25,1,High,Expired,FALSE,73,Punjab,8,2,4688,Unpaid
+23-01-2024,Sector 56,Bus,Red-Light Jump,4256,TRUE,Clear,Night,Under Construction,26-35,5,High,Valid,TRUE,22,Punjab,1,1,2258,Unpaid
+22-08-2024,Sector 56,Bike,DUI,6310,FALSE,Rainy,Night,Slippery,26-35,3,High,Suspended,TRUE,96,Delhi,1,3,1531,Paid
+28-03-2024,Cyber City,Car,DUI,8744,FALSE,Rainy,Night,Under Construction,18-25,1,High,Suspended,FALSE,62,Punjab,6,3,4591,Unpaid
+24-04-2024,Cyber City,Truck,DUI,6212,FALSE,Foggy,Night,Dry,50+,1,Low,Expired,FALSE,34,Delhi,8,1,4111,Disputed
+23-01-2024,NH-8,Car,No Seatbelt,1000,FALSE,Rainy,Evening,Dry,50+,4,Medium,Expired,TRUE,60,Delhi,10,2,1946,Unpaid
+08-10-2024,Sector 29,Truck,No Seatbelt,1000,TRUE,Foggy,Night,Slippery,50+,1,Medium,Valid,TRUE,5,Uttar Pradesh,6,1,3057,Unpaid
+01-11-2024,Manesar Toll,Bike,No Helmet,1000,FALSE,Rainy,Afternoon,Dry,50+,2,Low,Learner,FALSE,79,Punjab,10,3,1992,Paid
+06-01-2024,Rajiv Chowk,Auto-rickshaw,Red-Light Jump,,FALSE,Rainy,Afternoon,Under Construction,26-35,0,Low,Expired,TRUE,101,Punjab,5,3,2785,Unpaid
+15-02-2024,Sector 56,Auto-rickshaw,Red-Light Jump,2994,FALSE,Foggy,Night,Dry,50+,2,High,Valid,TRUE,19,Delhi,6,2,4427,Unpaid
+04-02-2024,Manesar Toll,Bus,Wrong-Side Driving,4991,TRUE,Cloudy,Night,Wet,26-35,3,Low,Expired,FALSE,24,Rajasthan,2,1,901,Unpaid
+22-08-2024,Golf Course Road,Auto-rickshaw,DUI,5364,FALSE,Cloudy,Night,Wet,36-50,5,Low,Expired,FALSE,117,Uttar Pradesh,2,3,1275,Disputed
+07-01-2024,Sikanderpur,Car,No Seatbelt,1000,FALSE,Rainy,Morning,Wet,50+,1,Low,Learner,FALSE,5,Uttar Pradesh,8,2,2096,Disputed
+17-06-2024,NH-8,Bike,Red-Light Jump,2468,TRUE,Stormy,Night,Slippery,26-35,2,Medium,Suspended,FALSE,41,Delhi,4,1,2730,Disputed
+27-01-2024,MG Road,Bus,No Seatbelt,1000,FALSE,Clear,Morning,Wet,36-50,15,High,Expired,TRUE,37,Haryana,1,3,2227,Paid
+22-07-2024,MG Road,Auto-rickshaw,No Seatbelt,1000,FALSE,Clear,Morning,Under Construction,26-35,1,Low,Valid,FALSE,32,Punjab,1,3,2661,Disputed
+14-03-2024,Signature Tower Chowk,Auto-rickshaw,DUI,8928,TRUE,Cloudy,Morning,Dry,50+,3,High,Suspended,FALSE,1,Delhi,6,3,3045,Disputed
+23-01-2024,Cyber City,Auto-rickshaw,Speeding,1118,TRUE,Foggy,Afternoon,Wet,26-35,5,Low,Valid,FALSE,54,Delhi,9,2,3170,Unpaid
+06-04-2024,Sohna Road near Iris Tech Park,Bus,Wrong-Side Driving,6172,FALSE,Foggy,Evening,Slippery,50+,5,Medium,Expired,FALSE,86,Haryana,7,3,3519,Paid
+19-07-2024,Huda City Center,Truck,DUI,5701,FALSE,Clear,Morning,Under Construction,50+,1,Low,Expired,TRUE,83,Punjab,10,1,4799,Paid
+02-08-2024,Golf Course Road,Truck,Red-Light Jump,4119,FALSE,Rainy,Morning,Wet,18-25,0,Low,Suspended,FALSE,29,Uttar Pradesh,10,1,4067,Unpaid
+25-06-2024,IFFCO Chowk,Auto-rickshaw,Wrong-Side Driving,2255,TRUE,Clear,Afternoon,Under Construction,50+,0,Low,Expired,TRUE,52,Delhi,9,2,1429,Unpaid
+27-06-2024,Udyog Vihar,Bike,No Helmet,1000,FALSE,Stormy,Afternoon,Slippery,50+,0,Low,Learner,FALSE,4,Uttar Pradesh,8,3,598,Paid
+18-11-2024,NH-8,Bus,Red-Light Jump,4018,TRUE,Foggy,Night,Wet,18-25,11,Medium,Expired,FALSE,102,Haryana,5,1,865,Disputed
+11-04-2024,Golf Course Road,Bike,Red-Light Jump,,FALSE,Foggy,Afternoon,Under Construction,18-25,1,Low,Suspended,TRUE,6,Haryana,6,1,3991,Paid
+17-03-2024,Rajiv Chowk,Auto-rickshaw,No Seatbelt,1000,TRUE,Stormy,Morning,Under Construction,50+,2,High,Suspended,FALSE,87,Punjab,9,1,759,Paid
+22-09-2024,Sikanderpur,Truck,Red-Light Jump,2362,FALSE,Foggy,Evening,Dry,26-35,2,Low,Suspended,TRUE,102,Uttar Pradesh,8,2,3975,Unpaid
+13-03-2024,MG Road,Bike,No Helmet,1000,TRUE,Clear,Evening,Wet,50+,2,Medium,Valid,FALSE,29,Punjab,2,1,3358,Paid
+13-06-2024,IFFCO Chowk,Truck,Wrong-Side Driving,2307,TRUE,Rainy,Afternoon,Under Construction,26-35,2,Medium,Expired,FALSE,0,Uttar Pradesh,4,1,4228,Unpaid
+14-08-2024,Signature Tower Chowk,Bus,DUI,8225,TRUE,Cloudy,Afternoon,Under Construction,26-35,3,High,Learner,TRUE,25,Delhi,7,3,3575,Paid
+24-04-2024,Sheetala Mata Road,Bike,Red-Light Jump,1543,FALSE,Stormy,Afternoon,Dry,50+,2,Low,Suspended,FALSE,45,Punjab,4,1,1715,Disputed
+14-05-2024,MG Road,Truck,Wrong-Side Driving,5629,FALSE,Rainy,Evening,Wet,26-35,1,High,Expired,FALSE,44,Uttar Pradesh,1,2,3297,Unpaid
+18-03-2024,Golf Course Road,Truck,DUI,8640,FALSE,Rainy,Night,Under Construction,18-25,0,High,Learner,FALSE,103,Haryana,10,2,2065,Disputed
+19-03-2024,Sikanderpur,Auto-rickshaw,DUI,6970,FALSE,Cloudy,Evening,Under Construction,26-35,3,Medium,Valid,TRUE,88,Delhi,10,3,1644,Unpaid
+18-05-2024,Sohna Road near Iris Tech Park,Bike,Speeding,2812,TRUE,Rainy,Evening,Slippery,18-25,1,High,Valid,TRUE,64,Rajasthan,7,1,975,Paid
+08-05-2024,NH-8,Auto-rickshaw,No Seatbelt,1000,FALSE,Stormy,Evening,Wet,50+,3,Low,Valid,FALSE,103,Rajasthan,10,1,4307,Disputed
+10-11-2024,Sheetala Mata Road,Bus,Red-Light Jump,1596,TRUE,Clear,Afternoon,Under Construction,50+,5,Medium,Suspended,TRUE,9,Rajasthan,8,3,610,Disputed
+28-01-2024,MG Road,Car,Wrong-Side Driving,5541,FALSE,Foggy,Morning,Wet,18-25,4,Low,Expired,TRUE,118,Delhi,3,1,894,Unpaid
+28-02-2024,Sohna Road near Iris Tech Park,Bus,No Seatbelt,1000,FALSE,Stormy,Evening,Slippery,26-35,3,Low,Valid,TRUE,78,Rajasthan,7,3,723,Disputed
+14-09-2024,IFFCO Chowk,Bus,DUI,7762,FALSE,Foggy,Morning,Slippery,26-35,2,Low,Learner,FALSE,34,Punjab,5,2,2581,Unpaid
+25-03-2024,Sheetala Mata Road,Truck,DUI,7195,TRUE,Clear,Evening,Wet,36-50,0,High,Learner,TRUE,110,Haryana,7,2,1344,Unpaid
+09-12-2024,Udyog Vihar,Bus,Red-Light Jump,3870,TRUE,Foggy,Morning,Slippery,50+,1,Low,Suspended,TRUE,8,Delhi,1,2,1043,Disputed
+23-06-2024,Huda City Center,Truck,Red-Light Jump,2045,TRUE,Clear,Evening,Under Construction,18-25,3,Medium,Valid,FALSE,79,Delhi,4,3,4151,Paid
+26-01-2024,Golf Course Road,Car,DUI,7331,FALSE,Stormy,Morning,Dry,50+,1,Medium,Expired,TRUE,10,Punjab,6,1,2304,Disputed
+16-12-2024,Manesar Toll,Truck,Speeding,2682,FALSE,Stormy,Evening,Wet,18-25,5,High,Valid,FALSE,91,Uttar Pradesh,10,1,4847,Disputed
+05-02-2024,Cyber City,Car,No Seatbelt,1000,TRUE,Rainy,Afternoon,Under Construction,50+,0,Medium,Suspended,TRUE,53,Delhi,1,2,3207,Disputed
+18-10-2024,Sikanderpur,Bus,Wrong-Side Driving,7471,FALSE,Rainy,Night,Slippery,18-25,24,Low,Expired,TRUE,70,Delhi,9,1,1329,Paid
+16-03-2024,IFFCO Chowk,Bus,Red-Light Jump,2656,TRUE,Stormy,Afternoon,Slippery,18-25,5,Low,Learner,TRUE,107,Delhi,9,1,2052,Disputed
+13-11-2024,Sheetala Mata Road,Auto-rickshaw,Red-Light Jump,3647,TRUE,Cloudy,Morning,Dry,18-25,3,High,Expired,FALSE,64,Delhi,7,1,1072,Paid
+25-09-2024,Signature Tower Chowk,Auto-rickshaw,DUI,,FALSE,Clear,Evening,Dry,50+,5,High,Expired,FALSE,97,Haryana,7,2,3407,Paid
+23-04-2024,Sikanderpur,Truck,Red-Light Jump,3804,FALSE,Rainy,Afternoon,Dry,50+,0,Medium,Learner,TRUE,118,Delhi,6,3,2326,Paid
+23-06-2024,NH-8,Car,Wrong-Side Driving,5383,TRUE,Clear,Morning,Under Construction,50+,2,Low,Expired,FALSE,21,Delhi,3,1,3774,Disputed
+11-02-2024,Sohna Road near Iris Tech Park,Bus,No Seatbelt,1000,TRUE,Stormy,Afternoon,Wet,50+,8,Low,Suspended,FALSE,107,Delhi,5,2,3976,Unpaid
+05-09-2024,Sohna Road near Iris Tech Park,Car,No Seatbelt,1000,FALSE,Stormy,Morning,Dry,18-25,2,Medium,Valid,TRUE,50,Uttar Pradesh,5,3,576,Unpaid
+05-04-2024,Sheetala Mata Road,Bike,No Helmet,1000,TRUE,Stormy,Night,Dry,26-35,2,Medium,Expired,TRUE,16,Delhi,10,2,2235,Unpaid
+28-04-2024,Sheetala Mata Road,Auto-rickshaw,Speeding,3053,FALSE,Clear,Night,Under Construction,26-35,3,Low,Expired,FALSE,109,Haryana,7,3,2044,Unpaid
+25-02-2024,Sohna Road near Iris Tech Park,Car,No Seatbelt,1000,FALSE,Rainy,Morning,Dry,26-35,2,High,Suspended,FALSE,18,Uttar Pradesh,6,3,4787,Disputed
+07-09-2024,IFFCO Chowk,Bike,Red-Light Jump,,TRUE,Rainy,Evening,Under Construction,26-35,0,Low,Suspended,FALSE,38,Delhi,1,2,4882,Disputed
+03-05-2024,Huda City Center,Auto-rickshaw,Red-Light Jump,2256,FALSE,Rainy,Evening,Under Construction,36-50,4,Medium,Learner,FALSE,56,Punjab,6,1,1281,Paid
+24-11-2024,Sohna Road near Iris Tech Park,Car,No Seatbelt,1000,FALSE,Foggy,Afternoon,Wet,26-35,5,Medium,Valid,TRUE,20,Rajasthan,9,2,1856,Unpaid
+07-07-2024,MG Road,Truck,Wrong-Side Driving,2274,TRUE,Foggy,Evening,Wet,50+,3,High,Expired,TRUE,36,Rajasthan,10,3,4605,Paid
+28-06-2024,Sikanderpur,Bike,Red-Light Jump,2386,TRUE,Stormy,Evening,Under Construction,26-35,2,High,Learner,FALSE,52,Uttar Pradesh,9,1,1361,Unpaid
+20-01-2024,Rajiv Chowk,Bus,Red-Light Jump,4030,TRUE,Cloudy,Evening,Dry,36-50,5,Medium,Expired,TRUE,45,Haryana,2,3,1971,Paid
+22-10-2024,Udyog Vihar,Car,Wrong-Side Driving,4865,TRUE,Cloudy,Morning,Dry,36-50,2,Medium,Suspended,TRUE,80,Rajasthan,7,2,3601,Disputed
+28-09-2024,Golf Course Road,Bus,Red-Light Jump,2395,TRUE,Rainy,Morning,Under Construction,50+,3,Medium,Learner,TRUE,52,Delhi,5,3,2541,Unpaid
+20-01-2024,Rajiv Chowk,Bus,Wrong-Side Driving,7488,FALSE,Cloudy,Afternoon,Wet,36-50,1,High,Learner,FALSE,106,Rajasthan,5,1,1397,Paid
+26-03-2024,Sikanderpur,Bike,No Helmet,1000,FALSE,Rainy,Evening,Slippery,26-35,2,High,Valid,FALSE,83,Delhi,9,1,2362,Paid
+19-12-2024,Rajiv Chowk,Car,No Seatbelt,1000,FALSE,Cloudy,Night,Wet,18-25,5,Low,Expired,FALSE,85,Delhi,3,2,1543,Unpaid
+21-02-2024,Udyog Vihar,Auto-rickshaw,Speeding,2838,FALSE,Foggy,Night,Under Construction,26-35,1,Medium,Expired,FALSE,67,Rajasthan,5,2,4044,Disputed
+13-08-2024,Sohna Road near Iris Tech Park,Auto-rickshaw,DUI,9680,TRUE,Cloudy,Morning,Slippery,36-50,2,High,Valid,TRUE,78,Rajasthan,5,3,910,Unpaid
+26-05-2024,NH-8,Auto-rickshaw,DUI,6047,FALSE,Rainy,Evening,Under Construction,36-50,1,Medium,Suspended,TRUE,63,Delhi,3,3,2121,Disputed
+02-01-2024,Huda City Center,Auto-rickshaw,Red-Light Jump,1717,FALSE,Foggy,Evening,Wet,36-50,5,High,Learner,TRUE,29,Rajasthan,8,3,1070,Disputed
+17-01-2024,Sector 29,Bus,Wrong-Side Driving,3296,FALSE,Rainy,Evening,Dry,50+,5,High,Suspended,FALSE,89,Uttar Pradesh,6,2,3625,Unpaid
+05-11-2024,Cyber City,Truck,Speeding,4908,FALSE,Cloudy,Evening,Wet,26-35,0,Low,Learner,TRUE,81,Uttar Pradesh,1,2,1123,Disputed
+24-06-2024,Udyog Vihar,Auto-rickshaw,Wrong-Side Driving,3508,FALSE,Cloudy,Afternoon,Under Construction,50+,3,High,Expired,FALSE,30,Punjab,7,1,4045,Paid
+27-05-2024,Signature Tower Chowk,Auto-rickshaw,Red-Light Jump,3992,FALSE,Rainy,Evening,Slippery,50+,3,High,Learner,FALSE,70,Delhi,7,2,3420,Disputed
+23-02-2024,Sector 29,Car,Speeding,2991,TRUE,Cloudy,Evening,Under Construction,36-50,3,Medium,Learner,TRUE,61,Uttar Pradesh,9,1,1621,Paid
+27-10-2024,Sohna Road near Iris Tech Park,Bike,No Helmet,1000,TRUE,Foggy,Morning,Dry,26-35,1,Low,Suspended,FALSE,62,Delhi,5,3,4693,Unpaid
+12-02-2024,Rajiv Chowk,Car,Speeding,2760,FALSE,Stormy,Morning,Dry,18-25,2,High,Expired,TRUE,105,Punjab,7,2,1261,Disputed
+11-07-2024,MG Road,Car,No Seatbelt,1000,TRUE,Foggy,Night,Dry,26-35,5,Low,Learner,TRUE,71,Uttar Pradesh,2,1,637,Unpaid
+01-11-2024,Manesar Toll,Bus,No Seatbelt,1000,FALSE,Cloudy,Morning,Slippery,36-50,1,High,Valid,FALSE,32,Uttar Pradesh,1,2,964,Disputed
+15-01-2024,Golf Course Road,Truck,Speeding,1757,TRUE,Stormy,Morning,Slippery,36-50,1,Low,Expired,FALSE,33,Haryana,2,1,1272,Paid
+22-07-2024,Sohna Road near Iris Tech Park,Bus,DUI,9205,FALSE,Rainy,Evening,Wet,36-50,5,Medium,Suspended,FALSE,36,Uttar Pradesh,1,2,3510,Unpaid
+11-04-2024,Udyog Vihar,Auto-rickshaw,Wrong-Side Driving,3204,FALSE,Clear,Afternoon,Wet,36-50,1,High,Expired,FALSE,40,Rajasthan,8,2,2433,Disputed
+22-08-2024,Cyber City,Bike,Speeding,2681,FALSE,Clear,Afternoon,Under Construction,26-35,0,Medium,Valid,FALSE,73,Haryana,7,3,3080,Unpaid
+15-07-2024,Sector 29,Auto-rickshaw,Speeding,1247,FALSE,Rainy,Afternoon,Slippery,50+,3,Low,Learner,TRUE,6,Rajasthan,4,2,2385,Paid
+26-08-2024,Huda City Center,Truck,DUI,5725,FALSE,Stormy,Morning,Dry,36-50,5,Medium,Suspended,FALSE,37,Uttar Pradesh,7,2,2482,Paid
+10-12-2024,Sector 56,Bus,Speeding,3054,FALSE,Clear,Evening,Wet,26-35,1,High,Expired,FALSE,94,Delhi,8,3,3060,Disputed
+18-03-2024,Manesar Toll,Car,DUI,8231,FALSE,Clear,Afternoon,Wet,18-25,5,High,Expired,TRUE,110,Punjab,5,1,1719,Disputed
+07-09-2024,Sikanderpur,Car,No Seatbelt,1000,FALSE,Foggy,Morning,Wet,18-25,3,Medium,Expired,TRUE,101,Uttar Pradesh,7,2,4506,Paid
+02-07-2024,Rajiv Chowk,Auto-rickshaw,No Seatbelt,1000,FALSE,Foggy,Afternoon,Dry,18-25,0,Medium,Expired,TRUE,77,Delhi,5,2,2011,Unpaid
+20-05-2024,Signature Tower Chowk,Car,Wrong-Side Driving,7974,TRUE,Foggy,Morning,Slippery,26-35,2,High,Valid,TRUE,25,Punjab,2,3,4313,Disputed
+27-09-2024,Manesar Toll,Auto-rickshaw,Speeding,4641,FALSE,Rainy,Morning,Slippery,18-25,0,Low,Suspended,TRUE,96,Haryana,9,3,2121,Paid
+09-01-2024,Signature Tower Chowk,Bike,Wrong-Side Driving,5259,FALSE,Rainy,Afternoon,Under Construction,18-25,5,High,Suspended,TRUE,78,Punjab,9,2,3846,Paid
+01-03-2024,Sikanderpur,Truck,No Seatbelt,1000,FALSE,Foggy,Night,Wet,36-50,3,Low,Valid,TRUE,78,Delhi,5,1,1154,Disputed
+22-10-2024,Cyber City,Bus,Speeding,2402,TRUE,Rainy,Morning,Slippery,50+,2,Medium,Valid,TRUE,71,Uttar Pradesh,5,2,2027,Unpaid
+22-11-2024,Signature Tower Chowk,Truck,DUI,7672,FALSE,Clear,Evening,Under Construction,50+,5,Medium,Learner,FALSE,99,Rajasthan,10,3,4053,Unpaid
+02-11-2024,Golf Course Road,Bus,Red-Light Jump,4396,FALSE,Cloudy,Afternoon,Wet,26-35,5,Medium,Learner,TRUE,103,Rajasthan,9,2,1597,Disputed
+07-07-2024,Sector 56,Auto-rickshaw,DUI,6606,FALSE,Rainy,Night,Under Construction,36-50,0,Low,Expired,FALSE,13,Rajasthan,10,1,764,Disputed
+01-12-2024,Signature Tower Chowk,Truck,No Seatbelt,1000,TRUE,Foggy,Afternoon,Dry,18-25,3,Low,Expired,TRUE,36,Uttar Pradesh,6,1,579,Paid
+04-10-2024,Manesar Toll,Truck,Speeding,3141,TRUE,Stormy,Afternoon,Under Construction,50+,3,Medium,Valid,FALSE,20,Haryana,6,2,3072,Disputed
+01-01-2024,Sector 56,Bike,No Helmet,1000,FALSE,Stormy,Morning,Slippery,26-35,0,Medium,Suspended,FALSE,103,Delhi,7,3,2190,Unpaid
+05-08-2024,IFFCO Chowk,Bus,Wrong-Side Driving,7289,FALSE,Rainy,Evening,Dry,26-35,1,Low,Valid,TRUE,99,Punjab,5,2,1789,Unpaid
+20-06-2024,Sikanderpur,Bus,No Seatbelt,1000,FALSE,Rainy,Morning,Slippery,26-35,9,Medium,Suspended,FALSE,19,Delhi,10,2,1019,Unpaid
+25-06-2024,MG Road,Auto-rickshaw,Red-Light Jump,2158,FALSE,Foggy,Evening,Wet,18-25,5,Medium,Learner,FALSE,13,Uttar Pradesh,6,3,3122,Disputed
+25-09-2024,Cyber City,Bike,No Helmet,1000,TRUE,Cloudy,Morning,Dry,26-35,2,High,Learner,TRUE,76,Punjab,4,1,1269,Unpaid
+23-11-2024,Golf Course Road,Auto-rickshaw,Speeding,2478,TRUE,Rainy,Afternoon,Slippery,36-50,5,High,Valid,FALSE,111,Haryana,10,3,3168,Unpaid
+18-05-2024,Sector 56,Car,Red-Light Jump,2697,FALSE,Stormy,Afternoon,Under Construction,36-50,4,High,Suspended,TRUE,112,Punjab,5,3,3863,Disputed
+13-10-2024,IFFCO Chowk,Bike,Speeding,,FALSE,Stormy,Night,Dry,26-35,2,Medium,Learner,FALSE,95,Haryana,4,2,4371,Disputed
+06-08-2024,Sector 56,Car,Wrong-Side Driving,6811,FALSE,Rainy,Evening,Dry,18-25,2,Medium,Suspended,FALSE,61,Haryana,3,2,4180,Unpaid
+04-10-2024,Signature Tower Chowk,Bus,Wrong-Side Driving,6780,FALSE,Foggy,Evening,Dry,36-50,3,Medium,Learner,FALSE,14,Haryana,1,2,3988,Paid
+01-11-2024,Golf Course Road,Bus,Wrong-Side Driving,2319,FALSE,Stormy,Morning,Under Construction,18-25,4,Low,Learner,TRUE,108,Uttar Pradesh,2,1,3970,Unpaid
+09-01-2024,Signature Tower Chowk,Bike,DUI,9662,FALSE,Cloudy,Afternoon,Dry,18-25,2,Medium,Learner,FALSE,113,Uttar Pradesh,4,3,1686,Paid
+17-02-2024,Cyber City,Bike,Wrong-Side Driving,5589,TRUE,Foggy,Afternoon,Under Construction,26-35,1,High,Learner,TRUE,59,Rajasthan,8,2,2815,Disputed
+09-02-2024,Sohna Road near Iris Tech Park,Truck,Wrong-Side Driving,3606,FALSE,Rainy,Evening,Slippery,50+,2,Medium,Learner,TRUE,68,Uttar Pradesh,10,2,2427,Paid
+28-11-2024,Sector 56,Car,No Seatbelt,1000,FALSE,Cloudy,Night,Wet,26-35,4,Low,Suspended,TRUE,71,Delhi,9,3,2025,Paid
+02-12-2024,MG Road,Bus,No Seatbelt,1000,TRUE,Foggy,Afternoon,Dry,18-25,2,Medium,Suspended,TRUE,44,Rajasthan,3,2,3250,Paid
+11-10-2024,Cyber City,Bus,Red-Light Jump,2260,FALSE,Foggy,Evening,Wet,36-50,3,Medium,Valid,FALSE,30,Haryana,3,2,2793,Unpaid
+20-12-2024,Sector 29,Bus,DUI,8532,TRUE,Clear,Night,Under Construction,26-35,2,High,Expired,FALSE,115,Haryana,10,2,3259,Unpaid
+14-02-2024,NH-8,Auto-rickshaw,Wrong-Side Driving,6873,TRUE,Foggy,Afternoon,Slippery,26-35,0,High,Expired,FALSE,65,Delhi,4,1,1081,Paid
+06-01-2024,Huda City Center,Car,Speeding,3313,TRUE,Clear,Night,Wet,50+,3,High,Learner,FALSE,70,Rajasthan,8,2,1443,Disputed
+25-01-2024,MG Road,Auto-rickshaw,Red-Light Jump,4529,TRUE,Foggy,Morning,Slippery,18-25,1,Medium,Learner,FALSE,8,Punjab,2,1,1223,Disputed
+12-08-2024,Sheetala Mata Road,Bike,Red-Light Jump,3870,FALSE,Stormy,Night,Wet,50+,2,Low,Suspended,FALSE,23,Punjab,10,2,3944,Paid
+16-11-2024,Sector 29,Car,Speeding,4872,FALSE,Rainy,Morning,Wet,18-25,1,Low,Valid,FALSE,19,Uttar Pradesh,5,1,4258,Paid
+15-03-2024,MG Road,Car,DUI,9455,FALSE,Cloudy,Evening,Slippery,26-35,2,High,Suspended,TRUE,94,Haryana,9,1,1414,Disputed
+23-09-2024,NH-8,Bike,Wrong-Side Driving,6324,TRUE,Foggy,Morning,Slippery,26-35,3,Low,Expired,TRUE,41,Punjab,6,2,995,Disputed
+12-12-2024,Cyber City,Truck,Speeding,3645,FALSE,Clear,Morning,Under Construction,50+,1,High,Valid,FALSE,109,Uttar Pradesh,1,1,933,Unpaid
+01-01-2024,Sikanderpur,Truck,No Seatbelt,1000,FALSE,Foggy,Night,Wet,26-35,2,Medium,Valid,TRUE,32,Delhi,7,2,3386,Paid
+26-01-2024,Sector 29,Bike,No Helmet,1000,TRUE,Rainy,Afternoon,Under Construction,18-25,2,High,Valid,FALSE,81,Rajasthan,10,3,3443,Unpaid
+21-10-2024,Manesar Toll,Bike,Red-Light Jump,4854,FALSE,Clear,Morning,Slippery,18-25,3,Low,Expired,FALSE,62,Haryana,4,2,1219,Paid
+15-05-2024,IFFCO Chowk,Bus,Red-Light Jump,4402,FALSE,Foggy,Afternoon,Dry,18-25,1,High,Expired,TRUE,59,Haryana,4,1,1739,Paid
+07-09-2024,Manesar Toll,Auto-rickshaw,Speeding,2177,FALSE,Cloudy,Night,Under Construction,36-50,4,Low,Learner,FALSE,70,Punjab,6,1,3295,Paid
+13-08-2024,Huda City Center,Truck,Wrong-Side Driving,6749,FALSE,Foggy,Afternoon,Wet,50+,1,Medium,Expired,TRUE,68,Haryana,10,2,1386,Disputed
+02-09-2024,Sheetala Mata Road,Car,Speeding,4677,FALSE,Stormy,Evening,Under Construction,26-35,4,High,Expired,FALSE,65,Punjab,4,2,4249,Paid
+02-11-2024,Huda City Center,Car,Speeding,4863,FALSE,Stormy,Evening,Slippery,26-35,4,Low,Learner,FALSE,99,Haryana,10,1,2512,Disputed
+01-01-2024,Sector 29,Bus,No Seatbelt,1000,TRUE,Rainy,Afternoon,Dry,50+,5,High,Suspended,TRUE,120,Delhi,9,2,3053,Paid
+08-07-2024,Sector 56,Bus,No Seatbelt,1000,FALSE,Rainy,Afternoon,Under Construction,36-50,4,High,Learner,TRUE,42,Rajasthan,6,3,564,Paid
+11-03-2024,MG Road,Car,No Seatbelt,1000,TRUE,Rainy,Morning,Slippery,26-35,2,Medium,Valid,FALSE,39,Punjab,3,3,2362,Paid
+22-01-2024,Cyber City,Bike,Wrong-Side Driving,4602,FALSE,Foggy,Night,Dry,36-50,1,High,Suspended,TRUE,76,Delhi,5,1,1937,Disputed
+03-05-2024,IFFCO Chowk,Truck,DUI,8621,FALSE,Rainy,Night,Slippery,26-35,3,High,Suspended,FALSE,42,Rajasthan,6,1,3300,Paid
+02-08-2024,Rajiv Chowk,Bus,DUI,9858,FALSE,Rainy,Night,Dry,18-25,1,Medium,Valid,TRUE,25,Rajasthan,2,3,3830,Disputed
+15-08-2024,NH-8,Bus,No Seatbelt,1000,TRUE,Foggy,Morning,Wet,26-35,4,High,Expired,TRUE,18,Rajasthan,4,2,4763,Paid
+23-07-2024,Sikanderpur,Car,No Seatbelt,1000,FALSE,Cloudy,Night,Wet,36-50,4,High,Expired,FALSE,25,Haryana,9,3,616,Paid
+09-12-2024,MG Road,Truck,DUI,,FALSE,Clear,Afternoon,Slippery,18-25,4,Medium,Valid,FALSE,82,Rajasthan,4,1,1754,Paid
+16-10-2024,Udyog Vihar,Auto-rickshaw,Red-Light Jump,2950,FALSE,Foggy,Morning,Dry,26-35,2,Medium,Suspended,FALSE,77,Punjab,9,3,1835,Paid
+10-05-2024,Sector 29,Bus,DUI,7512,FALSE,Cloudy,Morning,Slippery,18-25,1,Medium,Suspended,TRUE,84,Haryana,2,1,1102,Disputed
+03-07-2024,Sheetala Mata Road,Auto-rickshaw,No Seatbelt,1000,FALSE,Foggy,Evening,Dry,50+,0,Medium,Learner,TRUE,16,Rajasthan,2,2,1347,Disputed
+23-11-2024,Signature Tower Chowk,Truck,Speeding,4287,FALSE,Cloudy,Afternoon,Under Construction,50+,3,High,Expired,FALSE,61,Delhi,8,1,3860,Paid
+13-08-2024,Sikanderpur,Bike,Speeding,1289,FALSE,Cloudy,Afternoon,Under Construction,18-25,2,Medium,Expired,TRUE,38,Delhi,10,3,777,Disputed
+13-01-2024,Signature Tower Chowk,Bus,Red-Light Jump,4415,TRUE,Clear,Night,Dry,18-25,4,Low,Valid,TRUE,34,Uttar Pradesh,3,3,4463,Paid
+09-08-2024,Sector 29,Auto-rickshaw,Red-Light Jump,3102,FALSE,Cloudy,Morning,Wet,26-35,2,High,Valid,TRUE,110,Rajasthan,4,1,698,Unpaid
+19-08-2024,Rajiv Chowk,Bus,Speeding,2046,FALSE,Stormy,Morning,Under Construction,36-50,2,Medium,Valid,FALSE,34,Delhi,5,2,578,Disputed
+24-04-2024,MG Road,Bus,Red-Light Jump,,FALSE,Foggy,Night,Dry,50+,5,High,Suspended,FALSE,17,Uttar Pradesh,1,1,3669,Unpaid
+01-10-2024,Sikanderpur,Auto-rickshaw,Speeding,2855,FALSE,Clear,Evening,Slippery,26-35,5,Medium,Expired,TRUE,76,Uttar Pradesh,6,1,1088,Disputed
+18-08-2024,Cyber City,Truck,Wrong-Side Driving,7476,TRUE,Foggy,Night,Slippery,50+,3,Medium,Valid,TRUE,3,Haryana,9,1,2542,Paid
+04-05-2024,Sector 29,Bus,Speeding,1926,TRUE,Rainy,Morning,Under Construction,26-35,2,Medium,Valid,TRUE,89,Uttar Pradesh,3,1,3532,Unpaid
+23-07-2024,Huda City Center,Bus,Wrong-Side Driving,5304,TRUE,Cloudy,Evening,Wet,50+,4,Medium,Suspended,FALSE,62,Rajasthan,7,3,2916,Unpaid
+27-09-2024,NH-8,Bus,Red-Light Jump,,FALSE,Clear,Evening,Dry,26-35,2,High,Expired,TRUE,7,Uttar Pradesh,9,3,1997,Disputed
+18-05-2024,Udyog Vihar,Bus,DUI,5072,FALSE,Clear,Night,Slippery,26-35,2,Medium,Expired,TRUE,57,Haryana,5,1,4010,Unpaid
+04-05-2024,Huda City Center,Car,Red-Light Jump,1518,FALSE,Cloudy,Afternoon,Wet,26-35,4,Medium,Expired,FALSE,69,Haryana,1,3,2457,Paid
+28-08-2024,Golf Course Road,Truck,Red-Light Jump,2668,TRUE,Stormy,Evening,Under Construction,50+,1,Low,Expired,FALSE,65,Delhi,7,1,4002,Unpaid
+10-08-2024,Huda City Center,Truck,DUI,8097,TRUE,Stormy,Night,Under Construction,18-25,3,Low,Suspended,FALSE,71,Punjab,3,3,2259,Disputed
+08-04-2024,IFFCO Chowk,Bus,DUI,5407,FALSE,Cloudy,Afternoon,Wet,50+,1,Medium,Expired,FALSE,12,Punjab,4,1,4023,Unpaid
+22-02-2024,Udyog Vihar,Bike,Wrong-Side Driving,2724,FALSE,Cloudy,Afternoon,Wet,26-35,3,Low,Expired,TRUE,90,Punjab,9,3,3333,Paid
+08-04-2024,Cyber City,Car,Red-Light Jump,3752,FALSE,Cloudy,Evening,Dry,50+,0,Medium,Learner,TRUE,28,Punjab,4,1,1920,Disputed
+26-04-2024,Sikanderpur,Car,Wrong-Side Driving,5418,TRUE,Clear,Morning,Under Construction,36-50,0,High,Learner,FALSE,60,Haryana,10,1,3262,Paid
+09-10-2024,Golf Course Road,Car,No Seatbelt,,FALSE,Foggy,Afternoon,Wet,36-50,2,Low,Learner,TRUE,51,Rajasthan,4,3,2381,Paid
+07-08-2024,NH-8,Truck,Speeding,2397,FALSE,Foggy,Morning,Under Construction,50+,3,Low,Expired,FALSE,103,Rajasthan,5,2,784,Unpaid
+01-08-2024,Sikanderpur,Auto-rickshaw,Red-Light Jump,2039,TRUE,Cloudy,Afternoon,Dry,18-25,4,Low,Suspended,TRUE,101,Delhi,6,3,4470,Paid
+22-01-2024,Sikanderpur,Bus,Speeding,2139,TRUE,Stormy,Morning,Dry,36-50,1,Medium,Expired,TRUE,27,Punjab,9,3,3142,Paid
+28-08-2024,IFFCO Chowk,Bus,No Seatbelt,1000,FALSE,Stormy,Morning,Dry,36-50,1,High,Expired,TRUE,97,Punjab,7,3,2259,Paid
+02-11-2024,Sheetala Mata Road,Bike,Red-Light Jump,7885,FALSE,Foggy,Evening,Under Construction,18-25,3,Low,Learner,TRUE,9,Uttar Pradesh,3,1,3815,Disputed
+07-02-2024,NH-8,Truck,No Seatbelt,1000,TRUE,Rainy,Morning,Dry,18-25,1,Low,Suspended,TRUE,41,Rajasthan,5,3,2227,Disputed
+28-10-2024,Sohna Road near Iris Tech Park,Auto-rickshaw,No Seatbelt,1000,TRUE,Foggy,Afternoon,Slippery,18-25,0,High,Valid,TRUE,113,Haryana,4,2,4324,Unpaid
+14-12-2024,Sector 56,Car,Speeding,4776,FALSE,Cloudy,Morning,Dry,50+,4,Medium,Suspended,FALSE,64,Delhi,10,1,4540,Unpaid
+14-07-2024,Udyog Vihar,Truck,DUI,9744,FALSE,Foggy,Morning,Under Construction,18-25,5,Medium,Suspended,FALSE,115,Rajasthan,9,1,2739,Unpaid
+19-10-2024,Udyog Vihar,Truck,DUI,5558,TRUE,Foggy,Afternoon,Dry,50+,3,Low,Learner,TRUE,97,Punjab,1,3,2770,Disputed
+23-01-2024,MG Road,Auto-rickshaw,No Seatbelt,1000,FALSE,Cloudy,Evening,Under Construction,36-50,1,Medium,Learner,TRUE,44,Rajasthan,1,2,1788,Disputed
+02-10-2024,Sheetala Mata Road,Auto-rickshaw,Red-Light Jump,1536,TRUE,Clear,Morning,Under Construction,50+,1,Medium,Valid,FALSE,46,Rajasthan,2,2,3610,Disputed
+28-02-2024,Signature Tower Chowk,Bus,No Seatbelt,1000,TRUE,Stormy,Afternoon,Slippery,36-50,3,High,Valid,FALSE,91,Uttar Pradesh,9,3,593,Disputed
+02-08-2024,Sheetala Mata Road,Auto-rickshaw,DUI,6023,FALSE,Foggy,Night,Under Construction,18-25,5,Medium,Learner,TRUE,85,Rajasthan,5,3,3433,Disputed
+26-10-2024,Sikanderpur,Bike,No Helmet,1000,TRUE,Rainy,Afternoon,Under Construction,50+,2,Medium,Suspended,FALSE,21,Haryana,5,2,1806,Unpaid
+26-07-2024,Sector 29,Bus,Red-Light Jump,3438,TRUE,Stormy,Afternoon,Wet,36-50,4,Medium,Expired,TRUE,31,Haryana,9,3,3377,Unpaid
+26-06-2024,Udyog Vihar,Auto-rickshaw,Red-Light Jump,3725,FALSE,Stormy,Evening,Slippery,26-35,1,Low,Valid,FALSE,79,Delhi,9,2,870,Paid
+20-03-2024,IFFCO Chowk,Bus,DUI,9390,FALSE,Stormy,Evening,Under Construction,36-50,5,High,Expired,TRUE,59,Rajasthan,1,2,4971,Paid
+15-09-2024,Rajiv Chowk,Bike,Red-Light Jump,4298,FALSE,Cloudy,Evening,Wet,36-50,1,Medium,Suspended,TRUE,55,Delhi,10,3,2028,Disputed
+07-09-2024,Sikanderpur,Truck,DUI,6186,TRUE,Cloudy,Night,Dry,36-50,4,High,Suspended,FALSE,91,Haryana,1,1,1230,Unpaid
+13-08-2024,MG Road,Bike,Speeding,3316,TRUE,Rainy,Afternoon,Dry,36-50,4,High,Suspended,TRUE,30,Rajasthan,10,2,3048,Paid
+19-08-2024,Sector 56,Car,Red-Light Jump,4860,TRUE,Stormy,Evening,Wet,26-35,0,High,Suspended,FALSE,99,Delhi,3,1,4296,Paid
+21-09-2024,Sohna Road near Iris Tech Park,Bike,Red-Light Jump,3490,FALSE,Clear,Morning,Wet,50+,1,Medium,Learner,FALSE,89,Uttar Pradesh,8,1,2396,Unpaid
+20-03-2024,Sector 56,Truck,Wrong-Side Driving,,TRUE,Foggy,Night,Dry,36-50,4,Low,Suspended,TRUE,72,Rajasthan,3,2,2865,Unpaid
+09-11-2024,Rajiv Chowk,Car,DUI,8665,FALSE,Foggy,Night,Under Construction,36-50,0,High,Suspended,FALSE,77,Uttar Pradesh,9,2,2751,Disputed
+26-03-2024,Cyber City,Bike,No Helmet,1000,FALSE,Rainy,Morning,Under Construction,18-25,1,High,Suspended,TRUE,87,Haryana,3,2,3121,Paid
+19-07-2024,Sohna Road near Iris Tech Park,Bus,Wrong-Side Driving,7565,FALSE,Clear,Evening,Slippery,36-50,2,Low,Expired,FALSE,78,Punjab,9,1,1916,Unpaid
+20-02-2024,Manesar Toll,Bike,No Helmet,1000,TRUE,Rainy,Evening,Under Construction,26-35,3,Low,Learner,FALSE,96,Delhi,8,1,4935,Unpaid
+27-10-2024,Sheetala Mata Road,Truck,Red-Light Jump,3699,FALSE,Foggy,Night,Under Construction,26-35,3,Low,Valid,TRUE,93,Uttar Pradesh,4,1,3301,Disputed
+22-11-2024,Sector 29,Bus,Wrong-Side Driving,4245,FALSE,Foggy,Night,Wet,36-50,2,Low,Suspended,TRUE,33,Haryana,3,2,3377,Unpaid
+17-02-2024,Manesar Toll,Car,Red-Light Jump,2233,FALSE,Foggy,Evening,Wet,26-35,1,Medium,Expired,TRUE,8,Haryana,4,1,3022,Disputed
+15-10-2024,Udyog Vihar,Truck,Speeding,2283,FALSE,Rainy,Afternoon,Wet,50+,1,Low,Suspended,FALSE,79,Haryana,3,2,3849,Disputed
+18-11-2024,Sector 56,Bike,Speeding,2914,FALSE,Rainy,Evening,Dry,36-50,0,High,Valid,TRUE,113,Haryana,4,1,3495,Paid
+05-12-2024,Sheetala Mata Road,Truck,Wrong-Side Driving,,FALSE,Foggy,Evening,Under Construction,18-25,2,Low,Learner,FALSE,78,Haryana,10,2,3820,Disputed
+06-11-2024,Sheetala Mata Road,Bus,DUI,9801,FALSE,Stormy,Afternoon,Wet,18-25,1,High,Valid,FALSE,83,Uttar Pradesh,6,1,972,Paid
+20-04-2024,NH-8,Bus,No Seatbelt,1000,FALSE,Cloudy,Morning,Dry,36-50,3,Medium,Learner,FALSE,50,Rajasthan,1,1,4727,Disputed
+25-11-2024,Huda City Center,Car,Wrong-Side Driving,3362,FALSE,Rainy,Morning,Slippery,50+,4,Medium,Expired,FALSE,119,Uttar Pradesh,3,3,4043,Unpaid
+04-07-2024,Sikanderpur,Truck,Speeding,1885,FALSE,Cloudy,Afternoon,Under Construction,50+,1,Low,Valid,FALSE,57,Uttar Pradesh,2,3,2752,Disputed
+05-06-2024,Sector 56,Car,Red-Light Jump,2771,TRUE,Cloudy,Evening,Slippery,36-50,2,Medium,Expired,FALSE,66,Rajasthan,7,2,4424,Disputed
+15-09-2024,Sheetala Mata Road,Auto-rickshaw,No Seatbelt,1000,FALSE,Rainy,Night,Slippery,18-25,5,High,Valid,FALSE,77,Haryana,8,3,886,Unpaid
+11-01-2024,Cyber City,Truck,No Seatbelt,1000,FALSE,Cloudy,Afternoon,Dry,18-25,2,High,Expired,TRUE,34,Delhi,2,1,3705,Unpaid
+04-06-2024,Manesar Toll,Bus,Speeding,1976,TRUE,Cloudy,Afternoon,Wet,50+,1,High,Suspended,FALSE,94,Punjab,10,3,3981,Paid
+22-04-2024,IFFCO Chowk,Car,No Seatbelt,1000,TRUE,Foggy,Night,Under Construction,26-35,4,Medium,Suspended,FALSE,109,Punjab,7,3,1804,Unpaid
+26-03-2024,MG Road,Truck,Red-Light Jump,3939,FALSE,Clear,Morning,Dry,26-35,1,Medium,Suspended,TRUE,27,Delhi,6,2,3484,Paid
+27-12-2024,MG Road,Auto-rickshaw,DUI,6912,FALSE,Stormy,Night,Wet,36-50,0,Low,Valid,TRUE,35,Punjab,1,2,3912,Disputed
+11-11-2024,Manesar Toll,Truck,Red-Light Jump,2493,FALSE,Clear,Evening,Dry,36-50,3,Low,Valid,TRUE,22,Haryana,9,3,2517,Paid
+06-08-2024,Rajiv Chowk,Bike,No Helmet,1000,TRUE,Clear,Afternoon,Wet,26-35,5,High,Valid,TRUE,33,Haryana,10,3,3000,Paid
+12-06-2024,NH-8,Car,DUI,9693,FALSE,Foggy,Afternoon,Slippery,26-35,2,High,Learner,TRUE,115,Delhi,4,3,1417,Disputed
+24-08-2024,IFFCO Chowk,Bus,DUI,9709,FALSE,Foggy,Evening,Wet,26-35,4,Low,Expired,TRUE,37,Delhi,5,1,2401,Disputed
+21-07-2024,Rajiv Chowk,Bike,Wrong-Side Driving,,TRUE,Clear,Morning,Dry,50+,0,Low,Expired,FALSE,36,Uttar Pradesh,2,3,3443,Paid
+23-04-2024,Sector 56,Bus,Wrong-Side Driving,6672,TRUE,Clear,Morning,Slippery,36-50,5,Medium,Learner,FALSE,4,Rajasthan,4,2,1429,Paid
+13-06-2024,Signature Tower Chowk,Car,No Seatbelt,1000,FALSE,Foggy,Afternoon,Under Construction,36-50,2,High,Valid,TRUE,66,Uttar Pradesh,8,2,1492,Paid
+02-06-2024,Sikanderpur,Truck,DUI,9492,FALSE,Rainy,Morning,Wet,50+,3,High,Suspended,FALSE,61,Punjab,8,1,4724,Unpaid
+19-01-2024,Cyber City,Auto-rickshaw,No Seatbelt,1000,FALSE,Rainy,Night,Dry,36-50,4,Medium,Learner,TRUE,105,Uttar Pradesh,3,1,4503,Disputed
+10-03-2024,Sheetala Mata Road,Auto-rickshaw,DUI,9543,TRUE,Stormy,Evening,Wet,50+,4,Medium,Expired,TRUE,96,Delhi,6,3,3807,Disputed
+14-06-2024,Sikanderpur,Auto-rickshaw,DUI,9602,FALSE,Rainy,Evening,Slippery,36-50,5,High,Expired,TRUE,91,Haryana,7,2,1434,Paid
+21-05-2024,Sikanderpur,Bus,Speeding,1608,TRUE,Foggy,Night,Dry,26-35,0,Medium,Expired,TRUE,17,Delhi,6,1,1864,Disputed
+10-11-2024,Rajiv Chowk,Truck,No Seatbelt,1000,TRUE,Rainy,Evening,Slippery,26-35,4,Low,Expired,TRUE,69,Uttar Pradesh,3,2,4337,Disputed
+12-08-2024,Sikanderpur,Bike,No Helmet,1000,FALSE,Foggy,Evening,Slippery,18-25,2,Medium,Expired,FALSE,117,Delhi,4,2,2782,Disputed
+18-10-2024,Cyber City,Auto-rickshaw,DUI,5054,TRUE,Cloudy,Afternoon,Dry,36-50,3,High,Expired,TRUE,26,Haryana,2,1,4817,Paid
+22-10-2024,Rajiv Chowk,Bus,Red-Light Jump,2720,FALSE,Cloudy,Morning,Wet,26-35,5,High,Suspended,TRUE,40,Haryana,5,2,2340,Disputed
+01-03-2024,Sheetala Mata Road,Auto-rickshaw,Speeding,2370,FALSE,Stormy,Evening,Dry,26-35,0,High,Suspended,TRUE,60,Haryana,7,1,3860,Unpaid
+09-11-2024,Sector 29,Bike,Red-Light Jump,4658,FALSE,Clear,Afternoon,Under Construction,50+,2,Low,Expired,TRUE,99,Rajasthan,10,3,4072,Paid
+18-04-2024,Sector 29,Truck,Speeding,1385,TRUE,Foggy,Afternoon,Wet,18-25,5,Medium,Learner,FALSE,11,Haryana,6,1,2577,Disputed
+21-09-2024,Sikanderpur,Bike,No Helmet,1000,FALSE,Clear,Afternoon,Under Construction,50+,2,Low,Valid,TRUE,0,Rajasthan,4,3,2647,Disputed
+28-12-2024,Sector 29,Truck,Red-Light Jump,2362,TRUE,Foggy,Night,Slippery,36-50,0,High,Learner,FALSE,29,Delhi,6,3,1460,Paid
+17-09-2024,NH-8,Truck,DUI,7930,TRUE,Clear,Evening,Dry,18-25,2,Medium,Suspended,FALSE,72,Punjab,5,1,3870,Paid
+13-11-2024,Manesar Toll,Bus,DUI,8691,TRUE,Stormy,Night,Wet,50+,5,High,Learner,TRUE,35,Delhi,6,2,2976,Paid
+28-05-2024,Sheetala Mata Road,Car,Red-Light Jump,4106,TRUE,Stormy,Evening,Under Construction,36-50,5,Low,Learner,TRUE,77,Punjab,1,2,2945,Disputed
+07-04-2024,Sheetala Mata Road,Auto-rickshaw,Speeding,3161,TRUE,Foggy,Night,Dry,36-50,5,Medium,Expired,FALSE,12,Delhi,9,1,3737,Paid
+14-11-2024,Sheetala Mata Road,Bus,No Seatbelt,1000,FALSE,Foggy,Afternoon,Slippery,50+,1,High,Learner,TRUE,20,Uttar Pradesh,9,1,2046,Paid
+10-08-2024,Sohna Road near Iris Tech Park,Car,Speeding,2453,TRUE,Foggy,Night,Slippery,26-35,1,Medium,Expired,FALSE,57,Punjab,4,3,629,Disputed
+07-10-2024,IFFCO Chowk,Bike,DUI,8239,TRUE,Rainy,Afternoon,Wet,36-50,3,High,Expired,TRUE,118,Haryana,5,2,518,Paid
+01-02-2024,Sohna Road near Iris Tech Park,Bus,DUI,7372,FALSE,Foggy,Evening,Wet,18-25,4,Low,Suspended,FALSE,73,Rajasthan,5,1,4767,Paid
+25-07-2024,Rajiv Chowk,Bus,No Seatbelt,1000,FALSE,Stormy,Evening,Dry,18-25,0,Medium,Suspended,TRUE,91,Punjab,6,3,1397,Unpaid
+09-10-2024,Sikanderpur,Auto-rickshaw,No Seatbelt,1000,FALSE,Clear,Evening,Slippery,26-35,2,Medium,Valid,TRUE,24,Delhi,6,1,4600,Unpaid
+14-12-2024,Cyber City,Bike,No Helmet,1000,FALSE,Rainy,Afternoon,Dry,18-25,2,Medium,Learner,FALSE,61,Haryana,1,1,2262,Paid
+16-01-2024,Cyber City,Bike,No Helmet,1000,FALSE,Cloudy,Morning,Slippery,18-25,2,High,Expired,FALSE,50,Delhi,3,3,1161,Disputed
+10-11-2024,Huda City Center,Car,Red-Light Jump,3645,FALSE,Rainy,Afternoon,Dry,26-35,4,Low,Learner,FALSE,118,Rajasthan,4,3,4577,Unpaid
+20-11-2024,Sector 56,Truck,DUI,6050,FALSE,Cloudy,Night,Dry,26-35,4,Medium,Expired,FALSE,28,Punjab,3,3,1774,Disputed
+26-09-2024,Sikanderpur,Auto-rickshaw,DUI,9449,FALSE,Foggy,Evening,Wet,50+,3,Low,Learner,TRUE,73,Haryana,6,3,2100,Unpaid
+16-11-2024,Sector 29,Bus,Red-Light Jump,4488,FALSE,Foggy,Morning,Dry,18-25,4,High,Expired,TRUE,92,Delhi,1,1,2315,Unpaid
+17-02-2024,Sector 56,Bike,Speeding,1935,TRUE,Rainy,Night,Wet,50+,1,High,Expired,TRUE,84,Punjab,1,1,2642,Disputed
+18-08-2024,Signature Tower Chowk,Car,DUI,8481,FALSE,Foggy,Night,Slippery,18-25,4,Medium,Suspended,FALSE,45,Haryana,4,2,4833,Disputed
+23-06-2024,Sohna Road near Iris Tech Park,Truck,Speeding,,FALSE,Stormy,Morning,Under Construction,26-35,4,Low,Valid,FALSE,111,Rajasthan,1,3,4196,Disputed
+24-06-2024,IFFCO Chowk,Car,Red-Light Jump,3014,FALSE,Clear,Morning,Under Construction,26-35,0,Medium,Learner,FALSE,61,Haryana,10,3,4917,Unpaid
+07-06-2024,NH-8,Bus,Speeding,18340,FALSE,Rainy,Night,Slippery,18-25,3,High,Learner,FALSE,116,Uttar Pradesh,4,1,3391,Paid
+09-06-2024,Sector 29,Bike,Red-Light Jump,4193,FALSE,Rainy,Night,Under Construction,18-25,3,High,Learner,TRUE,68,Haryana,8,1,3225,Unpaid
+16-11-2024,Sector 56,Truck,Speeding,,FALSE,Clear,Evening,Dry,26-35,5,High,Valid,TRUE,12,Uttar Pradesh,8,3,3776,Unpaid
+27-12-2024,Sikanderpur,Auto-rickshaw,Red-Light Jump,2151,TRUE,Stormy,Afternoon,Dry,18-25,3,High,Expired,FALSE,106,Punjab,1,2,4389,Disputed
+16-03-2024,Cyber City,Truck,Speeding,2864,TRUE,Cloudy,Evening,Under Construction,50+,1,High,Valid,FALSE,5,Uttar Pradesh,1,2,3092,Paid
+10-05-2024,Sector 29,Car,Wrong-Side Driving,5718,FALSE,Clear,Morning,Dry,26-35,4,Medium,Valid,TRUE,106,Delhi,8,3,927,Unpaid
+08-12-2024,Sikanderpur,Bus,DUI,7285,FALSE,Foggy,Night,Dry,18-25,0,Low,Expired,FALSE,36,Haryana,6,2,1130,Paid
+26-09-2024,Golf Course Road,Bus,Speeding,4758,TRUE,Stormy,Evening,Slippery,18-25,2,High,Learner,TRUE,90,Uttar Pradesh,2,2,3450,Unpaid
+20-01-2024,Huda City Center,Bus,DUI,6232,FALSE,Rainy,Evening,Wet,36-50,3,Medium,Valid,FALSE,12,Uttar Pradesh,3,1,2663,Paid
+20-09-2024,Sheetala Mata Road,Bus,No Seatbelt,1000,FALSE,Rainy,Afternoon,Slippery,50+,5,Medium,Suspended,TRUE,43,Uttar Pradesh,5,1,1659,Unpaid
+21-09-2024,Sector 56,Bike,No Helmet,1000,FALSE,Rainy,Night,Under Construction,50+,1,High,Learner,FALSE,30,Uttar Pradesh,2,2,3588,Paid
+17-11-2024,Sheetala Mata Road,Bike,Red-Light Jump,3096,FALSE,Cloudy,Night,Wet,26-35,1,Low,Learner,TRUE,95,Punjab,8,2,2341,Unpaid
+19-07-2024,Golf Course Road,Bus,No Seatbelt,5000,FALSE,Stormy,Night,Under Construction,18-25,3,Low,Suspended,FALSE,55,Haryana,1,3,1040,Disputed
+06-08-2024,Cyber City,Bus,No Seatbelt,1000,FALSE,Stormy,Afternoon,Slippery,26-35,1,Low,Valid,TRUE,111,Rajasthan,6,3,2524,Paid
+06-03-2024,MG Road,Car,No Seatbelt,1000,TRUE,Cloudy,Morning,Under Construction,26-35,2,Low,Expired,TRUE,102,Punjab,9,2,3047,Disputed
+27-06-2024,Cyber City,Car,DUI,5282,FALSE,Stormy,Evening,Dry,18-25,1,Medium,Learner,TRUE,24,Uttar Pradesh,3,3,4391,Disputed
+03-02-2024,Cyber City,Auto-rickshaw,Speeding,4346,FALSE,Cloudy,Afternoon,Slippery,50+,1,Medium,Suspended,TRUE,92,Haryana,5,2,3073,Unpaid
+07-04-2024,Cyber City,Bus,No Seatbelt,1000,FALSE,Cloudy,Morning,Wet,36-50,5,Medium,Valid,FALSE,8,Delhi,5,2,4001,Disputed
+21-11-2024,Manesar Toll,Bike,No Helmet,1000,TRUE,Clear,Evening,Dry,50+,0,High,Expired,TRUE,41,Rajasthan,5,3,3941,Paid
+26-05-2024,Sikanderpur,Car,Speeding,3263,TRUE,Cloudy,Evening,Under Construction,18-25,3,Medium,Learner,FALSE,13,Rajasthan,6,2,2748,Paid
+07-03-2024,MG Road,Auto-rickshaw,DUI,6605,TRUE,Rainy,Evening,Dry,50+,0,High,Learner,TRUE,101,Rajasthan,2,1,2580,Unpaid
+28-03-2024,MG Road,Truck,Wrong-Side Driving,3015,TRUE,Stormy,Night,Slippery,36-50,2,Medium,Valid,FALSE,99,Delhi,9,2,1712,Paid
+24-10-2024,Cyber City,Bike,Red-Light Jump,2479,FALSE,Rainy,Evening,Slippery,26-35,2,High,Expired,TRUE,9,Punjab,7,3,3011,Disputed
+26-09-2024,Cyber City,Truck,Red-Light Jump,3024,FALSE,Clear,Night,Slippery,26-35,0,Low,Valid,TRUE,32,Rajasthan,4,2,3209,Disputed
+18-09-2024,Sohna Road near Iris Tech Park,Bus,No Seatbelt,1000,TRUE,Foggy,Night,Under Construction,26-35,5,Medium,Valid,FALSE,72,Delhi,7,1,3378,Disputed
+27-04-2024,Sector 29,Bus,No Seatbelt,1000,FALSE,Stormy,Evening,Wet,26-35,3,High,Learner,TRUE,0,Haryana,6,1,4687,Unpaid
+11-10-2024,NH-8,Car,Red-Light Jump,1849,TRUE,Foggy,Night,Slippery,18-25,1,Low,Expired,TRUE,32,Haryana,9,2,1231,Disputed
+11-05-2024,Manesar Toll,Bike,No Helmet,1000,FALSE,Stormy,Afternoon,Slippery,26-35,0,Low,Valid,FALSE,89,Delhi,9,3,525,Disputed
+01-09-2024,NH-8,Bike,No Helmet,1000,TRUE,Clear,Afternoon,Dry,50+,1,Medium,Valid,TRUE,47,Delhi,3,1,3215,Paid
+05-04-2024,Sector 56,Car,DUI,,TRUE,Clear,Night,Under Construction,50+,5,Medium,Suspended,TRUE,14,Haryana,3,2,919,Disputed
+23-08-2024,Huda City Center,Truck,DUI,5954,FALSE,Stormy,Morning,Wet,18-25,4,High,Suspended,FALSE,53,Uttar Pradesh,3,2,2679,Paid
+20-02-2024,MG Road,Bus,Speeding,,FALSE,Rainy,Morning,Dry,50+,5,Medium,Expired,FALSE,7,Haryana,5,2,3855,Paid
+15-09-2024,Sikanderpur,Bike,No Helmet,1000,FALSE,Stormy,Evening,Wet,50+,2,Low,Learner,FALSE,14,Punjab,6,3,4150,Unpaid
+13-11-2024,Golf Course Road,Bike,Speeding,3130,FALSE,Foggy,Afternoon,Under Construction,18-25,0,Medium,Learner,TRUE,105,Delhi,10,1,681,Paid
+20-04-2024,Huda City Center,Truck,Wrong-Side Driving,7565,TRUE,Foggy,Morning,Slippery,50+,2,Low,Learner,TRUE,63,Haryana,4,3,2251,Unpaid
+04-08-2024,Sector 29,Bus,Wrong-Side Driving,7989,FALSE,Clear,Morning,Slippery,36-50,2,High,Learner,TRUE,90,Punjab,3,2,3037,Paid
+07-12-2024,Udyog Vihar,Bus,Speeding,2548,TRUE,Rainy,Afternoon,Slippery,36-50,4,High,Expired,FALSE,52,Delhi,7,2,4141,Unpaid
+16-02-2024,Udyog Vihar,Bike,Speeding,3468,FALSE,Clear,Afternoon,Wet,36-50,0,Low,Learner,TRUE,18,Punjab,6,3,1044,Paid
+11-04-2024,NH-8,Bike,No Helmet,1000,FALSE,Stormy,Afternoon,Slippery,18-25,3,Medium,Learner,FALSE,43,Delhi,4,1,2835,Disputed
+11-07-2024,Sector 56,Car,No Seatbelt,1000,FALSE,Stormy,Afternoon,Slippery,36-50,1,Medium,Learner,TRUE,116,Haryana,6,3,3416,Unpaid
+14-11-2024,Cyber City,Car,Wrong-Side Driving,5718,FALSE,Stormy,Afternoon,Under Construction,36-50,4,High,Valid,TRUE,35,Delhi,10,2,3013,Unpaid
+08-06-2024,Sheetala Mata Road,Car,Speeding,,FALSE,Clear,Evening,Dry,50+,2,Medium,Expired,FALSE,112,Rajasthan,8,3,1227,Unpaid
+07-11-2024,Sheetala Mata Road,Bus,Wrong-Side Driving,2935,TRUE,Rainy,Afternoon,Dry,26-35,3,High,Valid,FALSE,44,Uttar Pradesh,6,2,4946,Unpaid
+13-10-2024,Golf Course Road,Truck,No Seatbelt,1000,FALSE,Foggy,Morning,Under Construction,36-50,0,Low,Suspended,FALSE,43,Haryana,2,1,3371,Paid
+17-06-2024,NH-8,Car,Wrong-Side Driving,7693,FALSE,Cloudy,Evening,Slippery,26-35,5,Medium,Suspended,FALSE,65,Haryana,7,2,4674,Disputed
+04-07-2024,Udyog Vihar,Car,Wrong-Side Driving,3584,FALSE,Clear,Morning,Slippery,36-50,4,Medium,Learner,FALSE,104,Haryana,10,1,838,Disputed
+13-07-2024,MG Road,Truck,Red-Light Jump,3910,TRUE,Rainy,Evening,Dry,18-25,2,High,Valid,TRUE,27,Rajasthan,2,2,4390,Unpaid
+18-02-2024,Huda City Center,Auto-rickshaw,No Seatbelt,1000,FALSE,Foggy,Night,Slippery,36-50,3,Low,Suspended,FALSE,32,Delhi,10,3,3121,Disputed
+06-07-2024,Sohna Road near Iris Tech Park,Bus,Red-Light Jump,3725,TRUE,Clear,Morning,Dry,36-50,1,High,Valid,FALSE,31,Delhi,7,1,1819,Unpaid
+04-02-2024,Sheetala Mata Road,Auto-rickshaw,DUI,5668,FALSE,Clear,Afternoon,Dry,26-35,0,High,Expired,FALSE,27,Haryana,2,3,1479,Paid
+25-08-2024,Golf Course Road,Bus,Speeding,2829,TRUE,Rainy,Morning,Slippery,18-25,1,High,Expired,TRUE,80,Rajasthan,10,3,1847,Unpaid
+24-05-2024,Sector 29,Bike,Wrong-Side Driving,4781,TRUE,Rainy,Afternoon,Wet,36-50,0,Low,Valid,FALSE,118,Uttar Pradesh,9,1,3258,Paid
+11-03-2024,IFFCO Chowk,Bus,No Seatbelt,1000,FALSE,Rainy,Afternoon,Wet,50+,0,Medium,Learner,TRUE,34,Delhi,1,1,850,Disputed
+02-08-2024,Sohna Road near Iris Tech Park,Bike,Wrong-Side Driving,4672,FALSE,Cloudy,Morning,Dry,18-25,2,Low,Expired,TRUE,60,Haryana,8,1,4098,Unpaid
+15-06-2024,Signature Tower Chowk,Bike,DUI,7629,FALSE,Clear,Morning,Slippery,26-35,1,Low,Suspended,FALSE,60,Haryana,4,2,966,Unpaid
+13-01-2024,IFFCO Chowk,Car,No Seatbelt,1000,FALSE,Rainy,Afternoon,Wet,50+,1,Low,Valid,FALSE,119,Delhi,8,3,1423,Disputed
+03-03-2024,Udyog Vihar,Bus,No Seatbelt,1000,FALSE,Cloudy,Night,Under Construction,36-50,4,Medium,Valid,TRUE,14,Uttar Pradesh,7,3,4730,Paid
+24-08-2024,Sohna Road near Iris Tech Park,Auto-rickshaw,Red-Light Jump,3421,FALSE,Foggy,Night,Wet,50+,0,Low,Suspended,FALSE,76,Uttar Pradesh,3,1,1525,Paid
+16-05-2024,Sector 29,Bike,Wrong-Side Driving,,FALSE,Cloudy,Morning,Slippery,18-25,3,Medium,Suspended,FALSE,86,Punjab,7,2,3365,Paid
+13-07-2024,Sector 56,Auto-rickshaw,No Seatbelt,1000,FALSE,Rainy,Evening,Dry,18-25,5,High,Suspended,TRUE,71,Punjab,1,3,4511,Unpaid
+17-04-2024,Sikanderpur,Car,No Seatbelt,1000,FALSE,Cloudy,Morning,Under Construction,36-50,0,High,Suspended,FALSE,70,Punjab,10,1,1495,Unpaid
+14-10-2024,Rajiv Chowk,Bike,DUI,7993,FALSE,Cloudy,Night,Under Construction,36-50,0,High,Learner,FALSE,88,Rajasthan,3,1,2626,Unpaid
+21-03-2024,Sector 56,Truck,DUI,9292,FALSE,Cloudy,Morning,Under Construction,18-25,0,High,Valid,TRUE,103,Uttar Pradesh,4,1,528,Paid
+05-06-2024,Manesar Toll,Truck,Speeding,4308,TRUE,Foggy,Evening,Under Construction,36-50,5,Low,Expired,FALSE,120,Punjab,5,2,2210,Paid
+05-10-2024,Cyber City,Auto-rickshaw,Speeding,2247,TRUE,Foggy,Evening,Wet,50+,2,Low,Learner,FALSE,55,Rajasthan,10,3,2422,Disputed
+19-03-2024,Sikanderpur,Bike,No Helmet,1000,FALSE,Rainy,Night,Dry,50+,0,Low,Valid,TRUE,21,Haryana,6,2,4364,Unpaid
+08-04-2024,Cyber City,Car,No Seatbelt,1000,TRUE,Cloudy,Morning,Dry,26-35,5,Low,Learner,TRUE,41,Punjab,9,2,3283,Disputed
+15-11-2024,Signature Tower Chowk,Truck,Wrong-Side Driving,6405,FALSE,Foggy,Evening,Slippery,26-35,5,High,Expired,TRUE,92,Delhi,2,1,3865,Disputed
+25-08-2024,Sohna Road near Iris Tech Park,Bus,Wrong-Side Driving,6029,TRUE,Cloudy,Morning,Under Construction,50+,0,High,Expired,FALSE,79,Rajasthan,9,2,2066,Disputed
+01-12-2024,Sohna Road near Iris Tech Park,Bike,No Helmet,,TRUE,Stormy,Morning,Wet,18-25,3,Medium,Learner,FALSE,117,Punjab,8,3,1877,Paid
+28-06-2024,Manesar Toll,Truck,Speeding,2062,TRUE,Stormy,Morning,Wet,26-35,5,Low,Expired,FALSE,113,Haryana,6,3,976,Disputed
+22-04-2024,Sohna Road near Iris Tech Park,Auto-rickshaw,Speeding,1787,TRUE,Foggy,Morning,Slippery,26-35,1,High,Learner,FALSE,56,Punjab,6,2,915,Paid
+07-03-2024,Udyog Vihar,Truck,No Seatbelt,1000,TRUE,Stormy,Night,Slippery,36-50,3,High,Valid,FALSE,24,Punjab,1,1,1220,Unpaid
+21-10-2024,Huda City Center,Auto-rickshaw,Red-Light Jump,3504,FALSE,Stormy,Afternoon,Slippery,36-50,5,High,Learner,FALSE,28,Punjab,5,2,2470,Paid
+06-12-2024,Cyber City,Car,Wrong-Side Driving,,FALSE,Rainy,Afternoon,Slippery,50+,0,Medium,Valid,TRUE,112,Punjab,4,2,949,Unpaid
+03-01-2024,Sohna Road near Iris Tech Park,Truck,Wrong-Side Driving,3040,TRUE,Clear,Evening,Slippery,18-25,4,Low,Learner,FALSE,88,Punjab,4,2,764,Unpaid
+10-02-2024,Sector 56,Auto-rickshaw,Speeding,3823,TRUE,Rainy,Evening,Slippery,26-35,5,Low,Expired,FALSE,26,Punjab,4,2,3625,Paid
+18-01-2024,Sohna Road near Iris Tech Park,Car,Wrong-Side Driving,4725,TRUE,Clear,Night,Slippery,50+,5,Low,Valid,TRUE,27,Rajasthan,4,2,3879,Disputed
+06-07-2024,Sikanderpur,Auto-rickshaw,Speeding,4076,FALSE,Rainy,Night,Dry,36-50,1,Low,Suspended,FALSE,5,Delhi,8,2,4100,Disputed
+01-07-2024,Sikanderpur,Bus,Speeding,3787,TRUE,Foggy,Morning,Slippery,26-35,4,High,Expired,TRUE,24,Haryana,3,2,3284,Unpaid
+24-10-2024,Manesar Toll,Auto-rickshaw,Wrong-Side Driving,5605,TRUE,Cloudy,Morning,Dry,18-25,2,Low,Learner,FALSE,80,Delhi,2,3,4150,Paid
+24-10-2024,NH-8,Car,Wrong-Side Driving,,FALSE,Stormy,Morning,Wet,26-35,2,Low,Learner,TRUE,61,Delhi,8,2,4800,Disputed
+21-10-2024,Sohna Road near Iris Tech Park,Auto-rickshaw,DUI,5357,FALSE,Clear,Afternoon,Wet,26-35,3,High,Valid,FALSE,56,Haryana,2,2,889,Paid
+27-01-2024,Huda City Center,Auto-rickshaw,Speeding,3838,TRUE,Cloudy,Afternoon,Slippery,18-25,2,Medium,Learner,FALSE,6,Punjab,10,3,2978,Unpaid
+06-12-2024,Rajiv Chowk,Bike,DUI,7929,FALSE,Stormy,Night,Slippery,18-25,3,Medium,Expired,FALSE,79,Rajasthan,4,1,1114,Unpaid
+06-09-2024,Sector 29,Bus,No Seatbelt,1000,FALSE,Stormy,Night,Dry,18-25,5,Medium,Valid,FALSE,23,Punjab,5,2,4578,Disputed
+02-11-2024,Golf Course Road,Auto-rickshaw,DUI,9440,FALSE,Rainy,Evening,Wet,50+,5,Medium,Suspended,TRUE,8,Uttar Pradesh,2,3,2227,Paid
+12-12-2024,Manesar Toll,Truck,DUI,8918,FALSE,Rainy,Evening,Under Construction,18-25,5,Medium,Suspended,FALSE,55,Haryana,2,3,4562,Disputed
+13-11-2024,Sheetala Mata Road,Bike,DUI,5589,TRUE,Stormy,Evening,Slippery,50+,0,High,Suspended,TRUE,18,Haryana,9,1,1341,Paid
+08-05-2024,Sector 29,Auto-rickshaw,Wrong-Side Driving,,FALSE,Rainy,Evening,Dry,26-35,5,Medium,Suspended,FALSE,54,Delhi,2,1,2146,Disputed
+25-07-2024,Sohna Road near Iris Tech Park,Bike,DUI,6863,TRUE,Foggy,Night,Dry,26-35,2,Medium,Expired,FALSE,109,Uttar Pradesh,3,3,1629,Paid
+22-12-2024,Golf Course Road,Bike,Red-Light Jump,3044,FALSE,Stormy,Morning,Under Construction,26-35,4,High,Learner,TRUE,61,Haryana,4,1,1400,Disputed
+16-12-2024,Huda City Center,Car,DUI,7609,FALSE,Cloudy,Morning,Dry,36-50,1,Low,Valid,FALSE,83,Uttar Pradesh,5,1,4706,Paid
+25-01-2024,Sohna Road near Iris Tech Park,Car,Wrong-Side Driving,3465,FALSE,Rainy,Afternoon,Dry,36-50,0,Medium,Suspended,FALSE,42,Punjab,1,2,1884,Unpaid
+13-01-2024,Udyog Vihar,Bus,Speeding,4316,TRUE,Stormy,Morning,Under Construction,18-25,3,High,Learner,TRUE,92,Delhi,10,1,4854,Unpaid
+16-04-2024,NH-8,Bike,Red-Light Jump,4507,FALSE,Stormy,Afternoon,Slippery,26-35,2,Medium,Expired,FALSE,46,Punjab,10,1,519,Unpaid
+21-04-2024,Sheetala Mata Road,Auto-rickshaw,No Seatbelt,1000,FALSE,Cloudy,Night,Slippery,50+,1,Medium,Valid,TRUE,43,Delhi,6,1,3059,Disputed
+16-11-2024,Signature Tower Chowk,Car,DUI,6036,FALSE,Rainy,Night,Dry,18-25,5,Low,Valid,FALSE,34,Uttar Pradesh,6,3,4248,Unpaid
+25-11-2024,Huda City Center,Auto-rickshaw,Wrong-Side Driving,6423,FALSE,Rainy,Afternoon,Slippery,26-35,5,Low,Suspended,FALSE,40,Punjab,10,2,4407,Paid
+19-02-2024,Sikanderpur,Bus,Wrong-Side Driving,7318,FALSE,Rainy,Afternoon,Wet,50+,2,Low,Learner,TRUE,79,Punjab,4,2,4544,Disputed
+12-08-2024,Sikanderpur,Bus,DUI,6306,TRUE,Cloudy,Morning,Dry,36-50,1,High,Learner,FALSE,73,Punjab,7,2,1586,Unpaid
+04-06-2024,Rajiv Chowk,Bike,No Helmet,1000,FALSE,Cloudy,Night,Under Construction,36-50,4,Medium,Suspended,TRUE,56,Haryana,1,3,2694,Paid
+16-12-2024,Sheetala Mata Road,Bus,Wrong-Side Driving,2386,FALSE,Cloudy,Night,Wet,26-35,4,High,Suspended,TRUE,120,Delhi,9,2,2520,Disputed
+17-11-2024,Manesar Toll,Truck,DUI,8321,TRUE,Stormy,Evening,Wet,26-35,4,Medium,Learner,TRUE,22,Rajasthan,4,3,1889,Disputed
+20-01-2024,Sikanderpur,Truck,DUI,9477,FALSE,Foggy,Evening,Dry,26-35,1,Medium,Expired,TRUE,110,Delhi,4,2,2959,Disputed
+18-04-2024,Sikanderpur,Bus,Speeding,4260,TRUE,Cloudy,Morning,Dry,18-25,0,High,Suspended,TRUE,105,Delhi,1,1,4455,Disputed
+22-02-2024,Sikanderpur,Bike,Speeding,4752,TRUE,Clear,Evening,Wet,26-35,2,Low,Suspended,TRUE,29,Haryana,7,3,3093,Paid
+04-07-2024,NH-8,Truck,Speeding,,FALSE,Rainy,Morning,Slippery,26-35,3,Medium,Suspended,FALSE,76,Haryana,6,3,642,Paid
+02-06-2024,MG Road,Bike,Wrong-Side Driving,5510,TRUE,Cloudy,Morning,Dry,50+,2,Low,Learner,FALSE,13,Punjab,5,3,4846,Paid
+12-01-2024,Huda City Center,Auto-rickshaw,Red-Light Jump,3172,FALSE,Stormy,Afternoon,Slippery,50+,4,Low,Valid,TRUE,98,Punjab,10,1,2788,Paid
+01-04-2024,IFFCO Chowk,Bus,Speeding,,TRUE,Clear,Evening,Under Construction,36-50,2,Low,Valid,FALSE,101,Punjab,5,3,3271,Unpaid
+28-05-2024,Sheetala Mata Road,Car,Speeding,2349,FALSE,Clear,Night,Under Construction,50+,3,Medium,Valid,TRUE,84,Punjab,10,3,3048,Disputed
+27-05-2024,Udyog Vihar,Truck,Speeding,1282,FALSE,Cloudy,Afternoon,Under Construction,36-50,5,Low,Expired,TRUE,65,Uttar Pradesh,4,1,2735,Paid
+17-05-2024,Cyber City,Bus,Wrong-Side Driving,6103,TRUE,Foggy,Night,Dry,50+,3,High,Learner,TRUE,99,Rajasthan,6,2,1226,Paid
+27-01-2024,Sector 29,Bus,Wrong-Side Driving,2974,FALSE,Clear,Morning,Under Construction,18-25,5,High,Suspended,TRUE,6,Haryana,7,3,3551,Unpaid
+11-04-2024,Sheetala Mata Road,Car,DUI,6696,TRUE,Stormy,Morning,Wet,18-25,2,High,Suspended,FALSE,119,Haryana,6,3,4419,Paid
+08-03-2024,Sohna Road near Iris Tech Park,Bike,DUI,9524,FALSE,Foggy,Afternoon,Wet,50+,3,Low,Valid,TRUE,93,Uttar Pradesh,10,2,4906,Disputed
+20-11-2024,Signature Tower Chowk,Bike,Wrong-Side Driving,5652,FALSE,Rainy,Evening,Dry,36-50,2,High,Learner,TRUE,43,Punjab,10,3,4820,Disputed
+08-05-2024,MG Road,Car,Wrong-Side Driving,7565,TRUE,Cloudy,Afternoon,Slippery,50+,3,Low,Expired,TRUE,30,Rajasthan,3,2,2914,Disputed
+16-03-2024,Rajiv Chowk,Bus,Wrong-Side Driving,7437,TRUE,Cloudy,Evening,Under Construction,36-50,2,High,Expired,TRUE,85,Uttar Pradesh,9,2,4192,Paid
+26-06-2024,MG Road,Truck,No Seatbelt,1000,FALSE,Foggy,Night,Slippery,26-35,0,Medium,Learner,FALSE,54,Haryana,6,1,3748,Disputed
+20-03-2024,Sector 29,Auto-rickshaw,Speeding,3435,FALSE,Cloudy,Night,Wet,18-25,5,Medium,Suspended,FALSE,20,Uttar Pradesh,6,3,4713,Disputed
+18-05-2024,Rajiv Chowk,Auto-rickshaw,Red-Light Jump,4626,FALSE,Foggy,Evening,Slippery,50+,5,Low,Expired,FALSE,27,Punjab,3,2,1801,Disputed
+01-12-2024,Sohna Road near Iris Tech Park,Car,Wrong-Side Driving,2592,FALSE,Stormy,Afternoon,Under Construction,18-25,1,High,Learner,FALSE,59,Punjab,8,3,2059,Paid
+14-09-2024,Golf Course Road,Auto-rickshaw,DUI,9017,TRUE,Stormy,Night,Dry,50+,4,Medium,Learner,TRUE,66,Delhi,1,2,3410,Paid
+02-05-2024,Manesar Toll,Truck,DUI,6168,FALSE,Foggy,Evening,Slippery,36-50,3,Low,Valid,TRUE,92,Rajasthan,1,2,4747,Unpaid
+17-01-2024,Sector 29,Truck,Wrong-Side Driving,6379,TRUE,Foggy,Night,Slippery,50+,2,Medium,Learner,FALSE,88,Punjab,7,1,2484,Disputed
+11-03-2024,Rajiv Chowk,Bike,No Helmet,1000,FALSE,Cloudy,Evening,Dry,18-25,1,High,Valid,FALSE,10,Punjab,9,1,2655,Unpaid
+21-08-2024,Manesar Toll,Car,Wrong-Side Driving,5249,TRUE,Rainy,Afternoon,Under Construction,50+,0,Low,Suspended,TRUE,15,Punjab,6,2,2071,Disputed
+15-02-2024,IFFCO Chowk,Bike,DUI,6702,FALSE,Stormy,Night,Wet,18-25,1,Low,Suspended,TRUE,83,Haryana,9,2,1571,Paid
+09-02-2024,Sohna Road near Iris Tech Park,Truck,DUI,5852,FALSE,Clear,Night,Under Construction,36-50,3,Medium,Suspended,FALSE,21,Haryana,3,2,4939,Unpaid
+14-09-2024,NH-8,Truck,Wrong-Side Driving,6926,FALSE,Foggy,Evening,Under Construction,36-50,3,Low,Expired,FALSE,9,Haryana,5,1,4008,Unpaid
+11-11-2024,Manesar Toll,Auto-rickshaw,DUI,7463,TRUE,Rainy,Night,Wet,50+,5,High,Learner,FALSE,120,Haryana,2,3,1633,Paid
+08-11-2024,Huda City Center,Truck,No Seatbelt,1000,TRUE,Cloudy,Evening,Slippery,26-35,5,Low,Valid,FALSE,1,Uttar Pradesh,8,3,1990,Paid
+16-12-2024,Huda City Center,Car,Speeding,1373,FALSE,Stormy,Evening,Under Construction,26-35,0,Medium,Suspended,FALSE,21,Delhi,8,3,959,Disputed
+28-05-2024,Golf Course Road,Truck,DUI,6251,FALSE,Stormy,Evening,Slippery,36-50,5,Medium,Expired,TRUE,16,Delhi,1,3,3624,Unpaid
+09-08-2024,Signature Tower Chowk,Truck,Red-Light Jump,4377,TRUE,Clear,Evening,Dry,26-35,0,Low,Expired,FALSE,22,Punjab,6,1,2804,Unpaid
+25-08-2024,Manesar Toll,Truck,Red-Light Jump,2782,FALSE,Cloudy,Night,Under Construction,36-50,3,Medium,Learner,TRUE,120,Delhi,6,2,3927,Disputed
+06-09-2024,Cyber City,Truck,Speeding,1863,FALSE,Cloudy,Morning,Under Construction,26-35,3,Low,Suspended,FALSE,94,Uttar Pradesh,3,1,675,Paid
+15-09-2024,Sector 29,Bike,No Helmet,1000,TRUE,Cloudy,Night,Wet,26-35,1,Low,Expired,TRUE,26,Rajasthan,5,2,2807,Paid
+19-03-2024,Cyber City,Truck,Red-Light Jump,4151,FALSE,Cloudy,Morning,Under Construction,26-35,3,High,Learner,FALSE,16,Rajasthan,6,3,1942,Unpaid
+20-09-2024,Udyog Vihar,Bus,DUI,29000,TRUE,Rainy,Evening,Dry,26-35,3,Medium,Expired,FALSE,10,Rajasthan,3,3,3491,Unpaid
+01-12-2024,Sikanderpur,Auto-rickshaw,No Seatbelt,1000,FALSE,Clear,Evening,Slippery,50+,4,Medium,Valid,FALSE,96,Uttar Pradesh,4,3,1261,Disputed
+16-05-2024,Sikanderpur,Car,Red-Light Jump,2945,FALSE,Rainy,Night,Slippery,50+,0,Medium,Learner,TRUE,55,Haryana,10,2,1377,Unpaid
+22-12-2024,Sector 56,Bus,No Seatbelt,1000,FALSE,Rainy,Morning,Under Construction,26-35,0,Low,Suspended,TRUE,84,Delhi,9,3,3382,Paid
+02-03-2024,Sector 56,Auto-rickshaw,Red-Light Jump,4558,FALSE,Cloudy,Morning,Wet,26-35,0,Low,Learner,FALSE,20,Haryana,2,3,4513,Paid
+19-12-2024,Manesar Toll,Car,Wrong-Side Driving,5401,FALSE,Rainy,Morning,Wet,26-35,5,Low,Suspended,TRUE,3,Haryana,6,3,4212,Disputed
+05-10-2024,Sheetala Mata Road,Truck,Wrong-Side Driving,3922,FALSE,Cloudy,Morning,Slippery,18-25,5,High,Learner,TRUE,42,Delhi,2,1,3077,Disputed
+27-05-2024,Rajiv Chowk,Auto-rickshaw,Red-Light Jump,2079,FALSE,Stormy,Night,Dry,18-25,1,High,Expired,TRUE,101,Haryana,5,2,1222,Disputed
+12-07-2024,Sheetala Mata Road,Car,Speeding,3483,TRUE,Clear,Morning,Dry,50+,4,Medium,Valid,FALSE,7,Haryana,1,2,716,Paid
+26-05-2024,Sheetala Mata Road,Car,No Seatbelt,1000,FALSE,Stormy,Morning,Wet,18-25,5,Medium,Valid,TRUE,64,Haryana,5,3,864,Unpaid
+10-02-2024,Golf Course Road,Truck,No Seatbelt,1000,TRUE,Foggy,Evening,Dry,18-25,0,Medium,Suspended,FALSE,91,Delhi,8,2,3637,Unpaid
+16-10-2024,NH-8,Car,No Seatbelt,1000,FALSE,Stormy,Morning,Dry,18-25,0,Medium,Learner,TRUE,19,Delhi,10,1,4795,Paid
+01-04-2024,Sector 56,Car,Wrong-Side Driving,3853,TRUE,Cloudy,Evening,Slippery,50+,0,Medium,Expired,TRUE,116,Haryana,6,2,3124,Paid
+17-12-2024,NH-8,Bus,No Seatbelt,1000,FALSE,Foggy,Night,Under Construction,18-25,1,High,Learner,FALSE,57,Uttar Pradesh,5,2,4345,Unpaid
+08-03-2024,Sikanderpur,Auto-rickshaw,Wrong-Side Driving,3425,TRUE,Cloudy,Afternoon,Dry,50+,0,High,Expired,TRUE,32,Uttar Pradesh,6,3,1664,Disputed
+22-10-2024,Huda City Center,Car,No Seatbelt,1000,TRUE,Stormy,Evening,Under Construction,18-25,4,Medium,Valid,TRUE,44,Delhi,5,2,702,Disputed
+24-03-2024,Cyber City,Bus,DUI,6223,FALSE,Cloudy,Morning,Under Construction,18-25,1,High,Expired,FALSE,85,Delhi,10,2,1677,Paid
+07-09-2024,IFFCO Chowk,Bus,No Seatbelt,1000,FALSE,Clear,Night,Slippery,36-50,1,Low,Learner,FALSE,104,Uttar Pradesh,5,1,4767,Unpaid
+09-11-2024,Sector 56,Truck,No Seatbelt,1000,TRUE,Stormy,Afternoon,Wet,18-25,5,Low,Learner,FALSE,29,Delhi,3,3,828,Unpaid
+16-12-2024,Golf Course Road,Truck,Speeding,2252,TRUE,Clear,Night,Wet,36-50,3,Medium,Valid,FALSE,75,Delhi,5,1,2661,Disputed
+08-08-2024,Rajiv Chowk,Truck,Red-Light Jump,4584,FALSE,Cloudy,Morning,Slippery,26-35,3,High,Learner,TRUE,89,Haryana,6,3,2244,Unpaid
+24-01-2024,Sector 56,Car,No Seatbelt,1000,FALSE,Clear,Morning,Wet,18-25,2,High,Valid,TRUE,78,Uttar Pradesh,10,2,3456,Unpaid
+18-08-2024,Sector 29,Auto-rickshaw,No Seatbelt,1000,FALSE,Cloudy,Afternoon,Wet,18-25,5,High,Expired,FALSE,19,Uttar Pradesh,1,2,3718,Paid
+21-03-2024,Huda City Center,Truck,DUI,,TRUE,Foggy,Night,Dry,36-50,4,Low,Expired,TRUE,89,Haryana,9,1,1504,Disputed
+23-12-2024,Huda City Center,Truck,Speeding,1441,FALSE,Stormy,Evening,Wet,26-35,1,Medium,Valid,FALSE,78,Delhi,8,3,4371,Disputed
+27-12-2024,Golf Course Road,Bus,Wrong-Side Driving,4843,FALSE,Cloudy,Afternoon,Dry,36-50,4,High,Suspended,TRUE,115,Rajasthan,4,3,3842,Disputed
+05-04-2024,MG Road,Car,No Seatbelt,1000,FALSE,Stormy,Morning,Dry,50+,4,Medium,Suspended,TRUE,117,Delhi,1,3,1550,Disputed
+09-02-2024,NH-8,Bus,Speeding,2582,FALSE,Rainy,Night,Slippery,26-35,3,High,Suspended,TRUE,78,Delhi,5,1,3074,Unpaid
+10-05-2024,Sohna Road near Iris Tech Park,Car,No Seatbelt,1000,TRUE,Cloudy,Afternoon,Slippery,18-25,4,Medium,Suspended,FALSE,84,Uttar Pradesh,5,2,1035,Unpaid
+03-10-2024,IFFCO Chowk,Truck,Speeding,1017,FALSE,Clear,Morning,Slippery,26-35,1,High,Suspended,FALSE,35,Uttar Pradesh,2,1,4876,Unpaid
+19-03-2024,Sector 56,Truck,Wrong-Side Driving,,FALSE,Clear,Morning,Dry,18-25,0,Medium,Suspended,TRUE,55,Haryana,7,1,3574,Disputed
+24-01-2024,Sikanderpur,Car,No Seatbelt,1000,FALSE,Stormy,Morning,Wet,36-50,5,Low,Expired,TRUE,75,Rajasthan,9,3,1993,Paid
+08-04-2024,Golf Course Road,Car,Speeding,2447,TRUE,Clear,Evening,Slippery,26-35,0,High,Suspended,FALSE,9,Uttar Pradesh,9,3,827,Unpaid
+24-06-2024,Sector 29,Truck,No Seatbelt,1000,TRUE,Foggy,Night,Slippery,26-35,3,Low,Learner,TRUE,50,Delhi,2,1,2122,Paid
+23-08-2024,Signature Tower Chowk,Car,Wrong-Side Driving,4790,FALSE,Rainy,Morning,Slippery,36-50,0,Low,Expired,TRUE,17,Punjab,10,2,2478,Unpaid
+26-12-2024,MG Road,Auto-rickshaw,Speeding,1342,FALSE,Cloudy,Afternoon,Under Construction,50+,5,High,Valid,TRUE,117,Rajasthan,5,3,3186,Paid
+14-11-2024,MG Road,Bus,DUI,5353,FALSE,Foggy,Evening,Under Construction,26-35,9,Low,Suspended,TRUE,46,Haryana,8,3,2210,Disputed
+15-06-2024,Huda City Center,Auto-rickshaw,Wrong-Side Driving,2596,TRUE,Clear,Night,Under Construction,26-35,5,High,Learner,FALSE,19,Rajasthan,2,2,2131,Disputed
+11-12-2024,Rajiv Chowk,Truck,No Seatbelt,1000,FALSE,Cloudy,Afternoon,Wet,18-25,0,Low,Expired,FALSE,89,Punjab,5,2,4749,Unpaid
+09-05-2024,MG Road,Truck,Wrong-Side Driving,3524,TRUE,Clear,Afternoon,Dry,36-50,1,High,Suspended,FALSE,4,Punjab,9,2,1950,Unpaid
+12-05-2024,MG Road,Truck,Wrong-Side Driving,7312,TRUE,Rainy,Night,Under Construction,36-50,0,High,Expired,FALSE,109,Uttar Pradesh,2,1,4252,Unpaid
+26-06-2024,Sohna Road near Iris Tech Park,Bike,Red-Light Jump,2874,FALSE,Stormy,Evening,Wet,36-50,0,High,Valid,FALSE,7,Delhi,6,1,3394,Unpaid
+16-11-2024,Golf Course Road,Car,Speeding,2227,TRUE,Stormy,Afternoon,Wet,36-50,2,Low,Expired,FALSE,97,Punjab,2,3,1620,Unpaid
+27-05-2024,Sheetala Mata Road,Auto-rickshaw,Speeding,4726,TRUE,Clear,Afternoon,Wet,26-35,2,Medium,Suspended,TRUE,99,Delhi,8,2,1838,Paid
+26-07-2024,Sikanderpur,Bus,No Seatbelt,1000,TRUE,Cloudy,Evening,Dry,50+,21,Low,Suspended,TRUE,97,Rajasthan,5,2,3572,Paid
+01-05-2024,Signature Tower Chowk,Bus,Wrong-Side Driving,5402,TRUE,Foggy,Morning,Dry,50+,3,High,Suspended,TRUE,119,Punjab,1,2,2384,Paid
+27-05-2024,Cyber City,Bus,Red-Light Jump,2272,FALSE,Cloudy,Morning,Under Construction,26-35,14,High,Suspended,FALSE,4,Punjab,7,2,1805,Disputed
+13-01-2024,Sector 56,Bike,No Helmet,1000,FALSE,Rainy,Evening,Slippery,18-25,4,Low,Learner,FALSE,56,Haryana,9,2,1894,Disputed
+17-07-2024,Cyber City,Truck,DUI,6948,FALSE,Stormy,Morning,Wet,26-35,1,Low,Learner,TRUE,22,Haryana,2,1,4062,Paid
+11-02-2024,Manesar Toll,Truck,Red-Light Jump,3168,FALSE,Foggy,Night,Slippery,50+,1,High,Learner,TRUE,82,Punjab,4,1,4641,Disputed
+22-05-2024,IFFCO Chowk,Truck,Wrong-Side Driving,4381,FALSE,Cloudy,Evening,Dry,18-25,1,Medium,Valid,TRUE,22,Haryana,4,2,2923,Unpaid
+06-02-2024,NH-8,Car,Wrong-Side Driving,5601,TRUE,Stormy,Night,Wet,50+,2,Low,Expired,FALSE,53,Haryana,1,1,1189,Paid
+07-02-2024,Sector 56,Truck,No Seatbelt,1000,TRUE,Clear,Morning,Under Construction,50+,5,Medium,Learner,FALSE,114,Rajasthan,10,1,2578,Unpaid
+01-09-2024,MG Road,Auto-rickshaw,Red-Light Jump,2271,FALSE,Cloudy,Morning,Dry,50+,0,Medium,Learner,FALSE,103,Haryana,7,2,1459,Unpaid
+05-04-2024,Golf Course Road,Car,Red-Light Jump,2520,FALSE,Stormy,Morning,Wet,18-25,1,High,Learner,FALSE,50,Uttar Pradesh,8,2,1306,Unpaid
+11-12-2024,Manesar Toll,Car,Speeding,3172,FALSE,Rainy,Evening,Wet,26-35,5,Low,Valid,FALSE,19,Delhi,3,2,2519,Disputed
+07-09-2024,Sikanderpur,Auto-rickshaw,Red-Light Jump,3215,FALSE,Stormy,Evening,Slippery,26-35,0,Low,Learner,FALSE,89,Haryana,6,2,4129,Paid
+19-08-2024,Sector 29,Truck,DUI,,TRUE,Rainy,Morning,Under Construction,50+,4,Low,Learner,FALSE,59,Punjab,6,3,4890,Paid
+23-02-2024,Rajiv Chowk,Car,Red-Light Jump,4880,FALSE,Rainy,Night,Wet,18-25,3,High,Valid,TRUE,61,Delhi,7,2,2298,Unpaid
+28-04-2024,Sheetala Mata Road,Bike,Speeding,4480,FALSE,Stormy,Night,Slippery,36-50,4,Low,Valid,FALSE,20,Uttar Pradesh,7,1,2960,Paid
+28-07-2024,NH-8,Truck,Speeding,1152,FALSE,Rainy,Morning,Under Construction,26-35,0,High,Suspended,TRUE,36,Rajasthan,4,1,1493,Paid
+26-06-2024,Signature Tower Chowk,Car,Speeding,1593,TRUE,Clear,Evening,Wet,26-35,3,Medium,Valid,FALSE,71,Haryana,6,1,1376,Paid
+23-04-2024,Sheetala Mata Road,Car,DUI,8427,FALSE,Foggy,Night,Wet,50+,4,Medium,Learner,FALSE,48,Rajasthan,4,2,2039,Unpaid
+13-07-2024,Cyber City,Bus,Wrong-Side Driving,4627,FALSE,Stormy,Night,Under Construction,18-25,5,Low,Expired,TRUE,29,Haryana,5,2,3367,Paid
+14-12-2024,Manesar Toll,Car,Wrong-Side Driving,7612,FALSE,Stormy,Morning,Slippery,50+,4,Medium,Learner,TRUE,105,Delhi,3,3,3517,Unpaid
+26-07-2024,Signature Tower Chowk,Bike,DUI,8166,FALSE,Stormy,Evening,Under Construction,18-25,4,Low,Learner,TRUE,41,Haryana,7,3,1138,Paid
+24-12-2024,Sikanderpur,Bike,Wrong-Side Driving,4632,FALSE,Stormy,Morning,Wet,36-50,4,High,Valid,TRUE,11,Uttar Pradesh,4,2,2337,Paid
+06-05-2024,Sikanderpur,Truck,Wrong-Side Driving,4876,FALSE,Rainy,Afternoon,Wet,36-50,4,High,Valid,FALSE,118,Uttar Pradesh,4,3,2372,Disputed
+18-10-2024,Sector 29,Car,Speeding,4309,FALSE,Rainy,Afternoon,Under Construction,36-50,2,Low,Valid,TRUE,14,Haryana,1,1,4586,Paid
+02-07-2024,Sikanderpur,Car,No Seatbelt,1000,FALSE,Cloudy,Night,Wet,50+,2,Medium,Learner,TRUE,24,Delhi,4,3,4062,Disputed
+16-03-2024,Udyog Vihar,Auto-rickshaw,Wrong-Side Driving,29415,FALSE,Stormy,Morning,Under Construction,36-50,0,Low,Expired,FALSE,72,Delhi,10,1,4743,Paid
+12-09-2024,NH-8,Car,No Seatbelt,1000,FALSE,Cloudy,Morning,Wet,50+,1,High,Suspended,TRUE,114,Punjab,6,3,1618,Unpaid
+09-02-2024,Manesar Toll,Car,Speeding,4540,TRUE,Clear,Night,Slippery,26-35,5,High,Learner,FALSE,53,Punjab,1,3,1896,Paid
+22-01-2024,Cyber City,Truck,Red-Light Jump,4702,FALSE,Stormy,Morning,Slippery,26-35,3,Low,Expired,TRUE,0,Delhi,10,1,3597,Disputed
+12-10-2024,Rajiv Chowk,Bus,No Seatbelt,1000,FALSE,Rainy,Morning,Wet,36-50,5,Low,Valid,FALSE,117,Haryana,9,2,2924,Disputed
+05-12-2024,Signature Tower Chowk,Bike,DUI,5318,TRUE,Clear,Night,Dry,26-35,3,Low,Learner,TRUE,94,Rajasthan,9,3,2268,Unpaid
+03-06-2024,Cyber City,Truck,No Seatbelt,1000,FALSE,Clear,Night,Slippery,50+,5,High,Valid,TRUE,19,Punjab,4,1,1995,Unpaid
+12-10-2024,Sikanderpur,Bus,Wrong-Side Driving,7488,FALSE,Stormy,Morning,Slippery,50+,4,Low,Expired,TRUE,56,Punjab,2,3,3838,Unpaid
+06-03-2024,Udyog Vihar,Bus,Speeding,1013,TRUE,Stormy,Night,Slippery,18-25,5,Medium,Suspended,TRUE,104,Punjab,7,2,4303,Paid
+23-05-2024,Sohna Road near Iris Tech Park,Truck,No Seatbelt,1000,FALSE,Cloudy,Evening,Dry,50+,4,Medium,Expired,FALSE,28,Haryana,3,1,3674,Paid
+18-02-2024,Cyber City,Truck,Red-Light Jump,4062,FALSE,Rainy,Night,Wet,26-35,0,Medium,Valid,TRUE,4,Haryana,9,3,1085,Unpaid
+03-12-2024,Sector 29,Bike,Wrong-Side Driving,2138,TRUE,Stormy,Morning,Dry,50+,3,Medium,Expired,TRUE,98,Haryana,3,1,4493,Disputed
+14-03-2024,Sheetala Mata Road,Bike,Red-Light Jump,,FALSE,Stormy,Morning,Under Construction,36-50,1,Low,Learner,FALSE,45,Rajasthan,2,1,2831,Paid
+14-12-2024,Manesar Toll,Bike,Speeding,1509,FALSE,Cloudy,Morning,Under Construction,50+,1,High,Suspended,FALSE,78,Uttar Pradesh,7,3,2090,Disputed
+25-02-2024,Udyog Vihar,Auto-rickshaw,Red-Light Jump,1991,FALSE,Cloudy,Night,Slippery,26-35,0,High,Learner,FALSE,87,Delhi,9,3,629,Paid
+15-10-2024,Udyog Vihar,Truck,Red-Light Jump,1929,FALSE,Stormy,Afternoon,Slippery,36-50,1,Medium,Expired,FALSE,8,Haryana,1,1,4354,Disputed
+16-08-2024,Rajiv Chowk,Bike,Wrong-Side Driving,7732,TRUE,Clear,Morning,Slippery,36-50,2,Medium,Valid,FALSE,9,Rajasthan,7,1,1814,Paid
+26-03-2024,IFFCO Chowk,Car,Red-Light Jump,3825,FALSE,Cloudy,Evening,Wet,26-35,2,Low,Suspended,TRUE,52,Uttar Pradesh,9,3,2517,Disputed
+05-05-2024,Manesar Toll,Car,No Seatbelt,1000,TRUE,Foggy,Morning,Wet,18-25,5,High,Suspended,TRUE,15,Punjab,5,1,4223,Unpaid
+10-12-2024,NH-8,Car,Red-Light Jump,4549,FALSE,Foggy,Afternoon,Slippery,26-35,0,Low,Suspended,TRUE,2,Punjab,9,1,2918,Disputed
+14-08-2024,Sikanderpur,Truck,Red-Light Jump,3496,FALSE,Foggy,Evening,Under Construction,18-25,0,High,Valid,FALSE,112,Uttar Pradesh,7,2,2334,Disputed
+04-03-2024,Manesar Toll,Auto-rickshaw,DUI,6423,TRUE,Rainy,Afternoon,Dry,50+,5,Low,Learner,FALSE,103,Uttar Pradesh,8,3,2274,Disputed
+24-12-2024,Sheetala Mata Road,Bus,Wrong-Side Driving,7986,FALSE,Rainy,Evening,Slippery,50+,5,Medium,Learner,FALSE,90,Uttar Pradesh,7,2,3459,Disputed
+04-12-2024,Sector 29,Car,Red-Light Jump,1506,FALSE,Cloudy,Morning,Under Construction,26-35,2,Low,Suspended,TRUE,3,Haryana,9,1,2808,Unpaid
+23-04-2024,IFFCO Chowk,Truck,DUI,8838,TRUE,Clear,Night,Under Construction,36-50,3,High,Suspended,FALSE,76,Haryana,10,2,1429,Disputed
+09-11-2024,Rajiv Chowk,Auto-rickshaw,No Seatbelt,1000,FALSE,Cloudy,Night,Dry,36-50,2,High,Suspended,FALSE,104,Punjab,9,3,2667,Paid
+16-09-2024,IFFCO Chowk,Car,Speeding,3556,FALSE,Stormy,Afternoon,Slippery,18-25,1,Medium,Valid,TRUE,27,Haryana,1,3,1123,Paid
+08-06-2024,Golf Course Road,Auto-rickshaw,DUI,6399,FALSE,Cloudy,Night,Under Construction,36-50,5,Medium,Valid,TRUE,32,Rajasthan,10,1,2463,Paid
+12-10-2024,Udyog Vihar,Auto-rickshaw,DUI,7704,FALSE,Foggy,Night,Under Construction,50+,4,High,Learner,FALSE,86,Uttar Pradesh,1,2,4082,Paid
+21-08-2024,Sikanderpur,Bus,Wrong-Side Driving,7400,FALSE,Rainy,Morning,Under Construction,50+,4,Medium,Valid,FALSE,117,Delhi,7,1,3905,Unpaid
+06-06-2024,Sector 29,Car,Red-Light Jump,4783,FALSE,Foggy,Night,Dry,36-50,1,High,Learner,TRUE,114,Uttar Pradesh,8,1,4969,Paid
+07-01-2024,Udyog Vihar,Auto-rickshaw,Red-Light Jump,3304,FALSE,Cloudy,Afternoon,Wet,26-35,0,Low,Expired,TRUE,40,Rajasthan,4,1,4415,Unpaid
+20-07-2024,Golf Course Road,Car,Wrong-Side Driving,5495,FALSE,Foggy,Night,Wet,50+,3,Low,Expired,TRUE,119,Punjab,2,3,4488,Disputed
+17-05-2024,Cyber City,Truck,Wrong-Side Driving,4463,FALSE,Clear,Afternoon,Dry,36-50,1,Low,Expired,FALSE,120,Uttar Pradesh,6,3,4228,Disputed
+10-11-2024,MG Road,Car,No Seatbelt,1000,FALSE,Stormy,Morning,Dry,18-25,4,Low,Valid,TRUE,90,Rajasthan,3,1,2886,Disputed
+09-02-2024,Manesar Toll,Truck,Speeding,3640,TRUE,Cloudy,Night,Slippery,26-35,0,Medium,Expired,FALSE,70,Haryana,8,1,3006,Disputed
+16-07-2024,Huda City Center,Bus,Red-Light Jump,1583,TRUE,Cloudy,Night,Wet,50+,22,High,Suspended,FALSE,39,Rajasthan,7,3,908,Paid
+03-10-2024,MG Road,Auto-rickshaw,Wrong-Side Driving,4358,FALSE,Stormy,Morning,Slippery,36-50,3,Low,Expired,TRUE,89,Delhi,2,2,1719,Disputed
+25-11-2024,Sector 56,Truck,Red-Light Jump,3624,TRUE,Rainy,Morning,Under Construction,18-25,5,Low,Expired,TRUE,57,Uttar Pradesh,8,1,3802,Unpaid
+09-10-2024,Rajiv Chowk,Car,Speeding,3516,TRUE,Clear,Night,Under Construction,26-35,2,Medium,Suspended,TRUE,10,Haryana,6,3,1623,Paid
+14-09-2024,IFFCO Chowk,Car,No Seatbelt,1000,FALSE,Clear,Morning,Wet,26-35,1,High,Valid,FALSE,120,Haryana,1,3,1797,Unpaid
+01-04-2024,Manesar Toll,Car,Red-Light Jump,2850,FALSE,Clear,Night,Slippery,18-25,1,Low,Suspended,TRUE,1,Rajasthan,8,1,4305,Paid
+27-11-2024,Sector 29,Bus,Red-Light Jump,2202,FALSE,Clear,Morning,Wet,36-50,5,Low,Valid,TRUE,26,Uttar Pradesh,6,2,2456,Paid
+17-05-2024,Sohna Road near Iris Tech Park,Bus,Wrong-Side Driving,3827,FALSE,Foggy,Evening,Dry,50+,3,High,Expired,TRUE,104,Punjab,3,3,4904,Paid
+18-09-2024,Golf Course Road,Auto-rickshaw,Wrong-Side Driving,2234,FALSE,Cloudy,Evening,Wet,18-25,5,Medium,Suspended,TRUE,110,Delhi,1,2,3984,Disputed
+04-12-2024,Sector 29,Bike,No Helmet,1000,TRUE,Cloudy,Afternoon,Under Construction,18-25,1,Low,Valid,TRUE,111,Haryana,6,2,2377,Paid
+11-11-2024,Rajiv Chowk,Car,Wrong-Side Driving,6843,TRUE,Clear,Night,Under Construction,36-50,4,High,Expired,TRUE,57,Uttar Pradesh,10,2,2865,Paid
+24-11-2024,Sohna Road near Iris Tech Park,Bike,No Helmet,1000,FALSE,Rainy,Afternoon,Dry,18-25,2,Medium,Learner,FALSE,52,Rajasthan,6,1,1152,Disputed
+15-02-2024,Udyog Vihar,Bus,No Seatbelt,1000,TRUE,Rainy,Evening,Under Construction,26-35,5,Low,Suspended,TRUE,116,Delhi,3,1,3130,Unpaid
+27-08-2024,Golf Course Road,Auto-rickshaw,DUI,8878,FALSE,Rainy,Morning,Dry,50+,1,Low,Suspended,FALSE,36,Punjab,3,3,3456,Disputed
+23-03-2024,NH-8,Car,Wrong-Side Driving,7714,TRUE,Cloudy,Night,Wet,50+,3,High,Valid,FALSE,116,Rajasthan,10,1,850,Paid
+27-05-2024,Huda City Center,Bus,DUI,6433,TRUE,Stormy,Morning,Dry,26-35,3,High,Learner,FALSE,37,Uttar Pradesh,10,3,1365,Unpaid
+12-01-2024,IFFCO Chowk,Car,No Seatbelt,1000,FALSE,Clear,Afternoon,Dry,50+,1,Medium,Suspended,FALSE,15,Uttar Pradesh,6,3,3367,Disputed
+21-12-2024,MG Road,Bus,Wrong-Side Driving,5038,FALSE,Rainy,Morning,Dry,50+,2,High,Expired,TRUE,15,Punjab,1,1,1858,Disputed
+08-06-2024,Udyog Vihar,Truck,Speeding,3306,TRUE,Stormy,Morning,Wet,18-25,1,Medium,Valid,FALSE,115,Haryana,7,1,3706,Unpaid
+10-05-2024,Sheetala Mata Road,Bike,Speeding,,FALSE,Cloudy,Night,Wet,36-50,2,Medium,Expired,TRUE,17,Haryana,10,3,2895,Disputed
+07-12-2024,Sector 29,Truck,No Seatbelt,1000,FALSE,Clear,Morning,Dry,50+,2,High,Expired,TRUE,33,Delhi,3,1,1477,Paid
+26-09-2024,Udyog Vihar,Bus,Speeding,1488,FALSE,Stormy,Afternoon,Under Construction,26-35,4,Low,Learner,TRUE,21,Rajasthan,4,1,2749,Paid
+06-11-2024,Sector 56,Truck,Wrong-Side Driving,4134,TRUE,Clear,Evening,Under Construction,50+,0,Low,Learner,TRUE,57,Rajasthan,3,3,3923,Disputed
+14-03-2024,Golf Course Road,Bike,DUI,7190,FALSE,Rainy,Afternoon,Under Construction,18-25,4,Low,Learner,FALSE,23,Rajasthan,1,2,4779,Disputed
+04-08-2024,Signature Tower Chowk,Car,Wrong-Side Driving,5524,FALSE,Rainy,Morning,Slippery,50+,0,Low,Learner,TRUE,114,Delhi,3,1,4571,Unpaid
+03-09-2024,Sector 56,Auto-rickshaw,DUI,5501,FALSE,Stormy,Night,Under Construction,50+,0,High,Learner,TRUE,98,Delhi,4,2,3634,Disputed
+13-03-2024,Signature Tower Chowk,Auto-rickshaw,No Seatbelt,1000,FALSE,Foggy,Morning,Dry,36-50,5,Medium,Learner,TRUE,19,Punjab,2,1,1062,Paid
+24-05-2024,NH-8,Bike,DUI,6280,FALSE,Rainy,Night,Slippery,50+,2,High,Expired,TRUE,43,Uttar Pradesh,1,1,3428,Disputed
+26-05-2024,NH-8,Bus,Wrong-Side Driving,7216,TRUE,Clear,Night,Dry,36-50,5,Medium,Learner,TRUE,16,Rajasthan,8,1,754,Paid
+18-01-2024,Sikanderpur,Car,Wrong-Side Driving,4114,FALSE,Rainy,Afternoon,Dry,18-25,3,High,Expired,FALSE,67,Delhi,8,3,2646,Unpaid
+21-12-2024,Huda City Center,Bike,DUI,5828,FALSE,Rainy,Morning,Under Construction,26-35,1,Medium,Expired,TRUE,46,Rajasthan,9,1,4176,Unpaid
+21-12-2024,NH-8,Auto-rickshaw,DUI,7858,TRUE,Clear,Afternoon,Wet,26-35,0,Low,Expired,FALSE,34,Haryana,2,1,3615,Disputed
+24-06-2024,NH-8,Bike,No Helmet,1000,FALSE,Stormy,Night,Wet,36-50,2,Low,Learner,TRUE,54,Rajasthan,7,3,2655,Paid
+08-08-2024,NH-8,Bus,Red-Light Jump,3239,FALSE,Cloudy,Afternoon,Dry,50+,4,Medium,Valid,TRUE,77,Delhi,8,3,2818,Unpaid
+24-04-2024,IFFCO Chowk,Truck,Wrong-Side Driving,7005,TRUE,Foggy,Night,Under Construction,50+,2,Low,Suspended,FALSE,98,Punjab,1,3,2838,Paid
+17-12-2024,NH-8,Bus,Wrong-Side Driving,2658,FALSE,Clear,Evening,Slippery,36-50,2,Low,Learner,TRUE,11,Rajasthan,4,3,549,Paid
+23-12-2024,Manesar Toll,Bus,DUI,7370,TRUE,Clear,Afternoon,Dry,18-25,2,High,Valid,FALSE,9,Haryana,2,2,3012,Paid
+24-01-2024,Huda City Center,Bus,Speeding,3903,FALSE,Rainy,Night,Under Construction,26-35,4,High,Learner,FALSE,109,Haryana,3,3,3570,Unpaid
+15-10-2024,NH-8,Bus,Wrong-Side Driving,4136,FALSE,Clear,Night,Slippery,18-25,0,High,Suspended,FALSE,68,Delhi,8,3,3531,Disputed
+02-12-2024,Rajiv Chowk,Auto-rickshaw,Speeding,3365,TRUE,Rainy,Afternoon,Slippery,18-25,4,Medium,Valid,TRUE,66,Rajasthan,4,2,2088,Paid
+18-08-2024,Sheetala Mata Road,Bike,Wrong-Side Driving,5427,FALSE,Foggy,Afternoon,Wet,50+,0,High,Expired,FALSE,73,Haryana,3,3,2836,Paid
+28-04-2024,Signature Tower Chowk,Car,Red-Light Jump,2503,TRUE,Clear,Night,Under Construction,18-25,3,Low,Learner,TRUE,40,Punjab,1,1,3223,Disputed
+07-06-2024,Golf Course Road,Car,No Seatbelt,1000,FALSE,Rainy,Evening,Under Construction,18-25,3,Low,Expired,TRUE,34,Punjab,6,2,698,Unpaid
+22-12-2024,Sector 29,Car,Speeding,4339,FALSE,Foggy,Evening,Dry,18-25,4,Medium,Suspended,TRUE,37,Haryana,1,1,2038,Disputed
+01-06-2024,Manesar Toll,Bus,DUI,8121,FALSE,Clear,Night,Dry,36-50,2,Medium,Suspended,TRUE,28,Punjab,8,2,2668,Unpaid
+07-11-2024,Rajiv Chowk,Bike,Red-Light Jump,4733,FALSE,Stormy,Afternoon,Slippery,36-50,3,High,Suspended,FALSE,68,Rajasthan,10,1,4449,Disputed
+14-01-2024,Sheetala Mata Road,Bus,Speeding,1511,TRUE,Cloudy,Night,Dry,26-35,2,Medium,Valid,TRUE,54,Uttar Pradesh,1,1,667,Disputed
+01-05-2024,Sector 56,Auto-rickshaw,DUI,7385,TRUE,Rainy,Night,Slippery,50+,0,High,Valid,FALSE,51,Rajasthan,4,2,2202,Paid
+01-04-2024,Sector 29,Truck,DUI,6924,TRUE,Rainy,Afternoon,Wet,50+,5,High,Suspended,TRUE,83,Delhi,2,2,1213,Paid
+07-09-2024,Manesar Toll,Bus,Red-Light Jump,2201,FALSE,Stormy,Night,Wet,26-35,4,Low,Expired,FALSE,42,Rajasthan,10,1,1154,Paid
+28-07-2024,Sector 29,Bike,Speeding,4901,FALSE,Cloudy,Night,Dry,50+,3,Medium,Learner,FALSE,115,Uttar Pradesh,5,3,1724,Unpaid
+01-11-2024,Sikanderpur,Truck,No Seatbelt,1000,TRUE,Cloudy,Evening,Dry,26-35,2,Medium,Learner,FALSE,112,Punjab,9,1,1107,Paid
+24-11-2024,Signature Tower Chowk,Bike,DUI,8096,FALSE,Clear,Morning,Under Construction,36-50,2,High,Suspended,TRUE,77,Delhi,8,3,879,Paid
+15-08-2024,Manesar Toll,Car,Speeding,,FALSE,Clear,Afternoon,Under Construction,18-25,0,Medium,Valid,FALSE,75,Haryana,9,1,2872,Disputed
+07-06-2024,Huda City Center,Truck,No Seatbelt,1000,TRUE,Rainy,Morning,Dry,18-25,5,High,Suspended,FALSE,89,Punjab,3,2,4222,Unpaid
+06-08-2024,Huda City Center,Auto-rickshaw,Speeding,3778,TRUE,Foggy,Evening,Dry,50+,0,Medium,Expired,FALSE,12,Haryana,5,3,4671,Unpaid
+07-12-2024,Sheetala Mata Road,Car,Speeding,1295,FALSE,Rainy,Morning,Slippery,36-50,2,Medium,Learner,FALSE,51,Uttar Pradesh,6,2,3416,Paid
+24-01-2024,Golf Course Road,Car,No Seatbelt,1000,FALSE,Foggy,Morning,Dry,36-50,2,Medium,Learner,FALSE,92,Rajasthan,4,1,2169,Unpaid
+26-02-2024,Rajiv Chowk,Truck,No Seatbelt,1000,TRUE,Stormy,Evening,Dry,36-50,2,High,Suspended,TRUE,106,Punjab,2,1,2223,Paid
+04-10-2024,Sikanderpur,Auto-rickshaw,Speeding,2014,FALSE,Clear,Afternoon,Slippery,50+,1,High,Learner,FALSE,90,Uttar Pradesh,6,2,3989,Unpaid
+17-09-2024,Sector 56,Truck,Wrong-Side Driving,6029,FALSE,Foggy,Morning,Wet,18-25,5,High,Learner,TRUE,3,Haryana,8,3,4799,Unpaid
+21-07-2024,Huda City Center,Bus,Red-Light Jump,3892,TRUE,Foggy,Morning,Wet,36-50,4,Low,Expired,FALSE,22,Punjab,10,2,2373,Disputed
+15-03-2024,Sohna Road near Iris Tech Park,Car,Wrong-Side Driving,6200,FALSE,Rainy,Morning,Wet,18-25,3,High,Valid,TRUE,47,Delhi,5,3,2006,Paid
+07-01-2024,Sikanderpur,Auto-rickshaw,Wrong-Side Driving,5937,FALSE,Cloudy,Evening,Dry,26-35,4,High,Valid,TRUE,78,Rajasthan,8,2,3732,Paid
+18-08-2024,NH-8,Bike,DUI,7914,FALSE,Cloudy,Evening,Wet,50+,1,Medium,Expired,FALSE,49,Haryana,1,3,3971,Disputed
+14-08-2024,Huda City Center,Auto-rickshaw,Speeding,4987,FALSE,Rainy,Evening,Wet,50+,2,Low,Expired,TRUE,78,Delhi,10,2,1716,Paid
+09-07-2024,Sikanderpur,Truck,Wrong-Side Driving,2722,FALSE,Cloudy,Evening,Slippery,36-50,2,High,Suspended,FALSE,18,Rajasthan,5,1,2004,Unpaid
+03-05-2024,IFFCO Chowk,Car,Speeding,3167,TRUE,Stormy,Afternoon,Dry,36-50,1,Low,Expired,TRUE,22,Punjab,5,1,4700,Unpaid
+07-09-2024,Huda City Center,Bike,Speeding,4337,FALSE,Stormy,Morning,Under Construction,26-35,4,Medium,Learner,TRUE,57,Punjab,8,1,4162,Unpaid
+11-09-2024,Signature Tower Chowk,Truck,No Seatbelt,1000,FALSE,Stormy,Evening,Under Construction,50+,2,Low,Suspended,FALSE,90,Punjab,2,3,2885,Paid
+06-07-2024,Sector 56,Truck,Wrong-Side Driving,4915,FALSE,Rainy,Afternoon,Slippery,36-50,3,Low,Suspended,FALSE,7,Uttar Pradesh,1,2,3719,Disputed
+02-08-2024,Signature Tower Chowk,Bike,No Helmet,1000,FALSE,Cloudy,Afternoon,Dry,26-35,1,Medium,Suspended,FALSE,26,Uttar Pradesh,5,2,3343,Disputed
+27-03-2024,Huda City Center,Bus,Red-Light Jump,2882,TRUE,Stormy,Night,Under Construction,50+,4,High,Expired,TRUE,68,Uttar Pradesh,3,1,2797,Paid
+07-01-2024,MG Road,Auto-rickshaw,Red-Light Jump,1857,FALSE,Foggy,Night,Wet,18-25,3,High,Suspended,FALSE,64,Uttar Pradesh,9,2,2722,Paid
+12-01-2024,Sikanderpur,Bike,Wrong-Side Driving,3681,FALSE,Foggy,Night,Dry,18-25,2,Medium,Suspended,FALSE,57,Uttar Pradesh,3,1,3354,Unpaid
+03-12-2024,Golf Course Road,Car,No Seatbelt,1000,FALSE,Rainy,Evening,Slippery,18-25,2,High,Suspended,TRUE,88,Uttar Pradesh,1,2,781,Unpaid
+10-09-2024,Sheetala Mata Road,Truck,Red-Light Jump,4765,FALSE,Rainy,Morning,Wet,18-25,0,High,Learner,TRUE,97,Delhi,9,2,2067,Unpaid
+17-10-2024,Huda City Center,Bike,DUI,6392,FALSE,Foggy,Afternoon,Slippery,36-50,2,Medium,Expired,FALSE,58,Punjab,6,2,4968,Disputed
+14-01-2024,Udyog Vihar,Truck,DUI,5836,FALSE,Clear,Afternoon,Wet,36-50,4,Low,Learner,FALSE,63,Punjab,9,1,2817,Paid
+09-05-2024,MG Road,Truck,Wrong-Side Driving,,TRUE,Rainy,Night,Wet,26-35,1,High,Expired,TRUE,18,Punjab,10,3,3093,Unpaid
+17-07-2024,Golf Course Road,Bike,No Helmet,1000,FALSE,Cloudy,Evening,Slippery,36-50,2,High,Learner,TRUE,69,Punjab,7,2,1158,Paid
+26-12-2024,Manesar Toll,Bike,DUI,7507,FALSE,Cloudy,Night,Dry,26-35,1,High,Expired,FALSE,15,Uttar Pradesh,2,3,4940,Paid
+27-11-2024,Huda City Center,Bike,DUI,8717,FALSE,Cloudy,Night,Wet,50+,4,Medium,Learner,TRUE,3,Rajasthan,3,2,1803,Unpaid
+21-06-2024,Cyber City,Car,DUI,9581,FALSE,Stormy,Night,Under Construction,18-25,3,Low,Expired,TRUE,35,Uttar Pradesh,10,2,2343,Unpaid
+20-12-2024,Golf Course Road,Car,Wrong-Side Driving,2415,FALSE,Cloudy,Night,Slippery,50+,1,Medium,Learner,TRUE,62,Punjab,1,3,1541,Disputed
+10-02-2024,Cyber City,Truck,DUI,9736,TRUE,Cloudy,Afternoon,Wet,26-35,1,Medium,Suspended,FALSE,41,Rajasthan,7,3,2966,Unpaid
+11-10-2024,Cyber City,Bike,Wrong-Side Driving,2752,FALSE,Stormy,Evening,Slippery,18-25,2,Low,Suspended,TRUE,9,Rajasthan,7,3,3604,Paid
+25-09-2024,Sector 56,Car,DUI,,TRUE,Cloudy,Night,Dry,18-25,2,Low,Suspended,FALSE,7,Delhi,2,2,1422,Paid
+21-12-2024,Sector 29,Bus,Red-Light Jump,3051,FALSE,Cloudy,Afternoon,Dry,26-35,5,Low,Valid,FALSE,46,Haryana,3,2,3823,Paid
+08-05-2024,Signature Tower Chowk,Truck,No Seatbelt,1000,TRUE,Clear,Evening,Dry,36-50,2,Medium,Valid,FALSE,65,Uttar Pradesh,9,1,4677,Unpaid
+13-03-2024,Huda City Center,Truck,No Seatbelt,1000,FALSE,Foggy,Night,Dry,36-50,0,Low,Valid,TRUE,9,Punjab,3,1,3908,Unpaid
+07-12-2024,MG Road,Truck,Red-Light Jump,4381,FALSE,Rainy,Afternoon,Dry,18-25,2,Medium,Suspended,TRUE,7,Uttar Pradesh,9,2,2920,Paid
+12-02-2024,IFFCO Chowk,Car,Red-Light Jump,3432,FALSE,Rainy,Night,Wet,18-25,2,High,Expired,FALSE,78,Haryana,8,2,1523,Paid
+28-12-2024,Sikanderpur,Car,Speeding,2353,FALSE,Cloudy,Night,Dry,26-35,2,Medium,Expired,FALSE,24,Haryana,1,3,1803,Paid
+08-05-2024,Sikanderpur,Bike,No Helmet,1000,TRUE,Foggy,Evening,Under Construction,26-35,2,Low,Valid,TRUE,101,Punjab,7,1,816,Unpaid
+09-12-2024,Golf Course Road,Car,Speeding,2618,FALSE,Foggy,Evening,Slippery,26-35,4,Low,Suspended,TRUE,59,Delhi,1,1,2453,Paid
+24-06-2024,Rajiv Chowk,Bus,Red-Light Jump,,FALSE,Cloudy,Night,Slippery,26-35,3,High,Learner,TRUE,67,Haryana,6,2,4194,Paid
+26-07-2024,Sector 56,Car,No Seatbelt,1000,FALSE,Stormy,Morning,Wet,50+,2,High,Expired,FALSE,93,Rajasthan,9,3,3630,Paid
+13-11-2024,Manesar Toll,Truck,Wrong-Side Driving,5996,TRUE,Foggy,Afternoon,Slippery,36-50,5,Low,Suspended,FALSE,36,Haryana,10,1,3192,Disputed
+21-05-2024,Sikanderpur,Bike,Speeding,2449,FALSE,Stormy,Evening,Slippery,26-35,3,Low,Learner,FALSE,98,Rajasthan,9,2,3476,Disputed
+17-05-2024,IFFCO Chowk,Auto-rickshaw,Red-Light Jump,3475,FALSE,Stormy,Night,Under Construction,50+,5,High,Valid,FALSE,93,Delhi,9,3,2655,Disputed
+10-02-2024,Manesar Toll,Truck,Red-Light Jump,4029,FALSE,Cloudy,Night,Wet,50+,2,High,Learner,FALSE,65,Delhi,1,1,2160,Unpaid
+27-08-2024,Manesar Toll,Car,DUI,9535,TRUE,Cloudy,Night,Under Construction,26-35,3,Low,Expired,TRUE,2,Uttar Pradesh,10,2,1265,Disputed
+16-03-2024,Sohna Road near Iris Tech Park,Car,No Seatbelt,1000,FALSE,Stormy,Afternoon,Dry,18-25,4,Low,Suspended,FALSE,65,Punjab,2,3,1227,Disputed
+23-02-2024,Rajiv Chowk,Bus,No Seatbelt,1000,TRUE,Cloudy,Evening,Slippery,26-35,3,Medium,Expired,TRUE,29,Haryana,7,3,1938,Unpaid
+10-02-2024,IFFCO Chowk,Car,Red-Light Jump,4124,FALSE,Clear,Afternoon,Under Construction,50+,4,Medium,Suspended,FALSE,79,Uttar Pradesh,2,3,4184,Unpaid
+21-06-2024,IFFCO Chowk,Bike,No Helmet,1000,TRUE,Rainy,Morning,Dry,26-35,2,High,Valid,TRUE,2,Delhi,1,3,3373,Unpaid
+26-03-2024,Udyog Vihar,Bus,DUI,9931,FALSE,Cloudy,Evening,Under Construction,26-35,5,Medium,Valid,TRUE,1,Uttar Pradesh,6,2,1020,Unpaid
+02-01-2024,IFFCO Chowk,Bike,No Helmet,1000,FALSE,Rainy,Afternoon,Wet,50+,2,High,Suspended,TRUE,11,Uttar Pradesh,9,3,3939,Paid
+24-05-2024,NH-8,Truck,Speeding,1429,FALSE,Clear,Afternoon,Dry,50+,1,Low,Suspended,FALSE,101,Delhi,4,3,3224,Paid
+11-11-2024,Udyog Vihar,Truck,Speeding,4152,FALSE,Clear,Night,Under Construction,36-50,3,Low,Valid,TRUE,70,Uttar Pradesh,2,1,4509,Paid
+26-01-2024,Udyog Vihar,Bus,No Seatbelt,1000,FALSE,Rainy,Night,Dry,18-25,2,Medium,Expired,FALSE,57,Rajasthan,8,3,2368,Unpaid
+09-08-2024,NH-8,Car,No Seatbelt,1000,TRUE,Stormy,Afternoon,Under Construction,26-35,4,Low,Valid,TRUE,42,Rajasthan,4,1,2616,Unpaid
+22-09-2024,Sohna Road near Iris Tech Park,Bus,Red-Light Jump,2131,TRUE,Clear,Afternoon,Slippery,50+,4,High,Learner,TRUE,51,Punjab,6,2,1169,Paid
+28-12-2024,Sector 56,Auto-rickshaw,No Seatbelt,1000,FALSE,Rainy,Morning,Slippery,36-50,2,Low,Suspended,TRUE,3,Delhi,3,2,2834,Paid
+04-11-2024,NH-8,Auto-rickshaw,Wrong-Side Driving,4996,FALSE,Clear,Afternoon,Dry,50+,0,Low,Learner,FALSE,71,Delhi,1,1,2586,Disputed
+15-04-2024,IFFCO Chowk,Bus,Speeding,1899,FALSE,Cloudy,Morning,Slippery,26-35,4,Medium,Learner,FALSE,28,Rajasthan,10,3,768,Disputed
+15-02-2024,MG Road,Bus,Speeding,4656,FALSE,Clear,Morning,Dry,36-50,1,Medium,Suspended,TRUE,52,Delhi,10,2,2793,Disputed
+16-06-2024,Sohna Road near Iris Tech Park,Auto-rickshaw,No Seatbelt,1000,TRUE,Clear,Afternoon,Under Construction,18-25,5,Medium,Valid,TRUE,88,Haryana,8,3,1430,Disputed
+03-05-2024,Sector 29,Auto-rickshaw,Wrong-Side Driving,7813,FALSE,Cloudy,Night,Dry,26-35,0,Low,Valid,FALSE,87,Punjab,10,1,2793,Unpaid
+20-12-2024,Manesar Toll,Car,Wrong-Side Driving,3600,FALSE,Clear,Morning,Wet,18-25,5,Low,Expired,FALSE,1,Uttar Pradesh,4,3,4887,Unpaid
+16-12-2024,Sector 56,Car,No Seatbelt,1000,TRUE,Stormy,Afternoon,Under Construction,50+,4,High,Learner,TRUE,48,Punjab,4,3,3818,Paid
+06-01-2024,Cyber City,Car,Speeding,1462,FALSE,Clear,Evening,Dry,36-50,5,Medium,Suspended,TRUE,42,Punjab,10,3,2175,Unpaid
+01-01-2024,NH-8,Auto-rickshaw,Speeding,4050,FALSE,Cloudy,Night,Dry,26-35,2,Low,Expired,TRUE,72,Punjab,2,2,3796,Paid
+10-07-2024,Udyog Vihar,Truck,DUI,5562,FALSE,Clear,Evening,Under Construction,26-35,4,Medium,Suspended,FALSE,77,Haryana,2,1,2046,Paid
+11-03-2024,Udyog Vihar,Auto-rickshaw,Red-Light Jump,8170,TRUE,Foggy,Evening,Under Construction,36-50,3,High,Valid,TRUE,46,Delhi,2,3,1893,Paid
+26-08-2024,Sheetala Mata Road,Bus,DUI,8706,TRUE,Cloudy,Evening,Under Construction,36-50,6,Medium,Valid,FALSE,117,Haryana,6,3,3613,Disputed
+06-02-2024,NH-8,Auto-rickshaw,Speeding,4625,FALSE,Clear,Night,Dry,18-25,0,Medium,Suspended,FALSE,2,Uttar Pradesh,7,2,4353,Disputed
+01-07-2024,Sector 29,Truck,No Seatbelt,1000,TRUE,Clear,Night,Wet,36-50,2,Low,Learner,FALSE,76,Punjab,1,1,3443,Unpaid
+22-06-2024,Sohna Road near Iris Tech Park,Bike,Speeding,1080,TRUE,Clear,Afternoon,Wet,50+,2,Medium,Expired,FALSE,67,Punjab,9,1,4568,Unpaid
+05-08-2024,Udyog Vihar,Truck,DUI,5120,FALSE,Stormy,Afternoon,Slippery,50+,1,High,Suspended,TRUE,88,Haryana,8,1,4798,Paid
+27-02-2024,Sikanderpur,Truck,No Seatbelt,1000,FALSE,Clear,Night,Dry,18-25,0,High,Suspended,TRUE,114,Punjab,7,1,4217,Unpaid
+04-03-2024,Huda City Center,Bus,Wrong-Side Driving,6400,FALSE,Cloudy,Night,Dry,36-50,3,High,Valid,TRUE,3,Punjab,9,2,4011,Disputed
+01-04-2024,Sector 56,Car,Speeding,1729,FALSE,Rainy,Night,Dry,36-50,1,Low,Learner,TRUE,48,Delhi,2,3,1318,Unpaid
+12-12-2024,Sikanderpur,Car,No Seatbelt,1000,TRUE,Stormy,Afternoon,Slippery,50+,4,Medium,Suspended,TRUE,108,Punjab,7,3,2271,Paid
+09-07-2024,Udyog Vihar,Car,No Seatbelt,1000,FALSE,Clear,Night,Dry,36-50,0,High,Suspended,FALSE,105,Uttar Pradesh,4,2,1557,Unpaid
+04-06-2024,Sector 56,Bike,Red-Light Jump,2103,FALSE,Stormy,Afternoon,Dry,36-50,1,Low,Learner,TRUE,42,Uttar Pradesh,9,2,4333,Disputed
+23-11-2024,NH-8,Car,Wrong-Side Driving,4822,FALSE,Rainy,Afternoon,Wet,26-35,2,Low,Valid,TRUE,52,Uttar Pradesh,6,2,4469,Paid
+05-06-2024,Sector 29,Car,Red-Light Jump,4806,FALSE,Foggy,Afternoon,Under Construction,26-35,5,Low,Valid,TRUE,103,Punjab,9,3,2114,Paid
+17-12-2024,MG Road,Auto-rickshaw,Speeding,2927,TRUE,Clear,Morning,Slippery,26-35,1,Low,Suspended,TRUE,66,Haryana,4,1,3337,Disputed
+24-02-2024,Udyog Vihar,Bike,Wrong-Side Driving,2107,FALSE,Clear,Morning,Slippery,18-25,3,High,Valid,FALSE,96,Delhi,10,1,3712,Unpaid
+23-01-2024,MG Road,Bus,Red-Light Jump,4189,FALSE,Rainy,Evening,Under Construction,18-25,0,High,Learner,FALSE,69,Uttar Pradesh,4,2,636,Unpaid
+13-10-2024,MG Road,Car,No Seatbelt,1000,TRUE,Rainy,Night,Dry,50+,0,Low,Valid,FALSE,0,Rajasthan,3,2,3554,Unpaid
+07-04-2024,Sector 56,Bike,Wrong-Side Driving,6115,FALSE,Rainy,Afternoon,Under Construction,18-25,3,High,Suspended,FALSE,74,Punjab,2,3,1380,Disputed
+01-12-2024,Sheetala Mata Road,Bus,No Seatbelt,1000,FALSE,Stormy,Night,Under Construction,26-35,1,Medium,Suspended,TRUE,39,Punjab,2,3,1441,Unpaid
+26-03-2024,Sector 56,Bike,No Helmet,1000,TRUE,Clear,Morning,Slippery,50+,0,Medium,Valid,FALSE,75,Haryana,8,3,1119,Disputed
+08-06-2024,Cyber City,Truck,Speeding,2547,FALSE,Stormy,Night,Slippery,36-50,5,Low,Suspended,TRUE,73,Rajasthan,6,3,1832,Disputed
+23-06-2024,MG Road,Bike,DUI,9615,FALSE,Foggy,Morning,Under Construction,18-25,4,High,Valid,FALSE,47,Rajasthan,2,1,1705,Disputed
+04-10-2024,Udyog Vihar,Truck,No Seatbelt,1000,FALSE,Clear,Evening,Wet,26-35,2,Low,Valid,TRUE,61,Rajasthan,5,1,1604,Unpaid
+17-04-2024,NH-8,Auto-rickshaw,Wrong-Side Driving,6476,TRUE,Stormy,Evening,Under Construction,18-25,4,Medium,Valid,TRUE,95,Haryana,1,2,2242,Disputed
+17-12-2024,Udyog Vihar,Bus,No Seatbelt,1000,TRUE,Rainy,Afternoon,Wet,18-25,5,Medium,Expired,TRUE,80,Delhi,1,1,4974,Unpaid
+13-08-2024,NH-8,Car,No Seatbelt,1000,FALSE,Cloudy,Night,Dry,26-35,4,Medium,Learner,FALSE,96,Haryana,9,2,3102,Paid
+11-11-2024,NH-8,Bike,No Helmet,1000,TRUE,Foggy,Evening,Under Construction,36-50,1,Medium,Suspended,FALSE,40,Haryana,5,3,2416,Paid
+13-12-2024,Signature Tower Chowk,Car,Red-Light Jump,3508,FALSE,Stormy,Night,Slippery,26-35,3,Medium,Suspended,FALSE,1,Punjab,8,2,3733,Disputed
+11-10-2024,IFFCO Chowk,Bus,Wrong-Side Driving,7304,TRUE,Clear,Night,Dry,18-25,2,High,Expired,FALSE,60,Uttar Pradesh,7,3,2651,Unpaid
+12-08-2024,NH-8,Bus,DUI,7336,FALSE,Foggy,Evening,Slippery,50+,1,Low,Learner,TRUE,56,Punjab,5,2,2576,Paid
+23-05-2024,Cyber City,Car,Speeding,3313,TRUE,Cloudy,Evening,Wet,26-35,3,Low,Suspended,FALSE,48,Delhi,4,1,2635,Disputed
+22-02-2024,Cyber City,Auto-rickshaw,DUI,7754,FALSE,Stormy,Evening,Wet,36-50,1,Medium,Learner,FALSE,112,Uttar Pradesh,9,2,1753,Disputed
+11-03-2024,Manesar Toll,Truck,Wrong-Side Driving,20565,FALSE,Cloudy,Morning,Under Construction,18-25,2,Low,Suspended,TRUE,17,Haryana,2,3,1311,Unpaid
+08-01-2024,Cyber City,Truck,Red-Light Jump,4484,FALSE,Clear,Night,Dry,36-50,4,Low,Suspended,TRUE,93,Uttar Pradesh,2,2,3193,Disputed
+18-08-2024,Huda City Center,Bike,Speeding,3038,FALSE,Foggy,Evening,Under Construction,36-50,0,Low,Valid,FALSE,98,Uttar Pradesh,9,3,2347,Disputed
+20-05-2024,NH-8,Bike,Wrong-Side Driving,7655,FALSE,Foggy,Morning,Under Construction,18-25,1,Low,Learner,FALSE,61,Delhi,1,1,1855,Unpaid
+08-03-2024,Udyog Vihar,Bus,Red-Light Jump,4050,FALSE,Foggy,Morning,Slippery,36-50,1,High,Suspended,FALSE,42,Delhi,9,2,1206,Disputed
+05-11-2024,Signature Tower Chowk,Truck,Wrong-Side Driving,4547,FALSE,Clear,Night,Under Construction,26-35,2,High,Valid,TRUE,103,Uttar Pradesh,5,3,4024,Unpaid
+25-06-2024,Sector 29,Bike,Red-Light Jump,3001,FALSE,Foggy,Night,Dry,26-35,1,Low,Suspended,TRUE,64,Punjab,5,2,1249,Paid
+26-09-2024,Manesar Toll,Bus,No Seatbelt,1000,TRUE,Cloudy,Night,Wet,50+,4,Medium,Suspended,TRUE,113,Haryana,4,1,1925,Disputed
+27-03-2024,Sikanderpur,Car,Speeding,3944,TRUE,Clear,Night,Slippery,50+,5,High,Suspended,TRUE,55,Punjab,1,3,2288,Paid
+02-06-2024,Sector 29,Bus,Wrong-Side Driving,3071,FALSE,Cloudy,Night,Under Construction,18-25,3,High,Learner,FALSE,106,Haryana,7,1,3266,Disputed
+02-05-2024,Cyber City,Bike,Speeding,2272,FALSE,Cloudy,Evening,Wet,50+,0,High,Learner,TRUE,112,Uttar Pradesh,4,1,548,Paid
+07-06-2024,Sheetala Mata Road,Car,No Seatbelt,1000,FALSE,Cloudy,Night,Slippery,36-50,2,Medium,Suspended,FALSE,102,Rajasthan,9,2,2821,Disputed
+26-02-2024,Udyog Vihar,Car,Red-Light Jump,3924,TRUE,Foggy,Night,Under Construction,50+,5,Low,Valid,FALSE,61,Rajasthan,2,2,1984,Paid
+24-06-2024,Sector 56,Bus,Wrong-Side Driving,2252,FALSE,Foggy,Evening,Slippery,18-25,1,Medium,Expired,TRUE,61,Punjab,9,2,4808,Disputed
+20-01-2024,Manesar Toll,Auto-rickshaw,Wrong-Side Driving,7689,TRUE,Stormy,Evening,Dry,18-25,0,Medium,Suspended,FALSE,22,Uttar Pradesh,7,3,1976,Paid
+02-11-2024,Sikanderpur,Bus,No Seatbelt,1000,FALSE,Clear,Evening,Slippery,36-50,5,Low,Suspended,FALSE,88,Uttar Pradesh,5,2,3002,Disputed
+16-09-2024,Rajiv Chowk,Auto-rickshaw,Red-Light Jump,,FALSE,Foggy,Night,Dry,26-35,2,High,Suspended,TRUE,1,Uttar Pradesh,9,3,3157,Unpaid
+07-04-2024,Huda City Center,Auto-rickshaw,No Seatbelt,1000,FALSE,Clear,Afternoon,Slippery,18-25,1,Medium,Suspended,TRUE,70,Haryana,4,2,3842,Paid
+07-04-2024,Sheetala Mata Road,Truck,DUI,6344,FALSE,Stormy,Afternoon,Dry,26-35,2,High,Expired,FALSE,29,Delhi,10,3,4027,Paid
+20-05-2024,Rajiv Chowk,Bus,No Seatbelt,1000,FALSE,Clear,Night,Slippery,18-25,0,Medium,Suspended,FALSE,18,Punjab,6,1,1938,Unpaid
+02-02-2024,Signature Tower Chowk,Bike,No Helmet,1000,TRUE,Foggy,Evening,Wet,36-50,1,High,Learner,TRUE,97,Delhi,5,1,1589,Paid
+19-01-2024,Signature Tower Chowk,Bus,No Seatbelt,1000,TRUE,Rainy,Evening,Slippery,26-35,4,Low,Suspended,TRUE,77,Haryana,4,1,4373,Unpaid
+21-01-2024,Signature Tower Chowk,Bike,Red-Light Jump,4251,FALSE,Clear,Morning,Slippery,50+,3,Low,Learner,TRUE,25,Haryana,3,2,4162,Unpaid
+27-08-2024,Sikanderpur,Bike,Speeding,1442,FALSE,Stormy,Night,Wet,36-50,1,Medium,Valid,FALSE,44,Uttar Pradesh,6,2,2889,Disputed
+03-07-2024,Huda City Center,Bike,DUI,5856,FALSE,Cloudy,Morning,Slippery,26-35,2,Medium,Suspended,FALSE,17,Haryana,4,2,1748,Unpaid
+10-02-2024,Huda City Center,Bike,DUI,9925,FALSE,Clear,Afternoon,Wet,50+,1,Medium,Suspended,TRUE,98,Punjab,2,3,2263,Unpaid
+19-03-2024,Udyog Vihar,Car,No Seatbelt,1000,FALSE,Foggy,Evening,Slippery,36-50,3,High,Learner,FALSE,77,Punjab,1,1,3878,Unpaid
+03-10-2024,Rajiv Chowk,Truck,No Seatbelt,1000,FALSE,Cloudy,Morning,Wet,36-50,4,Low,Learner,FALSE,82,Haryana,7,1,3918,Unpaid
+04-01-2024,IFFCO Chowk,Truck,Red-Light Jump,2780,FALSE,Rainy,Evening,Slippery,50+,5,Medium,Valid,FALSE,119,Rajasthan,1,1,1438,Unpaid
+02-05-2024,Sector 29,Truck,No Seatbelt,1000,FALSE,Rainy,Night,Wet,18-25,0,Medium,Expired,TRUE,101,Rajasthan,9,1,3048,Unpaid
+07-05-2024,Sikanderpur,Car,Red-Light Jump,,TRUE,Clear,Night,Wet,50+,0,High,Valid,FALSE,100,Uttar Pradesh,2,2,1715,Paid
+18-12-2024,NH-8,Auto-rickshaw,DUI,6565,FALSE,Rainy,Morning,Wet,26-35,1,Medium,Valid,FALSE,33,Punjab,6,1,677,Paid
+07-01-2024,Sohna Road near Iris Tech Park,Bus,No Seatbelt,1000,FALSE,Clear,Morning,Under Construction,18-25,1,High,Suspended,FALSE,119,Punjab,2,2,791,Paid
+15-07-2024,Cyber City,Car,DUI,,TRUE,Stormy,Evening,Wet,50+,2,Low,Valid,FALSE,73,Haryana,10,2,2248,Paid
+28-06-2024,Sohna Road near Iris Tech Park,Bus,Speeding,,FALSE,Foggy,Night,Wet,50+,31,High,Expired,FALSE,19,Rajasthan,2,1,2194,Unpaid
+06-10-2024,Sector 29,Bike,Red-Light Jump,2895,FALSE,Foggy,Evening,Wet,36-50,2,High,Learner,TRUE,60,Punjab,4,2,2829,Paid
+02-08-2024,Huda City Center,Auto-rickshaw,No Seatbelt,1000,FALSE,Stormy,Night,Wet,50+,4,Medium,Learner,TRUE,24,Haryana,4,3,4055,Disputed
+21-07-2024,Golf Course Road,Bike,Wrong-Side Driving,2089,TRUE,Clear,Afternoon,Dry,18-25,2,Low,Expired,TRUE,104,Uttar Pradesh,3,1,3595,Paid
+28-05-2024,Sector 56,Truck,DUI,6644,FALSE,Clear,Night,Dry,50+,0,Low,Learner,TRUE,6,Delhi,9,3,3292,Disputed
+21-02-2024,Manesar Toll,Bike,Red-Light Jump,3642,FALSE,Foggy,Afternoon,Under Construction,50+,4,High,Expired,TRUE,111,Haryana,8,1,503,Paid
+09-01-2024,MG Road,Car,Red-Light Jump,4184,TRUE,Foggy,Evening,Dry,50+,2,Medium,Valid,TRUE,8,Rajasthan,5,2,3051,Unpaid
+15-07-2024,Sohna Road near Iris Tech Park,Car,No Seatbelt,1000,TRUE,Stormy,Morning,Slippery,50+,0,Medium,Valid,FALSE,79,Rajasthan,3,3,1436,Paid
+16-10-2024,Golf Course Road,Bus,Wrong-Side Driving,2039,FALSE,Rainy,Morning,Under Construction,26-35,25,Medium,Suspended,FALSE,36,Haryana,7,2,1636,Paid
+04-02-2024,Sikanderpur,Car,DUI,34890,FALSE,Stormy,Afternoon,Under Construction,26-35,3,High,Suspended,TRUE,44,Haryana,6,1,3239,Disputed
+14-09-2024,MG Road,Truck,Red-Light Jump,3477,FALSE,Cloudy,Evening,Under Construction,36-50,4,High,Expired,TRUE,43,Uttar Pradesh,8,1,2887,Disputed
+10-02-2024,Sector 29,Bus,Wrong-Side Driving,6057,FALSE,Rainy,Afternoon,Slippery,36-50,12,Medium,Suspended,FALSE,1,Uttar Pradesh,7,2,1203,Disputed
+08-05-2024,Golf Course Road,Car,Wrong-Side Driving,4100,FALSE,Cloudy,Night,Dry,36-50,3,Low,Valid,TRUE,11,Punjab,2,1,1952,Paid
+01-01-2024,Rajiv Chowk,Bus,Red-Light Jump,2548,FALSE,Foggy,Evening,Wet,36-50,4,Medium,Suspended,TRUE,79,Uttar Pradesh,8,1,4831,Disputed
+05-10-2024,Cyber City,Auto-rickshaw,Wrong-Side Driving,4678,TRUE,Rainy,Morning,Slippery,50+,2,Low,Expired,TRUE,86,Delhi,4,1,1750,Paid
+19-02-2024,IFFCO Chowk,Truck,Red-Light Jump,4326,TRUE,Cloudy,Evening,Wet,50+,3,Medium,Valid,FALSE,33,Rajasthan,7,2,3347,Disputed
+11-07-2024,Signature Tower Chowk,Car,Speeding,1471,FALSE,Clear,Afternoon,Slippery,36-50,3,High,Suspended,FALSE,5,Haryana,3,1,876,Unpaid
+27-11-2024,Sector 29,Bike,Red-Light Jump,,FALSE,Foggy,Night,Slippery,18-25,3,Medium,Valid,FALSE,95,Uttar Pradesh,1,2,1524,Unpaid
+26-03-2024,Sector 56,Car,No Seatbelt,,FALSE,Rainy,Night,Dry,26-35,2,Medium,Valid,TRUE,108,Haryana,7,1,584,Paid
+20-06-2024,Sector 29,Bus,Speeding,2158,TRUE,Rainy,Night,Under Construction,26-35,1,High,Valid,FALSE,120,Delhi,3,3,2781,Disputed
+14-12-2024,Rajiv Chowk,Bike,Red-Light Jump,3166,FALSE,Rainy,Evening,Under Construction,26-35,2,Low,Learner,TRUE,120,Haryana,8,2,4858,Unpaid
+06-03-2024,Golf Course Road,Bus,Speeding,4849,TRUE,Clear,Night,Dry,26-35,3,High,Valid,FALSE,22,Haryana,6,2,3840,Disputed
+20-10-2024,Signature Tower Chowk,Car,Wrong-Side Driving,2284,FALSE,Rainy,Night,Wet,26-35,5,Medium,Valid,TRUE,110,Rajasthan,2,1,2145,Paid
+28-12-2024,Sector 56,Car,Red-Light Jump,3218,FALSE,Cloudy,Afternoon,Dry,26-35,3,High,Expired,FALSE,55,Haryana,2,1,3937,Disputed
+23-06-2024,Golf Course Road,Bike,Speeding,3748,TRUE,Rainy,Morning,Slippery,18-25,2,High,Suspended,FALSE,81,Haryana,3,2,3807,Disputed
+22-08-2024,Sohna Road near Iris Tech Park,Auto-rickshaw,Red-Light Jump,3835,FALSE,Clear,Morning,Dry,36-50,2,High,Valid,FALSE,54,Punjab,1,2,4284,Unpaid
+27-06-2024,Cyber City,Bus,No Seatbelt,1000,FALSE,Stormy,Night,Dry,26-35,3,Medium,Valid,TRUE,58,Delhi,1,2,3201,Unpaid
+17-03-2024,Sikanderpur,Bus,Red-Light Jump,4565,FALSE,Stormy,Evening,Wet,50+,1,High,Learner,TRUE,115,Rajasthan,6,1,1044,Disputed
+05-01-2024,Sector 29,Bus,Red-Light Jump,4615,FALSE,Foggy,Night,Wet,50+,0,Medium,Suspended,TRUE,14,Haryana,5,3,2103,Paid
+02-11-2024,NH-8,Auto-rickshaw,Wrong-Side Driving,7081,FALSE,Foggy,Morning,Under Construction,36-50,5,Low,Suspended,FALSE,88,Haryana,4,2,4374,Disputed
+10-09-2024,Manesar Toll,Car,Wrong-Side Driving,2417,TRUE,Rainy,Evening,Slippery,26-35,2,Low,Expired,FALSE,49,Rajasthan,3,2,3996,Paid
+19-08-2024,MG Road,Bus,Wrong-Side Driving,3804,TRUE,Rainy,Morning,Wet,50+,3,High,Valid,FALSE,94,Haryana,8,1,1418,Paid
+21-04-2024,MG Road,Auto-rickshaw,Speeding,2953,TRUE,Rainy,Night,Slippery,18-25,2,Low,Valid,TRUE,67,Delhi,9,2,4842,Disputed
+27-08-2024,Sector 56,Bike,No Helmet,1000,FALSE,Stormy,Evening,Under Construction,18-25,2,High,Learner,FALSE,15,Punjab,6,1,1136,Paid
+06-10-2024,Rajiv Chowk,Car,No Seatbelt,1000,FALSE,Foggy,Afternoon,Under Construction,18-25,1,High,Valid,TRUE,72,Punjab,3,3,4272,Paid
+01-05-2024,Sikanderpur,Bike,No Helmet,1000,FALSE,Cloudy,Evening,Dry,18-25,0,Low,Learner,TRUE,47,Delhi,9,3,596,Paid
+28-05-2024,Golf Course Road,Auto-rickshaw,No Seatbelt,1000,TRUE,Rainy,Night,Slippery,18-25,0,High,Valid,FALSE,66,Delhi,10,2,1385,Paid
+26-03-2024,Golf Course Road,Bus,Wrong-Side Driving,4521,TRUE,Rainy,Evening,Slippery,26-35,2,Medium,Learner,TRUE,27,Punjab,5,3,3801,Disputed
+09-02-2024,NH-8,Auto-rickshaw,Wrong-Side Driving,3811,FALSE,Clear,Evening,Dry,26-35,5,Medium,Learner,FALSE,79,Rajasthan,6,3,3376,Paid
+26-08-2024,NH-8,Car,Red-Light Jump,3811,FALSE,Clear,Afternoon,Slippery,26-35,1,Medium,Expired,TRUE,9,Uttar Pradesh,8,1,2593,Paid
+13-11-2024,Golf Course Road,Bike,Speeding,4358,TRUE,Cloudy,Night,Dry,36-50,1,High,Expired,TRUE,37,Rajasthan,2,1,727,Disputed
+23-04-2024,NH-8,Auto-rickshaw,Speeding,2857,FALSE,Clear,Morning,Slippery,26-35,5,Low,Expired,TRUE,54,Haryana,5,3,2542,Paid
+16-06-2024,IFFCO Chowk,Bike,No Helmet,1000,FALSE,Clear,Evening,Dry,36-50,3,Medium,Valid,FALSE,25,Uttar Pradesh,5,1,2848,Paid
+20-05-2024,Cyber City,Car,Red-Light Jump,,FALSE,Cloudy,Morning,Slippery,36-50,2,High,Suspended,TRUE,24,Delhi,8,2,2111,Unpaid
+14-08-2024,Signature Tower Chowk,Auto-rickshaw,Wrong-Side Driving,7088,FALSE,Cloudy,Evening,Slippery,18-25,2,Medium,Valid,TRUE,25,Punjab,8,1,2523,Paid
+14-04-2024,Sikanderpur,Truck,Wrong-Side Driving,6756,TRUE,Cloudy,Afternoon,Under Construction,36-50,0,High,Expired,TRUE,98,Rajasthan,7,3,3864,Unpaid
+05-07-2024,Sohna Road near Iris Tech Park,Bus,No Seatbelt,1000,FALSE,Clear,Morning,Dry,26-35,2,Low,Suspended,TRUE,70,Rajasthan,10,1,3087,Paid
+18-07-2024,Sheetala Mata Road,Car,DUI,9886,FALSE,Stormy,Morning,Slippery,26-35,2,High,Suspended,FALSE,119,Rajasthan,1,2,3914,Unpaid
+10-07-2024,Sohna Road near Iris Tech Park,Auto-rickshaw,DUI,9264,TRUE,Rainy,Morning,Slippery,26-35,5,High,Learner,FALSE,111,Delhi,3,1,1740,Disputed
+09-07-2024,Cyber City,Car,DUI,9345,TRUE,Stormy,Morning,Slippery,36-50,4,High,Learner,FALSE,18,Uttar Pradesh,3,3,3125,Disputed
+05-06-2024,Huda City Center,Car,Wrong-Side Driving,3873,FALSE,Stormy,Night,Under Construction,26-35,4,High,Expired,TRUE,50,Rajasthan,4,3,4108,Unpaid
+15-12-2024,Sector 56,Bus,DUI,9777,FALSE,Stormy,Night,Wet,18-25,5,Medium,Valid,TRUE,99,Haryana,3,3,4191,Disputed
+27-07-2024,Rajiv Chowk,Bike,DUI,6927,FALSE,Cloudy,Evening,Under Construction,18-25,1,Medium,Expired,TRUE,89,Punjab,7,2,1492,Unpaid
+21-02-2024,Huda City Center,Car,Speeding,4393,FALSE,Stormy,Afternoon,Dry,26-35,0,Low,Learner,TRUE,5,Delhi,5,2,1732,Paid
+12-06-2024,Sikanderpur,Bus,No Seatbelt,1000,TRUE,Stormy,Morning,Dry,26-35,4,Medium,Expired,FALSE,96,Uttar Pradesh,10,1,2446,Unpaid
+25-07-2024,Rajiv Chowk,Car,DUI,6027,TRUE,Foggy,Night,Slippery,36-50,4,Low,Expired,TRUE,73,Punjab,8,1,3117,Unpaid
+06-04-2024,Sohna Road near Iris Tech Park,Bike,Wrong-Side Driving,3488,FALSE,Rainy,Night,Wet,50+,2,Low,Valid,TRUE,55,Uttar Pradesh,2,2,1899,Paid
+16-03-2024,Manesar Toll,Bus,Speeding,4009,FALSE,Rainy,Evening,Dry,50+,5,High,Learner,TRUE,12,Rajasthan,5,1,2209,Disputed
+02-05-2024,Huda City Center,Car,Wrong-Side Driving,4870,TRUE,Rainy,Night,Under Construction,26-35,1,Medium,Learner,FALSE,65,Delhi,9,3,2826,Disputed
+12-01-2024,Sohna Road near Iris Tech Park,Truck,No Seatbelt,1000,FALSE,Rainy,Afternoon,Under Construction,36-50,4,Low,Suspended,TRUE,76,Uttar Pradesh,6,2,1301,Disputed
+05-03-2024,Sheetala Mata Road,Truck,DUI,7583,FALSE,Stormy,Morning,Under Construction,26-35,3,Medium,Valid,FALSE,16,Rajasthan,5,2,3499,Unpaid
+23-01-2024,IFFCO Chowk,Bus,Red-Light Jump,3785,TRUE,Cloudy,Night,Dry,50+,4,Medium,Suspended,FALSE,35,Punjab,8,1,1298,Paid
+07-06-2024,Sector 56,Bike,DUI,9901,FALSE,Rainy,Afternoon,Slippery,26-35,3,Low,Expired,FALSE,69,Uttar Pradesh,8,1,3617,Unpaid
+24-03-2024,Sheetala Mata Road,Bike,No Helmet,1000,TRUE,Foggy,Evening,Under Construction,26-35,2,High,Valid,TRUE,56,Haryana,3,1,3941,Disputed
+20-03-2024,Sheetala Mata Road,Truck,Red-Light Jump,4219,FALSE,Clear,Morning,Dry,36-50,5,Medium,Valid,TRUE,47,Delhi,2,3,2190,Disputed
+18-11-2024,Sikanderpur,Truck,Wrong-Side Driving,5674,TRUE,Cloudy,Evening,Dry,18-25,4,Medium,Learner,FALSE,95,Rajasthan,7,2,2143,Disputed
+04-06-2024,Sector 56,Bus,No Seatbelt,1000,FALSE,Rainy,Evening,Slippery,50+,3,Low,Suspended,FALSE,5,Punjab,7,2,856,Unpaid
+18-10-2024,Manesar Toll,Truck,Speeding,1192,FALSE,Rainy,Afternoon,Slippery,26-35,1,Medium,Expired,TRUE,72,Rajasthan,2,2,2897,Unpaid
+04-11-2024,NH-8,Car,Wrong-Side Driving,,FALSE,Clear,Night,Wet,50+,0,Low,Learner,TRUE,48,Delhi,1,3,3701,Unpaid
+11-09-2024,MG Road,Auto-rickshaw,Speeding,4807,FALSE,Stormy,Morning,Under Construction,26-35,0,Medium,Suspended,FALSE,18,Rajasthan,8,1,2140,Disputed
+13-08-2024,Manesar Toll,Truck,Red-Light Jump,1731,FALSE,Clear,Morning,Wet,26-35,1,Medium,Expired,TRUE,100,Delhi,8,3,1707,Unpaid
+13-04-2024,Sohna Road near Iris Tech Park,Bus,Red-Light Jump,3391,TRUE,Stormy,Night,Slippery,26-35,4,Low,Valid,TRUE,12,Rajasthan,3,2,655,Unpaid
+13-10-2024,Cyber City,Bike,Red-Light Jump,3982,FALSE,Foggy,Night,Slippery,50+,0,Low,Learner,TRUE,37,Haryana,5,1,3224,Disputed
+20-08-2024,Sohna Road near Iris Tech Park,Car,Red-Light Jump,2787,FALSE,Rainy,Morning,Dry,18-25,3,Low,Valid,FALSE,43,Punjab,1,3,3981,Paid
+13-09-2024,Cyber City,Bus,DUI,8530,FALSE,Clear,Morning,Under Construction,36-50,1,Medium,Learner,TRUE,28,Haryana,9,2,4643,Unpaid
+15-08-2024,Golf Course Road,Car,Wrong-Side Driving,6008,FALSE,Rainy,Morning,Dry,26-35,3,Low,Expired,FALSE,77,Rajasthan,8,3,2792,Paid
+01-09-2024,Sohna Road near Iris Tech Park,Bike,No Helmet,1000,TRUE,Foggy,Afternoon,Dry,50+,2,High,Suspended,TRUE,101,Delhi,7,1,704,Disputed
+14-12-2024,MG Road,Auto-rickshaw,No Seatbelt,1000,FALSE,Rainy,Evening,Wet,18-25,4,Medium,Suspended,TRUE,18,Punjab,2,3,1157,Unpaid
+08-06-2024,Udyog Vihar,Car,Speeding,4953,FALSE,Foggy,Evening,Dry,50+,5,High,Valid,TRUE,116,Punjab,1,2,1113,Unpaid
+16-03-2024,Sikanderpur,Auto-rickshaw,No Seatbelt,1000,FALSE,Rainy,Evening,Under Construction,36-50,1,Low,Valid,TRUE,67,Haryana,5,3,4506,Unpaid
+04-05-2024,Huda City Center,Truck,No Seatbelt,1000,FALSE,Foggy,Afternoon,Wet,18-25,3,Medium,Learner,TRUE,58,Delhi,6,1,4164,Disputed
+28-11-2024,Sector 56,Auto-rickshaw,Red-Light Jump,3077,TRUE,Foggy,Afternoon,Slippery,26-35,1,High,Learner,TRUE,105,Punjab,3,2,3961,Unpaid
+05-06-2024,Sector 56,Truck,Red-Light Jump,3508,FALSE,Foggy,Afternoon,Slippery,36-50,4,High,Valid,FALSE,86,Punjab,9,3,4514,Paid
+26-01-2024,NH-8,Bike,DUI,8949,FALSE,Stormy,Evening,Slippery,50+,3,High,Suspended,TRUE,50,Haryana,8,1,3483,Unpaid
+27-12-2024,Sector 56,Auto-rickshaw,No Seatbelt,1000,FALSE,Clear,Afternoon,Slippery,26-35,4,High,Expired,FALSE,24,Punjab,2,1,1886,Unpaid
+14-08-2024,Golf Course Road,Truck,Speeding,3386,TRUE,Rainy,Night,Under Construction,50+,5,Medium,Expired,FALSE,97,Rajasthan,3,2,3319,Disputed
+27-02-2024,IFFCO Chowk,Bike,Speeding,2113,TRUE,Cloudy,Evening,Slippery,26-35,3,Medium,Valid,TRUE,106,Haryana,4,1,1283,Unpaid
+12-05-2024,Golf Course Road,Bike,Red-Light Jump,2980,FALSE,Clear,Evening,Under Construction,50+,1,High,Expired,TRUE,44,Delhi,4,1,4892,Unpaid
+15-06-2024,Sector 29,Truck,Red-Light Jump,4613,TRUE,Rainy,Night,Under Construction,18-25,1,Medium,Suspended,TRUE,73,Haryana,9,3,1800,Unpaid
+16-04-2024,Signature Tower Chowk,Bike,Speeding,3781,FALSE,Foggy,Evening,Slippery,50+,4,Low,Learner,FALSE,87,Rajasthan,3,2,2163,Paid
+01-01-2024,Rajiv Chowk,Auto-rickshaw,DUI,9039,FALSE,Stormy,Evening,Wet,26-35,2,Low,Suspended,FALSE,18,Haryana,10,3,2437,Disputed
+08-10-2024,Manesar Toll,Auto-rickshaw,Wrong-Side Driving,4337,TRUE,Rainy,Afternoon,Under Construction,18-25,3,High,Valid,FALSE,111,Rajasthan,6,3,4851,Unpaid
+06-06-2024,Manesar Toll,Auto-rickshaw,No Seatbelt,1000,FALSE,Clear,Afternoon,Under Construction,36-50,4,Low,Valid,TRUE,102,Haryana,3,1,797,Paid
+16-02-2024,Sheetala Mata Road,Auto-rickshaw,Wrong-Side Driving,5304,FALSE,Stormy,Afternoon,Under Construction,36-50,2,Medium,Learner,TRUE,20,Uttar Pradesh,3,1,976,Disputed
+05-11-2024,MG Road,Bike,No Helmet,1000,FALSE,Stormy,Afternoon,Slippery,26-35,3,Low,Learner,FALSE,108,Delhi,3,3,4827,Disputed
+12-11-2024,Sohna Road near Iris Tech Park,Car,No Seatbelt,1000,FALSE,Rainy,Night,Under Construction,36-50,3,High,Suspended,TRUE,92,Punjab,4,3,1902,Disputed
+03-06-2024,Rajiv Chowk,Auto-rickshaw,No Seatbelt,1000,FALSE,Cloudy,Night,Dry,50+,2,Low,Suspended,TRUE,18,Haryana,4,1,547,Disputed
+07-05-2024,Udyog Vihar,Bike,Wrong-Side Driving,4235,TRUE,Clear,Afternoon,Wet,50+,3,Low,Valid,TRUE,47,Rajasthan,7,3,654,Disputed
+24-12-2024,Golf Course Road,Auto-rickshaw,DUI,8866,FALSE,Foggy,Evening,Slippery,26-35,1,High,Suspended,FALSE,90,Uttar Pradesh,9,1,903,Unpaid
+18-11-2024,Huda City Center,Truck,No Seatbelt,1000,TRUE,Cloudy,Afternoon,Slippery,50+,3,High,Learner,TRUE,63,Rajasthan,5,1,4415,Paid
+21-01-2024,Sohna Road near Iris Tech Park,Auto-rickshaw,Red-Light Jump,2465,FALSE,Stormy,Afternoon,Dry,50+,3,High,Learner,TRUE,47,Punjab,3,3,1264,Unpaid
+25-08-2024,Udyog Vihar,Truck,No Seatbelt,1000,TRUE,Stormy,Night,Under Construction,36-50,4,Medium,Learner,TRUE,56,Haryana,7,1,3804,Unpaid
+07-07-2024,IFFCO Chowk,Car,Speeding,4085,TRUE,Clear,Morning,Dry,36-50,5,Low,Learner,TRUE,101,Rajasthan,2,1,830,Paid
+17-11-2024,Cyber City,Truck,Red-Light Jump,2220,TRUE,Clear,Evening,Dry,36-50,1,Medium,Suspended,FALSE,91,Haryana,5,3,2753,Disputed
+06-11-2024,MG Road,Car,DUI,6574,FALSE,Rainy,Night,Under Construction,50+,1,Low,Learner,TRUE,23,Rajasthan,6,2,3078,Unpaid
+07-05-2024,Udyog Vihar,Auto-rickshaw,Speeding,2257,TRUE,Stormy,Afternoon,Dry,36-50,2,Medium,Suspended,TRUE,29,Delhi,5,1,2539,Paid
+02-01-2024,Manesar Toll,Car,No Seatbelt,1000,FALSE,Cloudy,Morning,Wet,26-35,5,Low,Valid,TRUE,94,Rajasthan,1,2,4734,Disputed
+08-08-2024,Sector 29,Auto-rickshaw,DUI,9700,FALSE,Clear,Afternoon,Slippery,50+,3,Medium,Valid,FALSE,46,Punjab,3,2,3903,Disputed
+14-01-2024,Cyber City,Auto-rickshaw,No Seatbelt,1000,TRUE,Rainy,Morning,Under Construction,26-35,0,Low,Valid,FALSE,114,Uttar Pradesh,7,3,4674,Paid
+25-12-2024,Sector 56,Auto-rickshaw,Red-Light Jump,,TRUE,Foggy,Evening,Under Construction,26-35,2,Low,Valid,FALSE,2,Haryana,1,3,2276,Unpaid
+17-07-2024,Sikanderpur,Truck,Red-Light Jump,1591,FALSE,Clear,Afternoon,Under Construction,18-25,0,Low,Valid,TRUE,9,Haryana,10,3,3282,Disputed
+09-05-2024,Sheetala Mata Road,Auto-rickshaw,Speeding,1822,FALSE,Clear,Night,Under Construction,50+,2,High,Expired,TRUE,95,Delhi,6,1,1871,Disputed
+25-11-2024,Udyog Vihar,Truck,Speeding,1962,TRUE,Foggy,Afternoon,Under Construction,50+,3,High,Valid,TRUE,77,Delhi,8,1,1825,Unpaid
+16-08-2024,Sohna Road near Iris Tech Park,Car,No Seatbelt,1000,TRUE,Foggy,Morning,Dry,36-50,4,Medium,Learner,TRUE,105,Uttar Pradesh,9,3,1823,Disputed
+01-07-2024,Sohna Road near Iris Tech Park,Auto-rickshaw,DUI,7471,FALSE,Foggy,Evening,Slippery,18-25,4,Low,Expired,TRUE,56,Haryana,9,1,3439,Paid
+21-09-2024,Udyog Vihar,Bus,No Seatbelt,1000,FALSE,Rainy,Morning,Under Construction,50+,1,Low,Valid,FALSE,28,Uttar Pradesh,7,1,3341,Unpaid
+27-09-2024,Sikanderpur,Bike,Speeding,3177,FALSE,Foggy,Afternoon,Under Construction,36-50,2,Low,Suspended,FALSE,103,Haryana,4,2,1385,Unpaid
+20-01-2024,Rajiv Chowk,Truck,Red-Light Jump,4699,FALSE,Stormy,Night,Dry,26-35,2,Low,Expired,FALSE,93,Uttar Pradesh,2,1,4918,Unpaid
+23-08-2024,Udyog Vihar,Bike,No Helmet,1000,TRUE,Foggy,Evening,Slippery,36-50,2,Low,Valid,TRUE,56,Uttar Pradesh,3,1,4960,Disputed
+03-03-2024,NH-8,Car,Speeding,3940,TRUE,Stormy,Evening,Under Construction,26-35,5,Low,Expired,TRUE,119,Rajasthan,1,3,2264,Paid
+16-10-2024,IFFCO Chowk,Bike,DUI,5980,FALSE,Cloudy,Afternoon,Under Construction,36-50,1,Low,Expired,FALSE,95,Delhi,9,3,2472,Paid
+08-02-2024,Rajiv Chowk,Truck,Wrong-Side Driving,5590,FALSE,Cloudy,Afternoon,Wet,36-50,5,Low,Learner,FALSE,38,Uttar Pradesh,4,2,3962,Disputed
+15-11-2024,Huda City Center,Bike,DUI,8363,FALSE,Foggy,Night,Wet,36-50,1,High,Suspended,FALSE,70,Delhi,7,3,1381,Paid
+05-03-2024,Sector 29,Truck,Wrong-Side Driving,5732,FALSE,Cloudy,Morning,Wet,50+,4,High,Valid,TRUE,102,Uttar Pradesh,6,3,1800,Unpaid
+05-06-2024,Signature Tower Chowk,Bus,Speeding,1523,FALSE,Cloudy,Evening,Slippery,50+,2,Low,Valid,FALSE,6,Rajasthan,8,1,3878,Disputed
+20-05-2024,Golf Course Road,Car,DUI,6802,FALSE,Cloudy,Afternoon,Under Construction,18-25,4,High,Suspended,FALSE,49,Uttar Pradesh,9,1,3834,Disputed
+08-09-2024,Huda City Center,Auto-rickshaw,No Seatbelt,1000,FALSE,Stormy,Night,Dry,26-35,1,Medium,Expired,FALSE,103,Rajasthan,4,2,2884,Paid
+20-02-2024,Huda City Center,Car,Wrong-Side Driving,4662,FALSE,Stormy,Afternoon,Under Construction,26-35,5,High,Expired,TRUE,110,Rajasthan,8,3,1893,Unpaid
+12-11-2024,Cyber City,Auto-rickshaw,DUI,,TRUE,Clear,Morning,Slippery,36-50,5,High,Learner,FALSE,51,Delhi,1,1,2755,Paid
+06-12-2024,Sector 29,Bus,Speeding,1701,TRUE,Stormy,Evening,Wet,26-35,2,High,Valid,TRUE,73,Rajasthan,8,1,1523,Unpaid
+28-04-2024,Udyog Vihar,Bus,DUI,6798,FALSE,Foggy,Evening,Wet,26-35,10,Medium,Valid,FALSE,60,Punjab,10,2,4098,Paid
+05-08-2024,Sheetala Mata Road,Bus,No Seatbelt,1000,FALSE,Clear,Afternoon,Wet,18-25,2,Low,Suspended,TRUE,37,Delhi,9,1,4642,Disputed
+01-01-2024,Sector 56,Truck,Red-Light Jump,3653,FALSE,Stormy,Night,Under Construction,26-35,3,Medium,Valid,FALSE,117,Rajasthan,10,2,573,Unpaid
+13-10-2024,Manesar Toll,Bus,DUI,8150,FALSE,Stormy,Night,Wet,36-50,0,Medium,Suspended,TRUE,29,Delhi,5,1,3596,Paid
+18-05-2024,Signature Tower Chowk,Car,Red-Light Jump,3256,FALSE,Rainy,Evening,Dry,36-50,2,Low,Suspended,TRUE,11,Haryana,6,1,1606,Paid
+07-03-2024,Sector 56,Bike,Red-Light Jump,,TRUE,Rainy,Night,Slippery,36-50,2,Medium,Learner,FALSE,96,Haryana,7,3,3923,Paid
+20-06-2024,Sohna Road near Iris Tech Park,Bike,DUI,5779,FALSE,Rainy,Evening,Dry,50+,2,High,Expired,FALSE,38,Delhi,7,1,4666,Disputed
+15-01-2024,Sector 56,Bus,DUI,5002,FALSE,Stormy,Evening,Wet,26-35,1,Medium,Learner,FALSE,116,Delhi,6,3,2094,Paid
+02-01-2024,Huda City Center,Bike,Speeding,1522,TRUE,Cloudy,Morning,Under Construction,18-25,3,Medium,Expired,FALSE,86,Punjab,7,3,4737,Paid
+24-01-2024,Sector 29,Auto-rickshaw,No Seatbelt,1000,TRUE,Stormy,Morning,Under Construction,36-50,5,High,Learner,TRUE,63,Punjab,8,2,2835,Unpaid
+21-02-2024,IFFCO Chowk,Bike,Red-Light Jump,3157,TRUE,Cloudy,Night,Slippery,26-35,2,Medium,Learner,FALSE,101,Punjab,1,3,2434,Disputed
+27-10-2024,Sector 29,Auto-rickshaw,Wrong-Side Driving,3705,TRUE,Stormy,Evening,Under Construction,50+,1,Low,Learner,FALSE,112,Punjab,4,2,4181,Paid
+05-08-2024,NH-8,Bike,DUI,7887,FALSE,Clear,Morning,Under Construction,26-35,2,High,Valid,FALSE,111,Haryana,4,3,3130,Disputed
+25-03-2024,Sohna Road near Iris Tech Park,Truck,Wrong-Side Driving,6178,FALSE,Stormy,Night,Wet,50+,1,High,Learner,FALSE,29,Rajasthan,9,3,1608,Disputed
+23-03-2024,Rajiv Chowk,Bike,No Helmet,1000,TRUE,Stormy,Evening,Slippery,26-35,1,Medium,Learner,FALSE,3,Delhi,6,3,3241,Paid
+27-03-2024,MG Road,Truck,No Seatbelt,1000,FALSE,Cloudy,Night,Under Construction,50+,5,Medium,Learner,FALSE,11,Rajasthan,1,2,2142,Paid
+11-01-2024,Manesar Toll,Auto-rickshaw,Speeding,1818,TRUE,Rainy,Morning,Wet,36-50,1,High,Suspended,TRUE,93,Rajasthan,6,2,2239,Paid
+09-11-2024,Sheetala Mata Road,Bus,Red-Light Jump,1597,FALSE,Stormy,Afternoon,Slippery,50+,4,Medium,Learner,FALSE,113,Rajasthan,6,3,2710,Paid
+13-04-2024,IFFCO Chowk,Car,Speeding,4207,TRUE,Foggy,Evening,Wet,26-35,3,High,Valid,FALSE,88,Delhi,9,3,988,Paid
+10-09-2024,Sohna Road near Iris Tech Park,Car,Red-Light Jump,4283,FALSE,Rainy,Night,Slippery,50+,1,Low,Learner,TRUE,31,Haryana,1,1,2591,Paid
+27-04-2024,Golf Course Road,Bike,Wrong-Side Driving,2950,FALSE,Cloudy,Morning,Wet,26-35,0,High,Expired,TRUE,101,Haryana,4,2,1288,Unpaid
+19-07-2024,Manesar Toll,Bus,Red-Light Jump,3767,FALSE,Stormy,Afternoon,Slippery,26-35,5,Low,Expired,FALSE,4,Rajasthan,6,3,2189,Paid
+01-08-2024,MG Road,Bus,DUI,8494,FALSE,Foggy,Evening,Wet,18-25,3,High,Valid,TRUE,22,Haryana,3,1,1196,Disputed
+05-05-2024,Rajiv Chowk,Bike,Speeding,1083,TRUE,Stormy,Afternoon,Under Construction,36-50,3,Low,Valid,FALSE,101,Delhi,3,3,2523,Unpaid
+09-06-2024,Cyber City,Bike,DUI,8376,FALSE,Rainy,Evening,Wet,26-35,1,High,Expired,FALSE,33,Haryana,9,2,3103,Unpaid
+09-02-2024,NH-8,Bus,Red-Light Jump,3230,TRUE,Rainy,Afternoon,Dry,26-35,2,High,Expired,FALSE,48,Delhi,8,1,2982,Unpaid
+10-04-2024,Cyber City,Auto-rickshaw,DUI,8389,FALSE,Stormy,Afternoon,Dry,36-50,4,Low,Expired,TRUE,18,Haryana,6,1,4594,Disputed
+21-06-2024,Huda City Center,Bus,Wrong-Side Driving,2666,FALSE,Rainy,Night,Wet,18-25,2,Medium,Suspended,TRUE,71,Delhi,10,2,2660,Paid
+01-02-2024,IFFCO Chowk,Truck,Wrong-Side Driving,3723,TRUE,Rainy,Evening,Slippery,50+,4,Medium,Learner,TRUE,49,Rajasthan,1,1,1366,Disputed
+13-08-2024,Golf Course Road,Car,Red-Light Jump,4237,FALSE,Stormy,Afternoon,Under Construction,36-50,5,High,Valid,TRUE,79,Rajasthan,7,3,4629,Unpaid
+18-03-2024,Sector 56,Auto-rickshaw,Speeding,,FALSE,Stormy,Afternoon,Wet,18-25,1,Medium,Suspended,TRUE,109,Haryana,8,3,4207,Disputed
+02-08-2024,Sheetala Mata Road,Auto-rickshaw,Red-Light Jump,3052,FALSE,Rainy,Evening,Under Construction,50+,5,Low,Learner,FALSE,16,Rajasthan,1,3,1825,Paid
+06-09-2024,Udyog Vihar,Bus,Wrong-Side Driving,6988,FALSE,Clear,Night,Slippery,18-25,5,Medium,Expired,TRUE,32,Uttar Pradesh,9,2,3279,Disputed
+02-07-2024,NH-8,Bike,Speeding,4403,TRUE,Foggy,Afternoon,Under Construction,36-50,3,Medium,Suspended,TRUE,52,Rajasthan,9,3,1006,Paid
+17-05-2024,Sheetala Mata Road,Car,Wrong-Side Driving,4176,TRUE,Cloudy,Afternoon,Dry,26-35,2,Low,Valid,TRUE,65,Uttar Pradesh,6,1,4274,Unpaid
+24-01-2024,NH-8,Bus,Wrong-Side Driving,7452,TRUE,Stormy,Night,Under Construction,26-35,1,High,Valid,TRUE,119,Delhi,5,3,1284,Paid
+23-12-2024,Udyog Vihar,Truck,Speeding,3435,FALSE,Cloudy,Evening,Dry,36-50,1,Medium,Valid,TRUE,21,Delhi,2,1,2559,Paid
+10-02-2024,NH-8,Auto-rickshaw,Speeding,3892,FALSE,Foggy,Afternoon,Under Construction,36-50,4,Medium,Learner,TRUE,80,Punjab,9,3,1527,Paid
+13-01-2024,Cyber City,Auto-rickshaw,Wrong-Side Driving,5617,FALSE,Rainy,Morning,Under Construction,18-25,5,High,Valid,TRUE,72,Punjab,8,3,547,Unpaid
+08-09-2024,Sikanderpur,Auto-rickshaw,Wrong-Side Driving,2907,FALSE,Rainy,Afternoon,Dry,50+,0,Low,Learner,TRUE,6,Haryana,9,1,4702,Unpaid
+09-12-2024,Sohna Road near Iris Tech Park,Car,Wrong-Side Driving,,TRUE,Cloudy,Evening,Dry,36-50,3,Low,Valid,TRUE,57,Haryana,4,2,2038,Unpaid
+01-10-2024,Signature Tower Chowk,Truck,Wrong-Side Driving,2570,FALSE,Stormy,Afternoon,Under Construction,26-35,2,Medium,Expired,FALSE,114,Delhi,3,2,4169,Paid
+03-08-2024,MG Road,Car,No Seatbelt,1000,TRUE,Cloudy,Evening,Wet,26-35,3,High,Expired,TRUE,37,Delhi,2,3,2648,Disputed
+18-01-2024,NH-8,Car,DUI,43125,FALSE,Rainy,Evening,Wet,36-50,5,High,Valid,TRUE,3,Haryana,10,1,3722,Unpaid
+14-12-2024,Sohna Road near Iris Tech Park,Truck,Red-Light Jump,2848,FALSE,Clear,Afternoon,Slippery,18-25,0,Low,Expired,TRUE,113,Punjab,8,2,2983,Unpaid
+27-09-2024,Sector 56,Car,No Seatbelt,1000,FALSE,Stormy,Night,Dry,26-35,2,Low,Learner,FALSE,18,Haryana,10,3,1755,Disputed
+10-07-2024,Rajiv Chowk,Car,DUI,9857,FALSE,Foggy,Evening,Wet,18-25,5,Medium,Suspended,TRUE,83,Delhi,10,2,977,Disputed
+18-09-2024,Sheetala Mata Road,Bike,No Helmet,1000,FALSE,Rainy,Morning,Dry,26-35,1,High,Valid,FALSE,73,Delhi,1,3,912,Paid
+20-05-2024,Sector 29,Truck,Wrong-Side Driving,2476,FALSE,Clear,Morning,Under Construction,26-35,1,Medium,Learner,TRUE,40,Delhi,4,1,1260,Paid
+13-10-2024,Sector 56,Car,Speeding,1417,FALSE,Foggy,Night,Dry,36-50,2,High,Learner,FALSE,14,Rajasthan,4,2,1817,Unpaid
+15-08-2024,Huda City Center,Bike,Red-Light Jump,3857,TRUE,Clear,Evening,Slippery,26-35,2,High,Expired,FALSE,66,Punjab,1,1,1351,Unpaid
+17-04-2024,Sheetala Mata Road,Car,Wrong-Side Driving,7712,FALSE,Clear,Night,Wet,36-50,3,High,Expired,FALSE,110,Punjab,10,1,1048,Disputed
+13-01-2024,Sector 29,Bike,DUI,8843,TRUE,Clear,Night,Wet,36-50,2,Medium,Expired,TRUE,59,Delhi,3,2,2206,Unpaid
+13-08-2024,MG Road,Bus,Red-Light Jump,4145,FALSE,Cloudy,Evening,Under Construction,26-35,1,High,Valid,FALSE,45,Rajasthan,8,3,1632,Disputed
